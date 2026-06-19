@@ -647,6 +647,46 @@ select {
   line-height: 1.4;
 }
 
+.watch-list {
+  display: grid;
+  gap: 8px;
+}
+
+.watch-item {
+  display: grid;
+  gap: 6px;
+  padding: 12px;
+  background: #fffdf8;
+  border: 1px solid #eadfcd;
+}
+
+.watch-item div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.watch-item span {
+  color: #7a4752;
+  font-size: 12px;
+}
+
+.watch-item time {
+  color: #75818e;
+  font-size: 12px;
+}
+
+.watch-item strong {
+  color: #303d4b;
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+.watch-item:hover strong {
+  color: #bf3e24;
+}
+
 .archive-list {
   display: grid;
   gap: 8px;

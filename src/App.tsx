@@ -56,6 +56,25 @@ const boardCopy: Record<Board, { name: string; eyebrow: string; icon: typeof Fac
   company: { name: "主机厂信息", eyebrow: "公告、经营动态、公司数据", icon: Building2 },
 };
 
+const directIndustryWords = [
+  "工程机械",
+  "建筑设备",
+  "施工机械",
+  "矿山机械",
+  "土方机械",
+  "工业车辆",
+  "高空作业平台",
+  "中国工程机械工业协会",
+  "开工率",
+  "作业小时",
+  "开工小时",
+  "代理商库存",
+  "渠道库存",
+  "主机厂",
+  "液压件",
+  "工程机械零部件",
+];
+
 function parseDate(value: string) {
   const time = Date.parse(value);
   return Number.isNaN(time) ? new Date(0) : new Date(time);
@@ -119,6 +138,17 @@ function formatRangeLabel(range: TimeRange, startDate: string, endDate: string) 
     return `${startDate || "最早"} 至 ${endDate || "最新"}`;
   }
   return timeRanges.find((item) => item.key === range)?.label ?? "全部";
+}
+
+function isFinanceMedia(item: NewsItem) {
+  return item.sourceType === "finance_media" || item.source === "财联社" || item.source === "第一财经";
+}
+
+function isDirectIndustryNews(item: NewsItem) {
+  if (!isFinanceMedia(item)) return true;
+  if (item.companyCodes.length > 0 || item.productTags.length > 0) return true;
+  const text = `${item.title} ${item.summary}`;
+  return directIndustryWords.some((word) => text.includes(word));
 }
 
 function uniq<T>(items: T[]) {
@@ -186,7 +216,7 @@ export function App() {
     [activeBoard, data.sources],
   );
 
-  const filteredNews = useMemo(() => {
+  const baseFilteredNews = useMemo(() => {
     const text = query.trim().toLowerCase();
     return data.news
       .filter((item) => item.board === activeBoard)
@@ -200,6 +230,16 @@ export function App() {
       })
       .sort((a, b) => parseDate(b.publishedAt).getTime() - parseDate(a.publishedAt).getTime());
   }, [activeBoard, company, data.news, endDate, product, query, startDate, timeRange, topic]);
+
+  const filteredNews = useMemo(
+    () => baseFilteredNews.filter((item) => !isFinanceMedia(item) || isDirectIndustryNews(item)),
+    [baseFilteredNews],
+  );
+
+  const newsWatchItems = useMemo(
+    () => baseFilteredNews.filter((item) => isFinanceMedia(item) && !isDirectIndustryNews(item)),
+    [baseFilteredNews],
+  );
 
   const filteredMetrics = useMemo(() => {
     const text = query.trim().toLowerCase();
@@ -464,7 +504,7 @@ export function App() {
               <div className="section-heading">
                 <div>
                   <h3>最新收纳</h3>
-                  <p>只展示锁定来源的新闻、公告、政策和数据发布</p>
+                  <p>政府机构、工程机械渠道，以及强相关财经新闻</p>
                 </div>
                 <span>{filteredNews.length} 条</span>
               </div>
@@ -525,6 +565,30 @@ export function App() {
                   </a>
                 ))}
               </div>
+
+              {activeBoard === "industry" && (
+                <>
+                  <div className="section-heading compact">
+                    <div>
+                      <h3>财经新闻观察</h3>
+                      <p>间接相关的宏观、市场与产业新闻</p>
+                    </div>
+                    <FileText size={18} />
+                  </div>
+                  <div className="watch-list">
+                    {newsWatchItems.length === 0 && <EmptyState label="暂无侧栏新闻。" />}
+                    {newsWatchItems.slice(0, 12).map((item) => (
+                      <a href={item.url} target="_blank" rel="noreferrer" className="watch-item" key={item.id}>
+                        <div>
+                          <span>{item.source}</span>
+                          <time>{formatDate(item.publishedAt)}</time>
+                        </div>
+                        <strong>{item.title}</strong>
+                      </a>
+                    ))}
+                  </div>
+                </>
+              )}
 
               <div className="section-heading compact">
                 <div>

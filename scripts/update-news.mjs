@@ -377,10 +377,80 @@ function detectMetricTypes(text) {
 
 function shouldKeep(source, text) {
   if (source.board === "company") return detectCompanies(text).length > 0 || source.id === "cninfo";
+  if (source.sourceType === "finance_media") return hasFinanceNewsRelevance(text);
   if (source.sourceType === "local_policy" || source.sourceType === "central_policy") {
     return topicKeywords.some((word) => text.includes(word)) || /政策|通知|意见|方案|规划|措施|行动/.test(text);
   }
   return topicKeywords.some((word) => text.includes(word)) || detectMetricTypes(text).length > 0;
+}
+
+function hasDirectIndustryRelevance(text) {
+  if (detectProducts(text).length > 0) return true;
+  if (detectCompanies(text).length > 0) return true;
+
+  const directWords = [
+    "工程机械",
+    "工程机械行业",
+    "工程机械工业",
+    "中国工程机械工业协会",
+    "建筑设备",
+    "施工机械",
+    "矿山机械",
+    "土方机械",
+    "工业车辆",
+    "高空作业平台",
+    "开工率",
+    "作业小时",
+    "开工小时",
+    "设备平均作业小时",
+    "代理商库存",
+    "渠道库存",
+    "主机厂",
+  ];
+  if (directWords.some((word) => text.includes(word))) return true;
+
+  const componentWords = ["液压件", "液压系统", "工程机械零部件", "挖机油缸", "工程机械发动机"];
+  return componentWords.some((word) => text.includes(word));
+}
+
+function hasFinanceNewsRelevance(text) {
+  if (hasDirectIndustryRelevance(text)) return true;
+
+  const macroWords = [
+    "基建",
+    "基础设施",
+    "专项债",
+    "重大项目",
+    "固定资产投资",
+    "房地产开发投资",
+    "房地产投资",
+    "制造业投资",
+    "制造业技改",
+    "设备更新",
+    "更新改造",
+    "大规模设备更新",
+    "矿山",
+    "采矿业",
+    "煤炭",
+    "港口",
+    "铁路",
+    "公路",
+    "水利",
+    "钢材",
+    "钢铁",
+    "螺纹钢",
+    "热卷",
+    "液压",
+    "发动机",
+    "出口",
+    "进口",
+    "海关",
+    "重卡",
+    "机械设备",
+    "装备制造",
+  ];
+
+  return macroWords.some((word) => text.includes(word));
 }
 
 function shouldHydrateSource(source) {
@@ -424,6 +494,8 @@ function isConcreteContentUrl(source, url, title = "") {
 function isValidStoredItem(item) {
   if (/product\.d1cm\.com|\/product\//i.test(item.url)) return false;
   if (item.source === "第一工程机械网" && !/news\.d1cm\.com\/20\d+\.shtml/i.test(item.url)) return false;
+  if (item.source === "财联社" && !hasFinanceNewsRelevance(`${item.title} ${item.summary}`)) return false;
+  if (item.source === "第一财经" && !hasFinanceNewsRelevance(`${item.title} ${item.summary}`)) return false;
   if (isPortalOrColumnUrl(item.url, item.title)) return false;
   return true;
 }
