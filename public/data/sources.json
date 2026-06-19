@@ -1,0 +1,156 @@
+[
+  {
+    "id": "ndrc-policy",
+    "name": "发改委政策发布",
+    "board": "industry",
+    "type": "central_policy",
+    "url": "https://www.ndrc.gov.cn/xxgk/zcfb/"
+  },
+  {
+    "id": "miit-policy",
+    "name": "工信部政策文件",
+    "board": "industry",
+    "type": "central_policy",
+    "url": "https://www.miit.gov.cn/zwgk/zcwj/index.html"
+  },
+  {
+    "id": "mof-policy",
+    "name": "财政部政策发布",
+    "board": "industry",
+    "type": "central_policy",
+    "url": "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/"
+  },
+  {
+    "id": "mot-policy",
+    "name": "交通运输部政策",
+    "board": "industry",
+    "type": "central_policy",
+    "url": "https://xxgk.mot.gov.cn/zhengce/740/826/iframe_list_7232_18.html"
+  },
+  {
+    "id": "mnr-policy",
+    "name": "自然资源部政策",
+    "board": "industry",
+    "type": "central_policy",
+    "url": "https://www.mnr.gov.cn/gk/tzgg/"
+  },
+  {
+    "id": "mem-policy",
+    "name": "应急管理部公开",
+    "board": "industry",
+    "type": "central_policy",
+    "url": "https://www.mem.gov.cn/gk/zfxxgkpt/fdzdgknr/"
+  },
+  {
+    "id": "shandong-policy",
+    "name": "山东省政策",
+    "board": "industry",
+    "type": "local_policy",
+    "url": "http://www.shandong.gov.cn/col/col94091/index.html"
+  },
+  {
+    "id": "jiangsu-policy",
+    "name": "江苏省政策",
+    "board": "industry",
+    "type": "local_policy",
+    "url": "https://www.jiangsu.gov.cn/col/col64797/index.html"
+  },
+  {
+    "id": "guangdong-policy",
+    "name": "广东省政策",
+    "board": "industry",
+    "type": "local_policy",
+    "url": "https://www.gd.gov.cn/zwgk/wjk/"
+  },
+  {
+    "id": "sichuan-policy",
+    "name": "四川省政策",
+    "board": "industry",
+    "type": "local_policy",
+    "url": "https://www.sc.gov.cn/10462/c110518/list_ft.shtml"
+  },
+  {
+    "id": "henan-policy",
+    "name": "河南省政务公开",
+    "board": "industry",
+    "type": "local_policy",
+    "url": "https://www.henan.gov.cn/zwgk/"
+  },
+  {
+    "id": "hubei-policy",
+    "name": "湖北省政府文件",
+    "board": "industry",
+    "type": "local_policy",
+    "url": "https://www.hubei.gov.cn/zfwj/"
+  },
+  {
+    "id": "zhejiang-policy",
+    "name": "浙江省政策文件",
+    "board": "industry",
+    "type": "local_policy",
+    "url": "https://www.zj.gov.cn/col/col1229017138/index.html"
+  },
+  {
+    "id": "hebei-policy",
+    "name": "河北省政府",
+    "board": "industry",
+    "type": "local_policy",
+    "url": "https://www.hebei.gov.cn/"
+  },
+  {
+    "id": "stats-data",
+    "name": "国家统计局数据发布",
+    "board": "industry",
+    "type": "official_data",
+    "url": "https://www.stats.gov.cn/sj/zxfb/"
+  },
+  {
+    "id": "customs-data",
+    "name": "海关总署统计数据",
+    "board": "industry",
+    "type": "official_data",
+    "url": "https://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/index.html"
+  },
+  {
+    "id": "cncma",
+    "name": "中国工程机械工业协会",
+    "board": "industry",
+    "type": "association",
+    "url": "http://www.cncma.org/"
+  },
+  {
+    "id": "d1cm",
+    "name": "第一工程机械网",
+    "board": "industry",
+    "type": "industry_media",
+    "url": "https://news.d1cm.com/"
+  },
+  {
+    "id": "cls",
+    "name": "财联社",
+    "board": "industry",
+    "type": "finance_media",
+    "url": "https://www.cls.cn/"
+  },
+  {
+    "id": "yicai",
+    "name": "第一财经",
+    "board": "industry",
+    "type": "finance_media",
+    "url": "https://www.yicai.com/news/"
+  },
+  {
+    "id": "hkex-latest",
+    "name": "香港交易所披露易",
+    "board": "company",
+    "type": "exchange_disclosure",
+    "url": "https://www1.hkexnews.hk/r.php?locale=zh_CN"
+  },
+  {
+    "id": "cninfo",
+    "name": "巨潮资讯网",
+    "board": "company",
+    "type": "exchange_disclosure",
+    "url": "https://www.cninfo.com.cn/new/commonUrl?url=disclosure/list/notice"
+  }
+]

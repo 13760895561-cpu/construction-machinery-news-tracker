@@ -1,0 +1,27 @@
+{
+  "name": "construction-machinery-news-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "update": "node scripts/update-news.mjs",
+    "check": "npm run update && npm run build"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "cheerio": "^1.1.2",
+    "date-fns": "^4.1.0",
+    "iconv-lite": "^0.7.0",
+    "lucide-react": "^0.468.0",
+    "rss-parser": "^3.13.0",
+    "vite": "^6.0.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}

@@ -1,0 +1,258 @@
+[
+  {
+    "id": "central-ndrc",
+    "name": "发改委",
+    "board": "industry",
+    "group": "中央政策",
+    "url": "https://www.ndrc.gov.cn/xxgk/zcfb/",
+    "description": "宏观、投资、重大项目和设备更新政策"
+  },
+  {
+    "id": "central-miit",
+    "name": "工信部",
+    "board": "industry",
+    "group": "中央政策",
+    "url": "https://www.miit.gov.cn/zwgk/zcwj/index.html",
+    "description": "装备制造、制造业技改和产业政策"
+  },
+  {
+    "id": "central-mof",
+    "name": "财政部",
+    "board": "industry",
+    "group": "中央政策",
+    "url": "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/",
+    "description": "专项债、财政支持和税费政策"
+  },
+  {
+    "id": "central-mot",
+    "name": "交通运输部",
+    "board": "industry",
+    "group": "中央政策",
+    "url": "https://xxgk.mot.gov.cn/zhengce/740/826/iframe_list_7232_18.html",
+    "description": "公路、港口、物流和交通投资政策"
+  },
+  {
+    "id": "central-mnr",
+    "name": "自然资源部",
+    "board": "industry",
+    "group": "中央政策",
+    "url": "https://gk.mnr.gov.cn/",
+    "description": "矿山、土地、国土空间和资源政策"
+  },
+  {
+    "id": "central-mem",
+    "name": "应急管理部",
+    "board": "industry",
+    "group": "中央政策",
+    "url": "https://www.mem.gov.cn/gk/zfxxgkpt/fdzdgknr/",
+    "description": "安全生产、应急装备和矿山安全政策"
+  },
+  {
+    "id": "province-shandong",
+    "name": "山东",
+    "board": "industry",
+    "group": "地方政策",
+    "url": "http://www.shandong.gov.cn/col/col94091/index.html",
+    "description": "重点基建大省政策"
+  },
+  {
+    "id": "province-jiangsu",
+    "name": "江苏",
+    "board": "industry",
+    "group": "地方政策",
+    "url": "https://www.jiangsu.gov.cn/col/col64797/index.html",
+    "description": "重点基建大省政策"
+  },
+  {
+    "id": "province-guangdong",
+    "name": "广东",
+    "board": "industry",
+    "group": "地方政策",
+    "url": "https://www.gd.gov.cn/zwgk/wjk/",
+    "description": "重点基建大省政策"
+  },
+  {
+    "id": "province-sichuan",
+    "name": "四川",
+    "board": "industry",
+    "group": "地方政策",
+    "url": "https://www.sc.gov.cn/10462/c110518/list_ft.shtml",
+    "description": "重点基建大省政策"
+  },
+  {
+    "id": "province-henan",
+    "name": "河南",
+    "board": "industry",
+    "group": "地方政策",
+    "url": "https://www.henan.gov.cn/zwgk/",
+    "description": "重点基建大省政策"
+  },
+  {
+    "id": "province-hubei",
+    "name": "湖北",
+    "board": "industry",
+    "group": "地方政策",
+    "url": "https://www.hubei.gov.cn/zfwj/",
+    "description": "重点基建大省政策"
+  },
+  {
+    "id": "province-zhejiang",
+    "name": "浙江",
+    "board": "industry",
+    "group": "地方政策",
+    "url": "https://www.zj.gov.cn/col/col1229017138/index.html",
+    "description": "重点基建大省政策"
+  },
+  {
+    "id": "province-hebei",
+    "name": "河北",
+    "board": "industry",
+    "group": "地方政策",
+    "url": "https://www.hebei.gov.cn/",
+    "description": "重点基建大省政策"
+  },
+  {
+    "id": "official-data",
+    "name": "权威数据",
+    "board": "industry",
+    "group": "行业数据",
+    "url": "https://www.stats.gov.cn/sj/",
+    "description": "统计局、海关、协会和行业媒体数据"
+  },
+  {
+    "id": "trade-data",
+    "name": "进出口",
+    "board": "industry",
+    "group": "行业数据",
+    "url": "https://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/index.html",
+    "description": "海关总署进出口数量、金额、价格与增速"
+  },
+  {
+    "id": "association-data",
+    "name": "协会数据",
+    "board": "industry",
+    "group": "行业数据",
+    "url": "http://www.cncma.org/",
+    "description": "中国工程机械工业协会行业统计"
+  },
+  {
+    "id": "company-600031",
+    "name": "三一重工",
+    "board": "company",
+    "group": "A股",
+    "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=600031&orgId=gssh0600031",
+    "description": "三一重工公告与经营动态"
+  },
+  {
+    "id": "company-000157",
+    "name": "中联重科",
+    "board": "company",
+    "group": "A股/H股",
+    "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=000157&orgId=gssz0000157",
+    "description": "中联重科公告与经营动态"
+  },
+  {
+    "id": "company-000425",
+    "name": "徐工机械",
+    "board": "company",
+    "group": "A股",
+    "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=000425&orgId=gssz0000425",
+    "description": "徐工机械公告与经营动态"
+  },
+  {
+    "id": "company-000528",
+    "name": "柳工",
+    "board": "company",
+    "group": "A股",
+    "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=000528&orgId=gssz0000528",
+    "description": "柳工公告与经营动态"
+  },
+  {
+    "id": "company-000680",
+    "name": "山推股份",
+    "board": "company",
+    "group": "A股",
+    "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=000680&orgId=gssz0000680",
+    "description": "山推股份公告与经营动态"
+  },
+  {
+    "id": "company-002097",
+    "name": "山河智能",
+    "board": "company",
+    "group": "A股",
+    "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=002097&orgId=gssz0002097",
+    "description": "山河智能公告与经营动态"
+  },
+  {
+    "id": "company-601100",
+    "name": "恒立液压",
+    "board": "company",
+    "group": "A股",
+    "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=601100&orgId=gssh0601100",
+    "description": "恒立液压公告与经营动态"
+  },
+  {
+    "id": "company-603638",
+    "name": "艾迪精密",
+    "board": "company",
+    "group": "A股",
+    "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=603638&orgId=gssh0603638",
+    "description": "艾迪精密公告与经营动态"
+  },
+  {
+    "id": "company-603338",
+    "name": "浙江鼎力",
+    "board": "company",
+    "group": "A股",
+    "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=603338&orgId=gssh0603338",
+    "description": "浙江鼎力公告与经营动态"
+  },
+  {
+    "id": "company-00631",
+    "name": "三一国际",
+    "board": "company",
+    "group": "H股",
+    "url": "https://www1.hkexnews.hk/search/titlesearch.xhtml?lang=zh",
+    "description": "三一国际公告与经营动态"
+  },
+  {
+    "id": "company-03339",
+    "name": "中国龙工",
+    "board": "company",
+    "group": "H股",
+    "url": "https://www1.hkexnews.hk/search/titlesearch.xhtml?lang=zh",
+    "description": "中国龙工公告与经营动态"
+  },
+  {
+    "id": "company-000338",
+    "name": "潍柴动力",
+    "board": "company",
+    "group": "A股/H股",
+    "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=000338&orgId=gssz0000338",
+    "description": "潍柴动力公告与经营动态"
+  },
+  {
+    "id": "company-301039",
+    "name": "中集车辆",
+    "board": "company",
+    "group": "A股/H股",
+    "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=301039&orgId=9900039661",
+    "description": "中集车辆公告与经营动态"
+  },
+  {
+    "id": "company-600761",
+    "name": "安徽合力",
+    "board": "company",
+    "group": "A股",
+    "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=600761&orgId=gssh0600761",
+    "description": "安徽合力公告与经营动态"
+  },
+  {
+    "id": "company-603298",
+    "name": "杭叉集团",
+    "board": "company",
+    "group": "A股",
+    "url": "https://www.cninfo.com.cn/new/disclosure/stock?stockCode=603298&orgId=gssh0603298",
+    "description": "杭叉集团公告与经营动态"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "excavator",
+    "name": "挖掘机"
+  },
+  {
+    "id": "loader",
+    "name": "装载机"
+  },
+  {
+    "id": "truck_crane",
+    "name": "汽车起重机"
+  },
+  {
+    "id": "crawler_crane",
+    "name": "履带起重机"
+  },
+  {
+    "id": "tower_crane",
+    "name": "塔式起重机"
+  },
+  {
+    "id": "forklift",
+    "name": "叉车"
+  },
+  {
+    "id": "bulldozer",
+    "name": "推土机"
+  },
+  {
+    "id": "roller",
+    "name": "压路机"
+  },
+  {
+    "id": "port_machine",
+    "name": "港机"
+  },
+  {
+    "id": "aerial_platform",
+    "name": "高空作业平台"
+  },
+  {
+    "id": "concrete_machine",
+    "name": "混凝土机械"
+  },
+  {
+    "id": "pile_machine",
+    "name": "桩工机械"
+  },
+  {
+    "id": "grader",
+    "name": "平地机"
+  },
+  {
+    "id": "scraper",
+    "name": "铲运机"
+  }
+]
