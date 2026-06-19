@@ -103,9 +103,16 @@ function uniq<T>(items: T[]) {
   return Array.from(new Set(items));
 }
 
+function dataPath(url: string) {
+  const base = import.meta.env.BASE_URL.endsWith("/")
+    ? import.meta.env.BASE_URL
+    : `${import.meta.env.BASE_URL}/`;
+  return `${base}${url.replace(/^\//, "")}`;
+}
+
 async function loadJson<T>(url: string, fallback: T): Promise<T> {
   try {
-    const response = await fetch(`${url}?v=${Date.now()}`, { cache: "no-store" });
+    const response = await fetch(`${dataPath(url)}?v=${Date.now()}`, { cache: "no-store" });
     if (!response.ok) return fallback;
     return await response.json();
   } catch {
