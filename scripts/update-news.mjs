@@ -175,6 +175,7 @@ async function fetchHtmlIndex(source, collectedAt) {
     if (!href || href.startsWith("javascript:")) return;
     if (/product\.d1cm\.com|\/product\//i.test(href)) return;
     if (source.id === "d1cm" && !/news\.d1cm\.com\/20\d+\.shtml/i.test(href)) return;
+    if (!isConcreteContentUrl(source, href, title)) return;
 
     const context = cleanText(anchor.parent().text() || anchor.closest("li, tr, div").text());
     const searchable = `${title} ${context}`;
@@ -386,10 +387,64 @@ function shouldHydrateSource(source) {
   return ["official_data", "association", "industry_media", "finance_media"].includes(source.sourceType);
 }
 
+function isConcreteContentUrl(source, url, title = "") {
+  let parsed;
+  let sourceParsed;
+  try {
+    parsed = new URL(url);
+    sourceParsed = new URL(source.url);
+  } catch {
+    return false;
+  }
+
+  const path = parsed.pathname.replace(/\/+/g, "/");
+  if (isPortalOrColumnUrl(url, title)) return false;
+  if (/\.(pdf|docx?|xlsx?)$/i.test(path)) return true;
+  if (/\/(search|sitemap|mail|login|register|zt|zhuanti|special|service|interaction)\b/i.test(path)) return false;
+  if (/\/allkeywords\/|\/product_/i.test(path)) return false;
+
+  if (source.sourceType === "central_policy" || source.sourceType === "local_policy") {
+    const sameHost = parsed.hostname === sourceParsed.hostname;
+    const govHost = parsed.hostname.endsWith(".gov.cn") || parsed.hostname === "www.gov.cn";
+    const articleSignal =
+      /20\d{2}[-/]?\d{2}[-/]?\d{2}/.test(path) ||
+      /\/20\d{4}\//.test(path) ||
+      /t20\d{6}_\d+/.test(path) ||
+      /art[_/-]20\d{2}/.test(path) ||
+      /content[_/-]?\d{5,}/.test(path) ||
+      /\/\d{6,}\.(s?html?)$/i.test(path) ||
+      /\/[a-f0-9-]{24,}\/\d+\.html$/i.test(path);
+
+    return (sameHost || govHost) && articleSignal;
+  }
+
+  return true;
+}
+
 function isValidStoredItem(item) {
   if (/product\.d1cm\.com|\/product\//i.test(item.url)) return false;
   if (item.source === "第一工程机械网" && !/news\.d1cm\.com\/20\d+\.shtml/i.test(item.url)) return false;
+  if (isPortalOrColumnUrl(item.url, item.title)) return false;
   return true;
+}
+
+function isPortalOrColumnUrl(url, title = "") {
+  let parsed;
+  try {
+    parsed = new URL(url);
+  } catch {
+    return true;
+  }
+
+  const path = parsed.pathname.replace(/\/+/g, "/");
+  const navTitle = /^(省|市|县)?(人民政府|政府办公厅|发展和改革委员会|工业和信息化厅|科学技术厅|自然资源厅|财政厅|交通运输厅|应急管理厅|国家矿山安全监察局)$/.test(title);
+  if (navTitle) return true;
+  if (path === "/" || path === "/index.html" || path === "/index.shtml") return true;
+  if (/\/(col|columns)\/[^/]+\/index\.(s?html?)$/i.test(path)) return true;
+  if (/\/(list|iframe_list)[^/]*\.(s?html?)$/i.test(path)) return true;
+  if (/\/(zwgk|zfwj|zc|gk|zhengce|tzgg|wjk|zfxxgk|xxgk)\/?$/i.test(path)) return true;
+  if (/\/(zwgk|zfwj|zc|gk|zhengce|tzgg|wjk|zfxxgk|xxgk)\/index\.(s?html?)$/i.test(path)) return true;
+  return false;
 }
 
 async function fetchArticleText(url) {

@@ -99,6 +99,28 @@ function inRange(value: string, range: TimeRange) {
   return diff <= limits[range];
 }
 
+function inDateWindow(value: string, range: TimeRange, startDate: string, endDate: string) {
+  const hasCustomRange = Boolean(startDate || endDate);
+  if (!hasCustomRange) return inRange(value, range);
+
+  const itemTime = parseDate(value).getTime();
+  if (itemTime === 0) return false;
+
+  const startTime = startDate ? new Date(`${startDate}T00:00:00`).getTime() : Number.NEGATIVE_INFINITY;
+  const endTime = endDate ? new Date(`${endDate}T23:59:59`).getTime() : Number.POSITIVE_INFINITY;
+  const from = Math.min(startTime, endTime);
+  const to = Math.max(startTime, endTime);
+
+  return itemTime >= from && itemTime <= to;
+}
+
+function formatRangeLabel(range: TimeRange, startDate: string, endDate: string) {
+  if (startDate || endDate) {
+    return `${startDate || "最早"} 至 ${endDate || "最新"}`;
+  }
+  return timeRanges.find((item) => item.key === range)?.label ?? "全部";
+}
+
 function uniq<T>(items: T[]) {
   return Array.from(new Set(items));
 }
@@ -137,6 +159,8 @@ export function App() {
   const [company, setCompany] = useState("all");
   const [product, setProduct] = useState("all");
   const [metricType, setMetricType] = useState("all");
+  const [startDate, setStartDate] = useState("");
+  const [endDate, setEndDate] = useState("");
 
   useEffect(() => {
     Promise.all([
@@ -166,7 +190,7 @@ export function App() {
     const text = query.trim().toLowerCase();
     return data.news
       .filter((item) => item.board === activeBoard)
-      .filter((item) => inRange(item.publishedAt, timeRange))
+      .filter((item) => inDateWindow(item.publishedAt, timeRange, startDate, endDate))
       .filter((item) => topic === "all" || item.topicIds.includes(topic))
       .filter((item) => company === "all" || item.companyCodes.includes(company))
       .filter((item) => product === "all" || item.productTags.includes(product))
@@ -175,13 +199,13 @@ export function App() {
         return `${item.title} ${item.summary} ${item.source}`.toLowerCase().includes(text);
       })
       .sort((a, b) => parseDate(b.publishedAt).getTime() - parseDate(a.publishedAt).getTime());
-  }, [activeBoard, company, data.news, product, query, timeRange, topic]);
+  }, [activeBoard, company, data.news, endDate, product, query, startDate, timeRange, topic]);
 
   const filteredMetrics = useMemo(() => {
     const text = query.trim().toLowerCase();
     return data.metrics
       .filter((item) => item.board === activeBoard)
-      .filter((item) => inRange(item.publishedAt, timeRange))
+      .filter((item) => inDateWindow(item.publishedAt, timeRange, startDate, endDate))
       .filter((item) => metricType === "all" || item.metricType === metricType)
       .filter((item) => company === "all" || item.companyCodes.includes(company))
       .filter((item) => product === "all" || item.productTags.includes(product))
@@ -190,7 +214,25 @@ export function App() {
         return `${item.title} ${item.excerpt} ${item.source}`.toLowerCase().includes(text);
       })
       .sort((a, b) => parseDate(b.publishedAt).getTime() - parseDate(a.publishedAt).getTime());
-  }, [activeBoard, company, data.metrics, metricType, product, query, timeRange]);
+  }, [activeBoard, company, data.metrics, endDate, metricType, product, query, startDate, timeRange]);
+
+  const statsNews = useMemo(
+    () =>
+      data.news
+        .filter((item) => item.source === "国家统计局数据发布")
+        .filter((item) => inDateWindow(item.publishedAt, timeRange, startDate, endDate))
+        .sort((a, b) => parseDate(b.publishedAt).getTime() - parseDate(a.publishedAt).getTime()),
+    [data.news, endDate, startDate, timeRange],
+  );
+
+  const statsMetrics = useMemo(
+    () =>
+      data.metrics
+        .filter((item) => item.source === "国家统计局数据发布")
+        .filter((item) => inDateWindow(item.publishedAt, timeRange, startDate, endDate))
+        .sort((a, b) => parseDate(b.publishedAt).getTime() - parseDate(a.publishedAt).getTime()),
+    [data.metrics, endDate, startDate, timeRange],
+  );
 
   const archiveGroups = useMemo(() => {
     const groups = new Map<string, number>();
@@ -212,6 +254,21 @@ export function App() {
 
   const activeBoardMeta = boardCopy[activeBoard];
   const ActiveIcon = activeBoardMeta.icon;
+  const rangeLabel = formatRangeLabel(timeRange, startDate, endDate);
+
+  function clearCustomDates() {
+    setStartDate("");
+    setEndDate("");
+  }
+
+  function openStatsDashboard() {
+    setActiveBoard("industry");
+    setTopic("official-data");
+    setCompany("all");
+    window.setTimeout(() => {
+      document.getElementById("stats-dashboard")?.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, 0);
+  }
 
   return (
     <div className="app-shell">
@@ -272,12 +329,19 @@ export function App() {
               </div>
             </div>
             <div className="source-strip">
-              {visibleSources.slice(0, 8).map((source) => (
-                <a href={source.url} target="_blank" rel="noreferrer" key={source.id}>
-                  {source.name}
-                  <ExternalLink size={13} />
-                </a>
-              ))}
+              {visibleSources.slice(0, 8).map((source) =>
+                source.id === "stats-data" ? (
+                  <button className="source-action" type="button" onClick={openStatsDashboard} key={source.id}>
+                    {source.name}
+                    <BarChart3 size={13} />
+                  </button>
+                ) : (
+                  <a href={source.url} target="_blank" rel="noreferrer" key={source.id}>
+                    {source.name}
+                    <ExternalLink size={13} />
+                  </a>
+                ),
+              )}
             </div>
           </section>
 
@@ -296,11 +360,46 @@ export function App() {
                   key={item.key}
                   className={item.key === timeRange ? "active" : ""}
                   type="button"
-                  onClick={() => setTimeRange(item.key)}
+                  onClick={() => {
+                    setTimeRange(item.key);
+                    clearCustomDates();
+                  }}
                 >
                   {item.label}
                 </button>
               ))}
+            </div>
+            <div className="date-range-control" aria-label="自定义日期区间">
+              <input
+                aria-label="开始日期"
+                type="date"
+                value={startDate}
+                onChange={(event) => {
+                  setStartDate(event.target.value);
+                  setTimeRange("all");
+                }}
+                onInput={(event) => {
+                  setStartDate(event.currentTarget.value);
+                  setTimeRange("all");
+                }}
+              />
+              <span>至</span>
+              <input
+                aria-label="结束日期"
+                type="date"
+                value={endDate}
+                onChange={(event) => {
+                  setEndDate(event.target.value);
+                  setTimeRange("all");
+                }}
+                onInput={(event) => {
+                  setEndDate(event.currentTarget.value);
+                  setTimeRange("all");
+                }}
+              />
+              <button type="button" onClick={clearCustomDates}>
+                清除
+              </button>
             </div>
             <select value={topic} onChange={(event) => setTopic(event.target.value)}>
               <option value="all">全部 Topic</option>
@@ -339,14 +438,26 @@ export function App() {
           </section>
 
           <section className="topic-band">
-            {visibleTopics.map((item) => (
-              <a className="topic-pill" href={item.url} target="_blank" rel="noreferrer" key={item.id}>
-                <span>{item.group}</span>
-                <strong>{item.name}</strong>
-                <ArrowUpRight size={15} />
-              </a>
-            ))}
+            {visibleTopics.map((item) =>
+              item.id === "official-data" ? (
+                <button className="topic-pill topic-button" type="button" onClick={openStatsDashboard} key={item.id}>
+                  <span>{item.group}</span>
+                  <strong>{item.name}</strong>
+                  <BarChart3 size={15} />
+                </button>
+              ) : (
+                <a className="topic-pill" href={item.url} target="_blank" rel="noreferrer" key={item.id}>
+                  <span>{item.group}</span>
+                  <strong>{item.name}</strong>
+                  <ArrowUpRight size={15} />
+                </a>
+              ),
+            )}
           </section>
+
+          {activeBoard === "industry" && (
+            <StatsDashboard metrics={statsMetrics} news={statsNews} rangeLabel={rangeLabel} />
+          )}
 
           <section className="content-grid">
             <div className="primary-column">
@@ -446,6 +557,158 @@ function KpiCard({ icon: Icon, label, value }: { icon: typeof TrendingUp; label:
       <strong>{value.toLocaleString("zh-CN")}</strong>
     </div>
   );
+}
+
+function StatsDashboard({
+  metrics,
+  news,
+  rangeLabel,
+}: {
+  metrics: MetricItem[];
+  news: NewsItem[];
+  rangeLabel: string;
+}) {
+  const investmentMetrics = metrics.filter((item) => item.metricType === "investment");
+  const priceMetrics = metrics.filter((item) => ["price", "cost", "production"].includes(item.metricType));
+  const latestInvestment = pickMetric(metrics, ["固定资产投资"]);
+  const latestRealEstate = pickMetric(metrics, ["房地产"]);
+  const latestPpi = pickMetric(metrics, ["工业生产者出厂价格"]);
+  const latestInputPrice = pickMetric(metrics, ["购进价格"]);
+
+  return (
+    <section className="stats-dashboard" id="stats-dashboard">
+      <div className="section-heading">
+        <div>
+          <h3>国家统计局数据看板</h3>
+          <p>当前区间：{rangeLabel}</p>
+        </div>
+        <span>{metrics.length} 项指标</span>
+      </div>
+
+      <div className="dashboard-kpis">
+        <DashboardKpi label="统计局发布" value={news.length} unit="条" />
+        <DashboardKpi label="已提取指标" value={metrics.length} unit="项" />
+        <DashboardKpi label="投资相关" value={investmentMetrics.length} unit="项" />
+        <DashboardKpi label="价格成本" value={priceMetrics.length} unit="项" />
+      </div>
+
+      <div className="dashboard-grid">
+        <div className="dashboard-panel">
+          <div className="panel-heading">
+            <h4>核心指标</h4>
+            <small>从统计局发布中自动抽取</small>
+          </div>
+          <div className="focus-metric-grid">
+            <FocusMetric label="固定资产投资" metric={latestInvestment} />
+            <FocusMetric label="房地产开发投资" metric={latestRealEstate} />
+            <FocusMetric label="PPI" metric={latestPpi} />
+            <FocusMetric label="购进价格" metric={latestInputPrice} />
+          </div>
+        </div>
+
+        <div className="dashboard-panel">
+          <div className="panel-heading">
+            <h4>同比/环比</h4>
+            <small>按发布时间排序</small>
+          </div>
+          <RateTrend metrics={metrics} />
+        </div>
+      </div>
+
+      <div className="dashboard-panel">
+        <div className="panel-heading">
+          <h4>统计局发布</h4>
+          <small>点击标题可打开原始发布</small>
+        </div>
+        <div className="stats-release-list">
+          {news.length === 0 && <EmptyState label="当前时间区间没有统计局发布。" />}
+          {news.slice(0, 8).map((item) => (
+            <a href={item.url} target="_blank" rel="noreferrer" key={item.id}>
+              <time>{formatFullDate(item.publishedAt)}</time>
+              <strong>{item.title}</strong>
+              <span>{item.metricTags.map((tag) => metricLabels[tag] ?? tag).join(" / ") || "发布"}</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function DashboardKpi({ label, value, unit }: { label: string; value: number; unit: string }) {
+  return (
+    <div className="dashboard-kpi">
+      <span>{label}</span>
+      <strong>
+        {value.toLocaleString("zh-CN")}
+        <small>{unit}</small>
+      </strong>
+    </div>
+  );
+}
+
+function FocusMetric({ label, metric }: { label: string; metric?: MetricItem }) {
+  return (
+    <a className="focus-metric" href={metric?.url ?? "#stats-dashboard"} target={metric ? "_blank" : undefined} rel="noreferrer">
+      <span>{label}</span>
+      <strong>
+        {metric?.value === null || metric?.value === undefined
+          ? "--"
+          : `${metric.value.toLocaleString("zh-CN")}${metric.unit}`}
+      </strong>
+      <small>
+        {metric
+          ? [
+              metric.yoy !== null ? `同比 ${metric.yoy}%` : "",
+              metric.mom !== null ? `环比 ${metric.mom}%` : "",
+              metric.period,
+            ]
+              .filter(Boolean)
+              .join(" · ")
+          : "暂无提取"}
+      </small>
+    </a>
+  );
+}
+
+function RateTrend({ metrics }: { metrics: MetricItem[] }) {
+  const rateRows = metrics
+    .flatMap((item) => [
+      item.yoy !== null ? { item, label: "同比", value: item.yoy } : null,
+      item.mom !== null ? { item, label: "环比", value: item.mom } : null,
+    ])
+    .filter((item): item is { item: MetricItem; label: string; value: number } => Boolean(item))
+    .slice(0, 10);
+  const maxAbs = Math.max(1, ...rateRows.map((row) => Math.abs(row.value)));
+
+  if (rateRows.length === 0) return <EmptyState label="当前时间区间没有可展示的同比/环比。" />;
+
+  return (
+    <div className="rate-trend">
+      {rateRows.map((row) => {
+        const width = Math.max(6, (Math.abs(row.value) / maxAbs) * 100);
+        return (
+          <a href={row.item.url} target="_blank" rel="noreferrer" className="rate-row" key={`${row.item.id}-${row.label}`}>
+            <div>
+              <span>{row.label}</span>
+              <strong>{row.value}%</strong>
+            </div>
+            <div className="rate-track">
+              <span
+                className={row.value >= 0 ? "positive" : "negative"}
+                style={{ width: `${width}%` }}
+              />
+            </div>
+            <small>{row.item.title}</small>
+          </a>
+        );
+      })}
+    </div>
+  );
+}
+
+function pickMetric(metrics: MetricItem[], keywords: string[]) {
+  return metrics.find((item) => keywords.some((keyword) => `${item.title} ${item.excerpt}`.includes(keyword)));
 }
 
 function EmptyState({ label }: { label: string }) {
