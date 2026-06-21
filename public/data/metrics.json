@@ -162,5 +162,26 @@
     "publishedAt": "2026-06-10T04:00:00.000Z",
     "collectedAt": "2026-06-19T09:21:44.544Z",
     "excerpt": "1—5月平均，工业生产者出厂价格比上年同期上涨1.0%，工业生产者..."
+  },
+  {
+    "id": "ea87259eb155cc94ac85",
+    "title": "朝闻天下：今年前5月我国工程机械热销 海内外市场同步增长",
+    "source": "第一工程机械网",
+    "url": "https://news.d1cm.com/20260609189324.shtml",
+    "board": "industry",
+    "metricType": "sales",
+    "metricLabel": "销量",
+    "productTags": [
+      "excavator"
+    ],
+    "companyCodes": [],
+    "period": "2026-06",
+    "value": 126875,
+    "unit": "台",
+    "yoy": 24.7,
+    "mom": null,
+    "publishedAt": "2026-06-09T04:00:00.000Z",
+    "collectedAt": "2026-06-21T22:01:12.400Z",
+    "excerpt": "最新数据显示，今年1至5月份，我国共销售挖掘机126875台，同比增长24.7%"
   }
 ]
