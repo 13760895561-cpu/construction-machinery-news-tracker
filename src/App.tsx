@@ -37,6 +37,7 @@ const timeRanges = [
 ] as const;
 
 type TimeRange = (typeof timeRanges)[number]["key"];
+const NEWS_PAGE_SIZE = 15;
 
 const metricLabels: Record<string, string> = {
   sales: "销量",
@@ -191,6 +192,7 @@ export function App() {
   const [metricType, setMetricType] = useState("all");
   const [startDate, setStartDate] = useState("");
   const [endDate, setEndDate] = useState("");
+  const [newsPage, setNewsPage] = useState(1);
 
   useEffect(() => {
     Promise.all([
@@ -235,6 +237,23 @@ export function App() {
     () => baseFilteredNews.filter((item) => !isFinanceMedia(item) || isDirectIndustryNews(item)),
     [baseFilteredNews],
   );
+
+  const totalNewsPages = Math.max(1, Math.ceil(filteredNews.length / NEWS_PAGE_SIZE));
+  const currentNewsPage = Math.min(newsPage, totalNewsPages);
+  const pagedNews = useMemo(() => {
+    const start = (currentNewsPage - 1) * NEWS_PAGE_SIZE;
+    return filteredNews.slice(start, start + NEWS_PAGE_SIZE);
+  }, [currentNewsPage, filteredNews]);
+
+  useEffect(() => {
+    setNewsPage(1);
+  }, [activeBoard, company, endDate, metricType, product, query, startDate, timeRange, topic]);
+
+  useEffect(() => {
+    if (newsPage > totalNewsPages) {
+      setNewsPage(totalNewsPages);
+    }
+  }, [newsPage, totalNewsPages]);
 
   const newsWatchItems = useMemo(
     () => baseFilteredNews.filter((item) => isFinanceMedia(item) && !isDirectIndustryNews(item)),
@@ -477,24 +496,6 @@ export function App() {
             </select>
           </section>
 
-          <section className="topic-band">
-            {visibleTopics.map((item) =>
-              item.id === "official-data" ? (
-                <button className="topic-pill topic-button" type="button" onClick={openStatsDashboard} key={item.id}>
-                  <span>{item.group}</span>
-                  <strong>{item.name}</strong>
-                  <BarChart3 size={15} />
-                </button>
-              ) : (
-                <a className="topic-pill" href={item.url} target="_blank" rel="noreferrer" key={item.id}>
-                  <span>{item.group}</span>
-                  <strong>{item.name}</strong>
-                  <ArrowUpRight size={15} />
-                </a>
-              ),
-            )}
-          </section>
-
           {activeBoard === "industry" && (
             <StatsDashboard metrics={statsMetrics} news={statsNews} rangeLabel={rangeLabel} />
           )}
@@ -506,11 +507,13 @@ export function App() {
                   <h3>最新收纳</h3>
                   <p>政府机构、工程机械渠道，以及强相关财经新闻</p>
                 </div>
-                <span>{filteredNews.length} 条</span>
+                <span>
+                  {filteredNews.length} 条 · 第 {currentNewsPage}/{totalNewsPages} 页
+                </span>
               </div>
               <div className="news-list">
                 {filteredNews.length === 0 && <EmptyState label="暂无匹配新闻，等待下一次采集。" />}
-                {filteredNews.map((item) => (
+                {pagedNews.map((item) => (
                   <article className="news-item" key={item.id}>
                     <div className="news-date">
                       <CalendarClock size={15} />
@@ -534,6 +537,30 @@ export function App() {
                   </article>
                 ))}
               </div>
+              {filteredNews.length > NEWS_PAGE_SIZE && (
+                <div className="pagination-bar">
+                  <span>每页 15 条资讯</span>
+                  <div className="pagination-buttons">
+                    <button
+                      type="button"
+                      disabled={currentNewsPage === 1}
+                      onClick={() => setNewsPage((page) => Math.max(1, page - 1))}
+                    >
+                      上一页
+                    </button>
+                    <strong>
+                      {currentNewsPage} / {totalNewsPages}
+                    </strong>
+                    <button
+                      type="button"
+                      disabled={currentNewsPage === totalNewsPages}
+                      onClick={() => setNewsPage((page) => Math.min(totalNewsPages, page + 1))}
+                    >
+                      下一页
+                    </button>
+                  </div>
+                </div>
+              )}
             </div>
 
             <aside className="side-column">
@@ -606,6 +633,24 @@ export function App() {
                 ))}
               </div>
             </aside>
+          </section>
+
+          <section className="topic-band topic-band-bottom">
+            {visibleTopics.map((item) =>
+              item.id === "official-data" ? (
+                <button className="topic-pill topic-button" type="button" onClick={openStatsDashboard} key={item.id}>
+                  <span>{item.group}</span>
+                  <strong>{item.name}</strong>
+                  <BarChart3 size={15} />
+                </button>
+              ) : (
+                <a className="topic-pill" href={item.url} target="_blank" rel="noreferrer" key={item.id}>
+                  <span>{item.group}</span>
+                  <strong>{item.name}</strong>
+                  <ArrowUpRight size={15} />
+                </a>
+              ),
+            )}
           </section>
         </section>
       </main>
