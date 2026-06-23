@@ -183,5 +183,27 @@
     "publishedAt": "2026-06-09T04:00:00.000Z",
     "collectedAt": "2026-06-21T22:01:12.400Z",
     "excerpt": "最新数据显示，今年1至5月份，我国共销售挖掘机126875台，同比增长24.7%"
+  },
+  {
+    "id": "57b25ebc60466352463a",
+    "title": "bauma SHANGHAI 2026双馆同开，全球工程机械“集结号”已响",
+    "source": "第一工程机械网",
+    "url": "https://news.d1cm.com/20260623189838.shtml",
+    "board": "industry",
+    "metricType": "sales",
+    "metricLabel": "销量",
+    "productTags": [
+      "excavator",
+      "loader"
+    ],
+    "companyCodes": [],
+    "period": "2026",
+    "value": 24.7,
+    "unit": "%",
+    "yoy": 24.7,
+    "mom": null,
+    "publishedAt": "2026-01-05T04:00:00.000Z",
+    "collectedAt": "2026-06-23T18:18:00.196Z",
+    "excerpt": "2026年1-5月，挖掘机销量同比增长24.7%，装载机增长27.3%，电动装载机更是飙升90.9%"
   }
 ]
