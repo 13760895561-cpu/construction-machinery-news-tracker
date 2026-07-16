@@ -118,6 +118,69 @@
     "excerpt": "EN 搜索 首页 机构 新闻 时政要闻 统计新闻 数据 公开 服务 互动 知识 专题 2026/07/15 10:00 | Aa 字体： 小 中 大 | 分享到： 一、房地产开发投资完成情况 1—6月份，全国房地产开发投资38074亿元，同比下降18.0%（按可比口径计算，详见附注5）"
   },
   {
+    "id": "57542d9e0f3112c8f394",
+    "title": "2026年6月工程机械行业主要产品销售快报二",
+    "source": "第一工程机械网",
+    "url": "https://news.d1cm.com/20260715190560.shtml",
+    "board": "industry",
+    "metricType": "sales",
+    "metricLabel": "销量",
+    "productTags": [
+      "grader"
+    ],
+    "companyCodes": [],
+    "period": "2026-06",
+    "value": 1004,
+    "unit": "台",
+    "yoy": 31.6,
+    "mom": null,
+    "publishedAt": "2026-07-15T04:00:00.000Z",
+    "collectedAt": "2026-07-15T17:50:34.040Z",
+    "excerpt": "2026年6月工程机械行业主要产品销售快报二平地机 据中国工程机械工业协会对平地机主要制造企业统计，2026年6月销售各类平地机1004台，同比增长31.6%"
+  },
+  {
+    "id": "603b8265038a5dcd9067",
+    "title": "2026年6月工程机械行业主要产品销售快报二",
+    "source": "第一工程机械网",
+    "url": "https://news.d1cm.com/20260715190560.shtml",
+    "board": "industry",
+    "metricType": "sales",
+    "metricLabel": "销量",
+    "productTags": [
+      "grader"
+    ],
+    "companyCodes": [],
+    "period": "2026-06",
+    "value": 92,
+    "unit": "台",
+    "yoy": -34.8,
+    "mom": null,
+    "publishedAt": "2026-07-15T04:00:00.000Z",
+    "collectedAt": "2026-07-15T17:50:34.040Z",
+    "excerpt": "其中：国内销量92台，同比下降34.8%"
+  },
+  {
+    "id": "6bcdb11242e6a72d6683",
+    "title": "2026年6月工程机械行业主要产品销售快报二",
+    "source": "第一工程机械网",
+    "url": "https://news.d1cm.com/20260715190560.shtml",
+    "board": "industry",
+    "metricType": "export",
+    "metricLabel": "出口",
+    "productTags": [
+      "grader"
+    ],
+    "companyCodes": [],
+    "period": "2026-06",
+    "value": 912,
+    "unit": "台",
+    "yoy": 46.6,
+    "mom": null,
+    "publishedAt": "2026-07-15T04:00:00.000Z",
+    "collectedAt": "2026-07-15T17:50:34.040Z",
+    "excerpt": "出口912 台，同比增长46.6%"
+  },
+  {
     "id": "5f08457118310a45c276",
     "title": "同比倍增！6月集成电路、稀土出口额双双迎来爆发",
     "source": "财联社",
