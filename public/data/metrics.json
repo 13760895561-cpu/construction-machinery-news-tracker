@@ -80,6 +80,25 @@
     "excerpt": "②外贸结构持续优化，出口机电产品占总值63.5%，对共..."
   },
   {
+    "id": "6abeaf1315bd8b9227fe",
+    "title": "2026年1—6月份全国固定资产投资基本情况",
+    "source": "国家统计局数据发布",
+    "url": "https://www.stats.gov.cn/sj/zxfb/202607/t20260715_1964124.html",
+    "board": "industry",
+    "metricType": "investment",
+    "metricLabel": "投资",
+    "productTags": [],
+    "companyCodes": [],
+    "period": "2026",
+    "value": 226370,
+    "unit": "亿元",
+    "yoy": -5.7,
+    "mom": null,
+    "publishedAt": "2026-07-15T04:00:00.000Z",
+    "collectedAt": "2026-07-15T07:30:53.328Z",
+    "excerpt": "EN 搜索 首页 机构 新闻 时政要闻 统计新闻 数据 公开 服务 互动 知识 专题 2026/07/15 10:00 | Aa 字体： 小 中 大 | 分享到： 1—6月份，全国固定资产投资（不含农户）226370亿元，同比下降5.7%（按可比口径计算，详见附注7）"
+  },
+  {
     "id": "b6475e53ac30deaa5734",
     "title": "2026年1—6月份全国房地产市场基本情况",
     "source": "国家统计局数据发布",
@@ -160,25 +179,6 @@
     "publishedAt": "2026-07-15T04:00:00.000Z",
     "collectedAt": "2026-07-15T17:50:34.040Z",
     "excerpt": "出口912 台，同比增长46.6%"
-  },
-  {
-    "id": "6abeaf1315bd8b9227fe",
-    "title": "2026年1—6月份全国固定资产投资基本情况",
-    "source": "国家统计局数据发布",
-    "url": "https://www.stats.gov.cn/sj/zxfb/202607/t20260715_1964124.html",
-    "board": "industry",
-    "metricType": "investment",
-    "metricLabel": "投资",
-    "productTags": [],
-    "companyCodes": [],
-    "period": "2026",
-    "value": 226370,
-    "unit": "亿元",
-    "yoy": -5.7,
-    "mom": null,
-    "publishedAt": "2026-07-15T04:00:00.000Z",
-    "collectedAt": "2026-07-15T07:30:53.328Z",
-    "excerpt": "EN 搜索 首页 机构 新闻 时政要闻 统计新闻 数据 公开 服务 互动 知识 专题 2026/07/15 10:00 | Aa 字体： 小 中 大 | 分享到： 1—6月份，全国固定资产投资（不含农户）226370亿元，同比下降5.7%（按可比口径计算，详见附注7）"
   },
   {
     "id": "5f08457118310a45c276",
@@ -1032,6 +1032,25 @@
     "publishedAt": "2026-01-05T04:00:00.000Z",
     "collectedAt": "2026-06-23T18:18:00.196Z",
     "excerpt": "2026年1-5月，挖掘机销量同比增长24.7%，装载机增长27.3%，电动装载机更是飙升90.9%"
+  },
+  {
+    "id": "fa8daa0e9b49ba2f69f1",
+    "title": "中国对阿根廷汽车出口大增147%，纯电领域几乎包揽阿根廷汽车千人保有量约为330辆，是拉美第三大汽车生产和消费国家 昨天 20:51",
+    "source": "第一财经",
+    "url": "https://www.yicai.com/news/103278497.html",
+    "board": "industry",
+    "metricType": "export",
+    "metricLabel": "出口",
+    "productTags": [],
+    "companyCodes": [],
+    "period": "2025-11",
+    "value": 147,
+    "unit": "%",
+    "yoy": null,
+    "mom": null,
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-07-16T16:57:50.547Z",
+    "excerpt": "中国对阿根廷汽车出口大增147%，纯电领域几乎包揽阿根廷汽车千人保有量约为330辆，是拉美第三大汽车生产和消费国家 昨天 20:51"
   },
   {
     "id": "8d4f58bec7892fe9d212",
