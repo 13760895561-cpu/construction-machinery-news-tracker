@@ -94,23 +94,6 @@
     "collectedAt": "2026-07-14T06:38:10.366Z"
   },
   {
-    "id": "f2939c447b45a3504318",
-    "title": "AI基础设施迎来“光电融合”新竞速 | WAIC观察",
-    "url": "https://www.cls.cn/detail/2431363",
-    "source": "财联社",
-    "sourceType": "finance_media",
-    "board": "industry",
-    "topicIds": [
-      "official-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "宽基ETF又见证历史时刻，“国家队”曾重仓的多只ETF显著放量一文看懂：世界杯冠军究竟能带来多少经济红利？稳市信号密集释放，公募基金如何看后市？扬电科技子公司签下8.6亿元算力大单 新公司成立仅半年外交部：中美双方就年内元首互动安排保持沟通14家券商首席共议当前A股，是关键转机吗？近期芯片股回调仅是暂时？小摩：Q2财报季将吹响下一轮上涨号角！风电塔桩龙头跨界...",
-    "publishedAt": "2026-08-06T04:00:00.000Z",
-    "collectedAt": "2026-07-20T14:26:45.599Z"
-  },
-  {
     "id": "ba6bc55f125642d5209b",
     "title": "首批15家银行上半年理财数据率先出炉，整体缩水8.6%，部分大降甚至清零，理财子牌照或仅余2-4张“入场券”",
     "url": "https://www.cls.cn/detail/2425971",
@@ -128,110 +111,6 @@
     "summary": "孙正义：核聚变是人工智能未来的关键 15年后将取代天然气7月以来融资余额下降超千亿，这个减量如何看？存100万解锁5.25%利息？国有四大行辟谣一批“翻倍基”二季报出炉，“站在光里”的基金经理分歧了？产能扩张只是“画饼” SK海力士2028年承诺或仅能完成六分之一白宫转而力挺这一队伍问鼎世界杯 并曝特朗普曾与其队长同场挥杆同比倍增！6月集成电路、稀土出口额双...",
     "publishedAt": "2026-08-06T04:00:00.000Z",
     "collectedAt": "2026-07-14T12:01:03.213Z"
-  },
-  {
-    "id": "6121a80bf56a868ae815",
-    "title": "电动化浪潮已至，工程机械新能源的下一个万亿级赛道",
-    "url": "https://news.d1cm.com/20260716190568.shtml",
-    "source": "第一工程机械网",
-    "sourceType": "industry_media",
-    "board": "industry",
-    "topicIds": [
-      "association-data",
-      "official-data"
-    ],
-    "companyCodes": [
-      "000157",
-      "000528"
-    ],
-    "productTags": [
-      "excavator",
-      "loader",
-      "forklift",
-      "aerial_platform",
-      "concrete_machine"
-    ],
-    "metricTags": [
-      "sales",
-      "cost"
-    ],
-    "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
-    "publishedAt": "2026-07-20T20:37:31.339Z",
-    "collectedAt": "2026-07-16T06:39:20.929Z"
-  },
-  {
-    "id": "206e67609a1a669c74e6",
-    "title": "2026年上半年挖掘机市场：内外共振，复苏提速",
-    "url": "https://news.d1cm.com/20260710190378.shtml",
-    "source": "第一工程机械网",
-    "sourceType": "industry_media",
-    "board": "industry",
-    "topicIds": [
-      "association-data",
-      "official-data"
-    ],
-    "companyCodes": [],
-    "productTags": [
-      "excavator"
-    ],
-    "metricTags": [
-      "sales",
-      "export",
-      "operatingRate",
-      "cost",
-      "investment"
-    ],
-    "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
-    "publishedAt": "2026-07-20T20:37:31.339Z",
-    "collectedAt": "2026-07-10T10:37:14.383Z"
-  },
-  {
-    "id": "84dae4d39d0122fe84aa",
-    "title": "致敬！柳工驰援横州应急救援志愿者服务队平安凯旋",
-    "url": "https://news.d1cm.com/20260720190716.shtml",
-    "source": "第一工程机械网",
-    "sourceType": "industry_media",
-    "board": "industry",
-    "topicIds": [
-      "association-data",
-      "official-data",
-      "company-000528"
-    ],
-    "companyCodes": [
-      "000528",
-      "603298"
-    ],
-    "productTags": [
-      "excavator",
-      "loader"
-    ],
-    "metricTags": [],
-    "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
-    "publishedAt": "2026-07-20T20:37:31.338Z",
-    "collectedAt": "2026-07-20T14:26:45.599Z"
-  },
-  {
-    "id": "0e5b6c054e06714e67ed",
-    "title": "实力圈粉！徐工“省油标杆”+“零碳先锋”成套矿山装备惊艳西北矿博会",
-    "url": "https://news.d1cm.com/20260720190715.shtml",
-    "source": "第一工程机械网",
-    "sourceType": "industry_media",
-    "board": "industry",
-    "topicIds": [
-      "association-data",
-      "official-data"
-    ],
-    "companyCodes": [],
-    "productTags": [
-      "excavator"
-    ],
-    "metricTags": [
-      "cost",
-      "production"
-    ],
-    "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
-    "publishedAt": "2026-07-20T20:37:31.338Z",
-    "collectedAt": "2026-07-20T14:26:45.599Z"
   },
   {
     "id": "2462d1c859a2cf52583f",
@@ -253,7 +132,7 @@
       "production"
     ],
     "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
-    "publishedAt": "2026-07-20T20:37:31.338Z",
+    "publishedAt": "2026-07-20T22:09:47.034Z",
     "collectedAt": "2026-07-20T14:26:45.599Z"
   },
   {
@@ -285,8 +164,263 @@
       "production"
     ],
     "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
-    "publishedAt": "2026-07-20T20:37:31.338Z",
+    "publishedAt": "2026-07-20T22:09:47.034Z",
     "collectedAt": "2026-07-20T11:09:32.823Z"
+  },
+  {
+    "id": "6121a80bf56a868ae815",
+    "title": "电动化浪潮已至，工程机械新能源的下一个万亿级赛道",
+    "url": "https://news.d1cm.com/20260716190568.shtml",
+    "source": "第一工程机械网",
+    "sourceType": "industry_media",
+    "board": "industry",
+    "topicIds": [
+      "association-data",
+      "official-data"
+    ],
+    "companyCodes": [
+      "000157",
+      "000528"
+    ],
+    "productTags": [
+      "excavator",
+      "loader",
+      "forklift",
+      "aerial_platform",
+      "concrete_machine"
+    ],
+    "metricTags": [
+      "sales",
+      "cost"
+    ],
+    "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
+    "publishedAt": "2026-07-20T22:09:47.034Z",
+    "collectedAt": "2026-07-16T06:39:20.929Z"
+  },
+  {
+    "id": "206e67609a1a669c74e6",
+    "title": "2026年上半年挖掘机市场：内外共振，复苏提速",
+    "url": "https://news.d1cm.com/20260710190378.shtml",
+    "source": "第一工程机械网",
+    "sourceType": "industry_media",
+    "board": "industry",
+    "topicIds": [
+      "association-data",
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [
+      "excavator"
+    ],
+    "metricTags": [
+      "sales",
+      "export",
+      "operatingRate",
+      "cost",
+      "investment"
+    ],
+    "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
+    "publishedAt": "2026-07-20T22:09:47.034Z",
+    "collectedAt": "2026-07-10T10:37:14.383Z"
+  },
+  {
+    "id": "84dae4d39d0122fe84aa",
+    "title": "致敬！柳工驰援横州应急救援志愿者服务队平安凯旋",
+    "url": "https://news.d1cm.com/20260720190716.shtml",
+    "source": "第一工程机械网",
+    "sourceType": "industry_media",
+    "board": "industry",
+    "topicIds": [
+      "association-data",
+      "official-data",
+      "company-000528"
+    ],
+    "companyCodes": [
+      "000528",
+      "603298"
+    ],
+    "productTags": [
+      "excavator",
+      "loader"
+    ],
+    "metricTags": [],
+    "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
+    "publishedAt": "2026-07-20T22:09:47.033Z",
+    "collectedAt": "2026-07-20T14:26:45.599Z"
+  },
+  {
+    "id": "0e5b6c054e06714e67ed",
+    "title": "实力圈粉！徐工“省油标杆”+“零碳先锋”成套矿山装备惊艳西北矿博会",
+    "url": "https://news.d1cm.com/20260720190715.shtml",
+    "source": "第一工程机械网",
+    "sourceType": "industry_media",
+    "board": "industry",
+    "topicIds": [
+      "association-data",
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [
+      "excavator"
+    ],
+    "metricTags": [
+      "cost",
+      "production"
+    ],
+    "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
+    "publishedAt": "2026-07-20T22:09:47.033Z",
+    "collectedAt": "2026-07-20T14:26:45.599Z"
+  },
+  {
+    "id": "b62d1a5af957f6cbb080",
+    "title": "苏子孟会长受邀参加“2026年柳工5·28全球客户节”",
+    "url": "http://www.cncma.org/article/22515",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data",
+      "company-000528"
+    ],
+    "companyCodes": [
+      "000528"
+    ],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "苏子孟会长受邀参加“2026年柳工5·28全球客户节”",
+    "publishedAt": "2026-07-20T22:09:41.783Z",
+    "collectedAt": "2026-06-19T09:21:44.544Z"
+  },
+  {
+    "id": "e44b7479a157430a29de",
+    "title": "苏子孟会长受邀参加“康明斯矿山百年中国行暨QSK60国产矿山发动机交付”仪式",
+    "url": "http://www.cncma.org/article/22503",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "cost"
+    ],
+    "summary": "苏子孟会长受邀参加“康明斯矿山百年中国行暨QSK60国产矿山发动机交付”仪式",
+    "publishedAt": "2026-07-20T22:09:41.783Z",
+    "collectedAt": "2026-06-19T09:21:44.544Z"
+  },
+  {
+    "id": "6d394b20674ab42e672f",
+    "title": "协会双碳工作委员会组织召开工程机械企业温室气体排放两项团体标准专家审查会",
+    "url": "http://www.cncma.org/article/22422",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "协会双碳工作委员会组织召开工程机械企业温室气体排放两项团体标准专家审查会",
+    "publishedAt": "2026-07-20T22:09:41.783Z",
+    "collectedAt": "2026-06-19T09:21:44.544Z"
+  },
+  {
+    "id": "d0041988b8c55fc764cc",
+    "title": "工程机械产品碳足迹标准研制工作会议在京顺利召开",
+    "url": "http://www.cncma.org/article/22413",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "工程机械产品碳足迹标准研制工作会议在京顺利召开",
+    "publishedAt": "2026-07-20T22:09:41.783Z",
+    "collectedAt": "2026-06-19T09:21:44.544Z"
+  },
+  {
+    "id": "97059f07cbe36293a95a",
+    "title": "2025年工程机械行业科技奖 2025年度“机械工业科学技术奖”工程机械行业获奖项目。",
+    "url": "http://www.cncma.org/col/hypp/1/6",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [
+      "excavator",
+      "loader",
+      "crawler_crane",
+      "tower_crane",
+      "forklift",
+      "aerial_platform",
+      "concrete_machine"
+    ],
+    "metricTags": [
+      "production"
+    ],
+    "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 机械工业科学科技奖 机械工业科学技术奖是根据《国家科学技术奖励条例》和《社会力量设立科学技术奖管理办法》的有关规定，由中国机械工业联台会和中国机械工程学会共同设立并经国家科学技术部批准，在...",
+    "publishedAt": "2026-07-20T22:09:41.782Z",
+    "collectedAt": "2026-06-19T09:21:44.544Z"
+  },
+  {
+    "id": "f8402bdeb04a31d96cfb",
+    "title": "关于召开“中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议暨第一届智能建造装备与应用发展大会”的预通知",
+    "url": "http://www.cncma.org/article/22659",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "关于召开“中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议暨第一届智能建造装备与应用发展大会”的预通知",
+    "publishedAt": "2026-07-20T22:09:41.782Z",
+    "collectedAt": "2026-07-17T06:04:46.643Z"
+  },
+  {
+    "id": "23d0f699bee23ec81f6d",
+    "title": "关于征集工程机械行业智能化发展情况及成果与案例的通知",
+    "url": "http://www.cncma.org/article/22619",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "关于征集工程机械行业智能化发展情况及成果与案例的通知",
+    "publishedAt": "2026-07-20T22:09:41.782Z",
+    "collectedAt": "2026-07-01T11:43:10.295Z"
+  },
+  {
+    "id": "a55dea6839b8a92096f8",
+    "title": "关于对团体标准《工程机械 智能化分级》（征求意见稿）征求意见的通知",
+    "url": "http://www.cncma.org/article/22597",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "关于对团体标准《工程机械 智能化分级》（征求意见稿）征求意见的通知",
+    "publishedAt": "2026-07-20T22:09:41.782Z",
+    "collectedAt": "2026-06-23T10:50:33.109Z"
   },
   {
     "id": "65d94687c44d08ce4cee",
@@ -304,7 +438,7 @@
       "cost"
     ],
     "summary": "关于转发生态环境部“关于公开征求《非道路移动机械及其发动机污染物排放限值及测量方法(中国第五阶段）（征求意见稿）》意见的通知”",
-    "publishedAt": "2026-07-20T20:37:25.555Z",
+    "publishedAt": "2026-07-20T22:09:41.782Z",
     "collectedAt": "2026-06-23T10:50:33.109Z"
   },
   {
@@ -321,7 +455,7 @@
     "productTags": [],
     "metricTags": [],
     "summary": "关于召开“中国工程机械工业协会掘进机械技术交流会”暨“智能拼装盾构施工现场观摩会”的通知",
-    "publishedAt": "2026-07-20T20:37:25.555Z",
+    "publishedAt": "2026-07-20T22:09:41.782Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -338,7 +472,7 @@
     "productTags": [],
     "metricTags": [],
     "summary": "2026工程机械行业科技节邀请函",
-    "publishedAt": "2026-07-20T20:37:25.555Z",
+    "publishedAt": "2026-07-20T22:09:41.782Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -359,7 +493,7 @@
       "cost"
     ],
     "summary": "关于对团体标准《移动式升降工作平台主要零部件报废条件》《擦窗机主要零部件报废条件》《高处作业吊篮主要零部件报废条件》（征求意见稿）征求意见的通知",
-    "publishedAt": "2026-07-20T20:37:25.555Z",
+    "publishedAt": "2026-07-20T22:09:41.782Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -378,7 +512,7 @@
       "production"
     ],
     "summary": "关于组织召开工程机械再制造三项团体标准启动会暨草案研讨会的通知",
-    "publishedAt": "2026-07-20T20:37:25.555Z",
+    "publishedAt": "2026-07-20T22:09:41.782Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -395,7 +529,7 @@
     "productTags": [],
     "metricTags": [],
     "summary": "关于工程机械行业科技节行业专业期刊征集论文的通知",
-    "publishedAt": "2026-07-20T20:37:25.555Z",
+    "publishedAt": "2026-07-20T22:09:41.782Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -412,81 +546,8 @@
     "productTags": [],
     "metricTags": [],
     "summary": "协会组织考察团参观第十八届土耳其工程机械展（KOMATEK2026）",
-    "publishedAt": "2026-07-20T20:37:25.555Z",
+    "publishedAt": "2026-07-20T22:09:41.782Z",
     "collectedAt": "2026-06-25T10:25:10.579Z"
-  },
-  {
-    "id": "b62d1a5af957f6cbb080",
-    "title": "苏子孟会长受邀参加“2026年柳工5·28全球客户节”",
-    "url": "http://www.cncma.org/article/22515",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data",
-      "company-000528"
-    ],
-    "companyCodes": [
-      "000528"
-    ],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "苏子孟会长受邀参加“2026年柳工5·28全球客户节”",
-    "publishedAt": "2026-07-20T20:37:25.555Z",
-    "collectedAt": "2026-06-19T09:21:44.544Z"
-  },
-  {
-    "id": "e44b7479a157430a29de",
-    "title": "苏子孟会长受邀参加“康明斯矿山百年中国行暨QSK60国产矿山发动机交付”仪式",
-    "url": "http://www.cncma.org/article/22503",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [
-      "cost"
-    ],
-    "summary": "苏子孟会长受邀参加“康明斯矿山百年中国行暨QSK60国产矿山发动机交付”仪式",
-    "publishedAt": "2026-07-20T20:37:25.555Z",
-    "collectedAt": "2026-06-19T09:21:44.544Z"
-  },
-  {
-    "id": "6d394b20674ab42e672f",
-    "title": "协会双碳工作委员会组织召开工程机械企业温室气体排放两项团体标准专家审查会",
-    "url": "http://www.cncma.org/article/22422",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "协会双碳工作委员会组织召开工程机械企业温室气体排放两项团体标准专家审查会",
-    "publishedAt": "2026-07-20T20:37:25.555Z",
-    "collectedAt": "2026-06-19T09:21:44.544Z"
-  },
-  {
-    "id": "d0041988b8c55fc764cc",
-    "title": "工程机械产品碳足迹标准研制工作会议在京顺利召开",
-    "url": "http://www.cncma.org/article/22413",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "工程机械产品碳足迹标准研制工作会议在京顺利召开",
-    "publishedAt": "2026-07-20T20:37:25.555Z",
-    "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
     "id": "b2333d676cc047ad97cc",
@@ -508,7 +569,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >行业资讯 >正文 2026工程机械行业科技节在杭州正式开幕，权威专家共探行业科技发展新趋势 2026年06月15日09:25 6月13日，2026工程机械行业科技节（以下简称科技节...",
-    "publishedAt": "2026-07-20T20:37:25.554Z",
+    "publishedAt": "2026-07-20T22:09:41.781Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -534,7 +595,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >协会活动 >正文 苏子孟：加快科技创新和产业创新深度融合，为工程机械行业高质量发展作出新贡献 2026年06月15日11:02 2026年6月13日，以“工程机械+智能智造·机器人...",
-    "publishedAt": "2026-07-20T20:37:25.554Z",
+    "publishedAt": "2026-07-20T22:09:41.781Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -564,7 +625,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >展会动态 >正文 中国工程机械企业精彩亮相第十八届土耳其工程机械展（KOMATEK2026） 2026年06月06日02:10 当地时间2026年6月3—6日，第十八届土耳其国际工...",
-    "publishedAt": "2026-07-20T20:37:25.554Z",
+    "publishedAt": "2026-07-20T22:09:41.781Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -597,7 +658,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >协会活动 >正文 苏子孟：2026年以来工程机械行业运行分析和当前重点任务 2026年07月11日08:52 2026年7月9日，第十八届中国（北京）国际工程机械、建材机械及矿山机...",
-    "publishedAt": "2026-07-20T20:37:25.554Z",
+    "publishedAt": "2026-07-20T22:09:41.781Z",
     "collectedAt": "2026-07-13T10:42:22.959Z"
   },
   {
@@ -622,7 +683,7 @@
       "sales"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >相关新闻 >正文 关于工程机械行业企业信用等级评价 2025 年度换证和复审结果的公示 2026年01月06日10:24 相关资讯 关于公布2025 年度企业信用等级评价换证和复审...",
-    "publishedAt": "2026-07-20T20:37:25.554Z",
+    "publishedAt": "2026-07-20T22:09:41.781Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -651,7 +712,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >标准质量 >正文 《工程机械涂装工》团体标准专家审查会在上海顺利召开 2026年07月18日08:53 2026年7月14日，中国工程机械工业协会（以下简称协会）与中国涂料工业协会...",
-    "publishedAt": "2026-07-20T20:37:25.554Z",
+    "publishedAt": "2026-07-20T22:09:41.781Z",
     "collectedAt": "2026-07-20T03:56:58.355Z"
   },
   {
@@ -671,86 +732,8 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >专家观点 >正文 周卫东：携手搭建国际交流平台，助力工程机械企业拓展海内外市场 2026年07月10日09:59 2026年7月9日，第十八届中国（北京）国际工程机械、建材机械及矿...",
-    "publishedAt": "2026-07-20T20:37:25.554Z",
+    "publishedAt": "2026-07-20T22:09:41.781Z",
     "collectedAt": "2026-07-10T10:37:14.383Z"
-  },
-  {
-    "id": "97059f07cbe36293a95a",
-    "title": "2025年工程机械行业科技奖 2025年度“机械工业科学技术奖”工程机械行业获奖项目。",
-    "url": "http://www.cncma.org/col/hypp/1/6",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [
-      "excavator",
-      "loader",
-      "crawler_crane",
-      "tower_crane",
-      "forklift",
-      "aerial_platform",
-      "concrete_machine"
-    ],
-    "metricTags": [
-      "production"
-    ],
-    "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 机械工业科学科技奖 机械工业科学技术奖是根据《国家科学技术奖励条例》和《社会力量设立科学技术奖管理办法》的有关规定，由中国机械工业联台会和中国机械工程学会共同设立并经国家科学技术部批准，在...",
-    "publishedAt": "2026-07-20T20:37:25.554Z",
-    "collectedAt": "2026-06-19T09:21:44.544Z"
-  },
-  {
-    "id": "f8402bdeb04a31d96cfb",
-    "title": "关于召开“中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议暨第一届智能建造装备与应用发展大会”的预通知",
-    "url": "http://www.cncma.org/article/22659",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "关于召开“中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议暨第一届智能建造装备与应用发展大会”的预通知",
-    "publishedAt": "2026-07-20T20:37:25.554Z",
-    "collectedAt": "2026-07-17T06:04:46.643Z"
-  },
-  {
-    "id": "23d0f699bee23ec81f6d",
-    "title": "关于征集工程机械行业智能化发展情况及成果与案例的通知",
-    "url": "http://www.cncma.org/article/22619",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "关于征集工程机械行业智能化发展情况及成果与案例的通知",
-    "publishedAt": "2026-07-20T20:37:25.554Z",
-    "collectedAt": "2026-07-01T11:43:10.295Z"
-  },
-  {
-    "id": "a55dea6839b8a92096f8",
-    "title": "关于对团体标准《工程机械 智能化分级》（征求意见稿）征求意见的通知",
-    "url": "http://www.cncma.org/article/22597",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "关于对团体标准《工程机械 智能化分级》（征求意见稿）征求意见的通知",
-    "publishedAt": "2026-07-20T20:37:25.554Z",
-    "collectedAt": "2026-06-23T10:50:33.109Z"
   },
   {
     "id": "8d008393bd7fa5214fde",
@@ -14462,6 +14445,60 @@
     "summary": "三一重工 三一重工股份有限公司关于召开2025年年度业绩说明会的公告",
     "publishedAt": "2026-04-08T16:00:00.000Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
+  },
+  {
+    "id": "4feeeb691aac46e0eca7",
+    "title": "“七巨头”时代终结？分析师：这一概念已不再适用 AI投资逻辑正在重构",
+    "url": "https://www.cls.cn/detail/2431826",
+    "source": "财联社",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "关于我们网站声明联系方式用户反馈网站地图帮助首页电报话题盯盘VIPFM投研下载“七巨头”时代终结？分析师：这一概念已不再适用 AI投资逻辑正在重构原创环球市场情报2026-07-20 22:48 星期一财联社 夏军雄责编 龚闯①花旗建议关注覆盖大型科技股及AI基础设施公司的“增长集群”，该群体贡献标普500指数近48%的盈利； ②随着龙头股走势分化、资金偏好...",
+    "publishedAt": "2026-04-05T04:00:00.000Z",
+    "collectedAt": "2026-07-20T22:08:18.178Z"
+  },
+  {
+    "id": "8c5ab7607da8c1f35698",
+    "title": "一文看懂：世界杯冠军究竟能带来多少经济红利？",
+    "url": "https://www.cls.cn/detail/2431783",
+    "source": "财联社",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "export",
+      "production"
+    ],
+    "summary": "关于我们网站声明联系方式用户反馈网站地图帮助首页电报话题盯盘VIPFM投研下载一文看懂：世界杯冠军究竟能带来多少经济红利？原创环球市场情报2026-07-20 21:37 星期一财联社 夏军雄责编 龚闯①研究显示，夺冠后的两个季度内，冠军国GDP增速或提升至少0.48个百分点，主要动力来自出口增长； ②冠军奖金仅占整体收益一小部分，餐饮庆祝消费多为支出转移，...",
+    "publishedAt": "2026-04-05T04:00:00.000Z",
+    "collectedAt": "2026-07-20T22:08:18.178Z"
+  },
+  {
+    "id": "f2939c447b45a3504318",
+    "title": "AI基础设施迎来“光电融合”新竞速 | WAIC观察",
+    "url": "https://www.cls.cn/detail/2431363",
+    "source": "财联社",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "贝莱德拟发逾120亿美元债券 为Meta得州数据中心提供融资空中出租车公司变身军工玩家 美eVTOL企业开辟防务市场股价暴涨谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率英国AI新材料初创公司CuspAI获4.5亿美元融资 贝索斯基金、英国政府参投美股回调背后暗藏激烈博弈：空头押注水平创纪录从厄尔尼诺到欧洲热浪！大宗商品策略师警告：市场低...",
+    "publishedAt": "2026-04-05T04:00:00.000Z",
+    "collectedAt": "2026-07-20T14:26:45.599Z"
   },
   {
     "id": "bc150e4e8dc6c3b1dea4",
