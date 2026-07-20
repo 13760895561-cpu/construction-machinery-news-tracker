@@ -113,56 +113,48 @@
     "collectedAt": "2026-07-14T12:01:03.213Z"
   },
   {
-    "id": "176394ddcfcfd027f812",
-    "title": "【品牌效应】深耕海外市场 再拓非洲市场",
-    "url": "https://news.d1cm.com/20260720190691.shtml",
+    "id": "4601745c2af45517b9a9",
+    "title": "收评：创业板指、科创50指数探底回升收红 电力、煤炭板块集体走强",
+    "url": "https://www.cls.cn/detail/2431204",
+    "source": "财联社",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "关于我们网站声明联系方式用户反馈网站地图帮助首页电报话题盯盘VIPFM投研下载全部加红公司看盘港美股基金提醒2026年07月20日 15:01:44收评：创业板指、科创50指数探底回升收红 电力、煤炭板块集体走强财联社7月20日电，市场尾盘拉升，沪指、创业板指、科创50指数探底回升翻红。沪深两市成交额2.7万亿，较上一个交易日放量472亿。盘面上，市场热点较...",
+    "publishedAt": "2026-07-20T07:22:25.861Z",
+    "collectedAt": "2026-07-20T07:20:45.431Z"
+  },
+  {
+    "id": "9b977b2c001a30590fa0",
+    "title": "九昼十夜鏖战横州云表！柳工携王牌挖掘机圆满完成抢险任务凯旋",
+    "url": "https://news.d1cm.com/20260720190696.shtml",
     "source": "第一工程机械网",
     "sourceType": "industry_media",
     "board": "industry",
     "topicIds": [
       "association-data",
-      "official-data"
+      "official-data",
+      "company-000528"
     ],
-    "companyCodes": [],
+    "companyCodes": [
+      "000528",
+      "603298"
+    ],
     "productTags": [
       "excavator",
-      "tower_crane"
+      "loader"
     ],
     "metricTags": [
-      "sales",
-      "export",
-      "cost",
       "production"
     ],
     "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
-    "publishedAt": "2026-07-20T04:00:00.000Z",
-    "collectedAt": "2026-07-20T03:56:58.355Z"
-  },
-  {
-    "id": "206e67609a1a669c74e6",
-    "title": "2026年上半年挖掘机市场：内外共振，复苏提速",
-    "url": "https://news.d1cm.com/20260710190378.shtml",
-    "source": "第一工程机械网",
-    "sourceType": "industry_media",
-    "board": "industry",
-    "topicIds": [
-      "association-data",
-      "official-data"
-    ],
-    "companyCodes": [],
-    "productTags": [
-      "excavator"
-    ],
-    "metricTags": [
-      "sales",
-      "export",
-      "operatingRate",
-      "cost",
-      "investment"
-    ],
-    "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
-    "publishedAt": "2026-07-20T03:57:50.065Z",
-    "collectedAt": "2026-07-10T10:37:14.383Z"
+    "publishedAt": "2026-07-20T07:22:21.776Z",
+    "collectedAt": "2026-07-20T07:20:45.431Z"
   },
   {
     "id": "6121a80bf56a868ae815",
@@ -191,64 +183,34 @@
       "cost"
     ],
     "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
-    "publishedAt": "2026-07-20T03:57:50.064Z",
+    "publishedAt": "2026-07-20T07:22:21.776Z",
     "collectedAt": "2026-07-16T06:39:20.929Z"
   },
   {
-    "id": "fe9bf1754fc099383162",
-    "title": "协会组织考察团参观第十八届土耳其工程机械展（KOMATEK2026）",
-    "url": "http://www.cncma.org/article/22603",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "协会组织考察团参观第十八届土耳其工程机械展（KOMATEK2026）",
-    "publishedAt": "2026-07-20T03:57:43.137Z",
-    "collectedAt": "2026-06-25T10:25:10.579Z"
-  },
-  {
-    "id": "b62d1a5af957f6cbb080",
-    "title": "苏子孟会长受邀参加“2026年柳工5·28全球客户节”",
-    "url": "http://www.cncma.org/article/22515",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
+    "id": "206e67609a1a669c74e6",
+    "title": "2026年上半年挖掘机市场：内外共振，复苏提速",
+    "url": "https://news.d1cm.com/20260710190378.shtml",
+    "source": "第一工程机械网",
+    "sourceType": "industry_media",
     "board": "industry",
     "topicIds": [
       "association-data",
-      "company-000528"
-    ],
-    "companyCodes": [
-      "000528"
-    ],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "苏子孟会长受邀参加“2026年柳工5·28全球客户节”",
-    "publishedAt": "2026-07-20T03:57:43.137Z",
-    "collectedAt": "2026-06-19T09:21:44.544Z"
-  },
-  {
-    "id": "e44b7479a157430a29de",
-    "title": "苏子孟会长受邀参加“康明斯矿山百年中国行暨QSK60国产矿山发动机交付”仪式",
-    "url": "http://www.cncma.org/article/22503",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
+      "official-data"
     ],
     "companyCodes": [],
-    "productTags": [],
-    "metricTags": [
-      "cost"
+    "productTags": [
+      "excavator"
     ],
-    "summary": "苏子孟会长受邀参加“康明斯矿山百年中国行暨QSK60国产矿山发动机交付”仪式",
-    "publishedAt": "2026-07-20T03:57:43.137Z",
-    "collectedAt": "2026-06-19T09:21:44.544Z"
+    "metricTags": [
+      "sales",
+      "export",
+      "operatingRate",
+      "cost",
+      "investment"
+    ],
+    "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
+    "publishedAt": "2026-07-20T07:22:21.776Z",
+    "collectedAt": "2026-07-10T10:37:14.383Z"
   },
   {
     "id": "6d394b20674ab42e672f",
@@ -264,7 +226,7 @@
     "productTags": [],
     "metricTags": [],
     "summary": "协会双碳工作委员会组织召开工程机械企业温室气体排放两项团体标准专家审查会",
-    "publishedAt": "2026-07-20T03:57:43.137Z",
+    "publishedAt": "2026-07-20T07:22:17.423Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -281,8 +243,59 @@
     "productTags": [],
     "metricTags": [],
     "summary": "工程机械产品碳足迹标准研制工作会议在京顺利召开",
-    "publishedAt": "2026-07-20T03:57:43.137Z",
+    "publishedAt": "2026-07-20T07:22:17.423Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
+  },
+  {
+    "id": "f8402bdeb04a31d96cfb",
+    "title": "关于召开“中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议暨第一届智能建造装备与应用发展大会”的预通知",
+    "url": "http://www.cncma.org/article/22659",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "关于召开“中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议暨第一届智能建造装备与应用发展大会”的预通知",
+    "publishedAt": "2026-07-20T07:22:17.422Z",
+    "collectedAt": "2026-07-17T06:04:46.643Z"
+  },
+  {
+    "id": "23d0f699bee23ec81f6d",
+    "title": "关于征集工程机械行业智能化发展情况及成果与案例的通知",
+    "url": "http://www.cncma.org/article/22619",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "关于征集工程机械行业智能化发展情况及成果与案例的通知",
+    "publishedAt": "2026-07-20T07:22:17.422Z",
+    "collectedAt": "2026-07-01T11:43:10.295Z"
+  },
+  {
+    "id": "a55dea6839b8a92096f8",
+    "title": "关于对团体标准《工程机械 智能化分级》（征求意见稿）征求意见的通知",
+    "url": "http://www.cncma.org/article/22597",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "关于对团体标准《工程机械 智能化分级》（征求意见稿）征求意见的通知",
+    "publishedAt": "2026-07-20T07:22:17.422Z",
+    "collectedAt": "2026-06-23T10:50:33.109Z"
   },
   {
     "id": "65d94687c44d08ce4cee",
@@ -300,7 +313,7 @@
       "cost"
     ],
     "summary": "关于转发生态环境部“关于公开征求《非道路移动机械及其发动机污染物排放限值及测量方法(中国第五阶段）（征求意见稿）》意见的通知”",
-    "publishedAt": "2026-07-20T03:57:43.135Z",
+    "publishedAt": "2026-07-20T07:22:17.422Z",
     "collectedAt": "2026-06-23T10:50:33.109Z"
   },
   {
@@ -317,7 +330,7 @@
     "productTags": [],
     "metricTags": [],
     "summary": "关于召开“中国工程机械工业协会掘进机械技术交流会”暨“智能拼装盾构施工现场观摩会”的通知",
-    "publishedAt": "2026-07-20T03:57:43.135Z",
+    "publishedAt": "2026-07-20T07:22:17.422Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -334,7 +347,7 @@
     "productTags": [],
     "metricTags": [],
     "summary": "2026工程机械行业科技节邀请函",
-    "publishedAt": "2026-07-20T03:57:43.135Z",
+    "publishedAt": "2026-07-20T07:22:17.422Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -355,7 +368,7 @@
       "cost"
     ],
     "summary": "关于对团体标准《移动式升降工作平台主要零部件报废条件》《擦窗机主要零部件报废条件》《高处作业吊篮主要零部件报废条件》（征求意见稿）征求意见的通知",
-    "publishedAt": "2026-07-20T03:57:43.135Z",
+    "publishedAt": "2026-07-20T07:22:17.422Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -374,7 +387,7 @@
       "production"
     ],
     "summary": "关于组织召开工程机械再制造三项团体标准启动会暨草案研讨会的通知",
-    "publishedAt": "2026-07-20T03:57:43.135Z",
+    "publishedAt": "2026-07-20T07:22:17.422Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -391,67 +404,50 @@
     "productTags": [],
     "metricTags": [],
     "summary": "关于工程机械行业科技节行业专业期刊征集论文的通知",
-    "publishedAt": "2026-07-20T03:57:43.135Z",
+    "publishedAt": "2026-07-20T07:22:17.422Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
-    "id": "4373b02618acc87834c2",
-    "title": "关于工程机械行业企业信用等级评价 2025 年度换证和复审结果的公示",
-    "url": "http://www.cncma.org/article/22215",
+    "id": "fe9bf1754fc099383162",
+    "title": "协会组织考察团参观第十八届土耳其工程机械展（KOMATEK2026）",
+    "url": "http://www.cncma.org/article/22603",
     "source": "中国工程机械工业协会",
     "sourceType": "association",
     "board": "industry",
     "topicIds": [
       "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "协会组织考察团参观第十八届土耳其工程机械展（KOMATEK2026）",
+    "publishedAt": "2026-07-20T07:22:17.422Z",
+    "collectedAt": "2026-06-25T10:25:10.579Z"
+  },
+  {
+    "id": "b62d1a5af957f6cbb080",
+    "title": "苏子孟会长受邀参加“2026年柳工5·28全球客户节”",
+    "url": "http://www.cncma.org/article/22515",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data",
+      "company-000528"
     ],
     "companyCodes": [
-      "000157",
       "000528"
     ],
-    "productTags": [
-      "excavator",
-      "aerial_platform"
-    ],
-    "metricTags": [
-      "sales"
-    ],
-    "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >相关新闻 >正文 关于工程机械行业企业信用等级评价 2025 年度换证和复审结果的公示 2026年01月06日10:24 相关资讯 关于公布2025 年度企业信用等级评价换证和复审...",
-    "publishedAt": "2026-07-20T03:57:43.134Z",
+    "productTags": [],
+    "metricTags": [],
+    "summary": "苏子孟会长受邀参加“2026年柳工5·28全球客户节”",
+    "publishedAt": "2026-07-20T07:22:17.422Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
-    "id": "626e725fac52911cbe5d",
-    "title": "《工程机械涂装工》团体标准专家审查会在上海顺利召开",
-    "url": "http://www.cncma.org/article/22663",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [
-      "000157",
-      "000528"
-    ],
-    "productTags": [
-      "excavator",
-      "tower_crane",
-      "aerial_platform",
-      "concrete_machine"
-    ],
-    "metricTags": [
-      "sales",
-      "cost",
-      "production"
-    ],
-    "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >标准质量 >正文 《工程机械涂装工》团体标准专家审查会在上海顺利召开 2026年07月18日08:53 2026年7月14日，中国工程机械工业协会（以下简称协会）与中国涂料工业协会...",
-    "publishedAt": "2026-07-20T03:57:43.134Z",
-    "collectedAt": "2026-07-20T03:56:58.355Z"
-  },
-  {
-    "id": "0852eb9ba59ce7e96f67",
-    "title": "周卫东：携手搭建国际交流平台，助力工程机械企业拓展海内外市场",
-    "url": "http://www.cncma.org/article/22646",
+    "id": "e44b7479a157430a29de",
+    "title": "苏子孟会长受邀参加“康明斯矿山百年中国行暨QSK60国产矿山发动机交付”仪式",
+    "url": "http://www.cncma.org/article/22503",
     "source": "中国工程机械工业协会",
     "sourceType": "association",
     "board": "industry",
@@ -461,90 +457,11 @@
     "companyCodes": [],
     "productTags": [],
     "metricTags": [
-      "export",
-      "production"
+      "cost"
     ],
-    "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >专家观点 >正文 周卫东：携手搭建国际交流平台，助力工程机械企业拓展海内外市场 2026年07月10日09:59 2026年7月9日，第十八届中国（北京）国际工程机械、建材机械及矿...",
-    "publishedAt": "2026-07-20T03:57:43.134Z",
-    "collectedAt": "2026-07-10T10:37:14.383Z"
-  },
-  {
-    "id": "97059f07cbe36293a95a",
-    "title": "2025年工程机械行业科技奖 2025年度“机械工业科学技术奖”工程机械行业获奖项目。",
-    "url": "http://www.cncma.org/col/hypp/1/6",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [
-      "excavator",
-      "loader",
-      "crawler_crane",
-      "tower_crane",
-      "forklift",
-      "aerial_platform",
-      "concrete_machine"
-    ],
-    "metricTags": [
-      "production"
-    ],
-    "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 机械工业科学科技奖 机械工业科学技术奖是根据《国家科学技术奖励条例》和《社会力量设立科学技术奖管理办法》的有关规定，由中国机械工业联台会和中国机械工程学会共同设立并经国家科学技术部批准，在...",
-    "publishedAt": "2026-07-20T03:57:43.134Z",
+    "summary": "苏子孟会长受邀参加“康明斯矿山百年中国行暨QSK60国产矿山发动机交付”仪式",
+    "publishedAt": "2026-07-20T07:22:17.422Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
-  },
-  {
-    "id": "f8402bdeb04a31d96cfb",
-    "title": "关于召开“中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议暨第一届智能建造装备与应用发展大会”的预通知",
-    "url": "http://www.cncma.org/article/22659",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "关于召开“中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议暨第一届智能建造装备与应用发展大会”的预通知",
-    "publishedAt": "2026-07-20T03:57:43.134Z",
-    "collectedAt": "2026-07-17T06:04:46.643Z"
-  },
-  {
-    "id": "23d0f699bee23ec81f6d",
-    "title": "关于征集工程机械行业智能化发展情况及成果与案例的通知",
-    "url": "http://www.cncma.org/article/22619",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "关于征集工程机械行业智能化发展情况及成果与案例的通知",
-    "publishedAt": "2026-07-20T03:57:43.134Z",
-    "collectedAt": "2026-07-01T11:43:10.295Z"
-  },
-  {
-    "id": "a55dea6839b8a92096f8",
-    "title": "关于对团体标准《工程机械 智能化分级》（征求意见稿）征求意见的通知",
-    "url": "http://www.cncma.org/article/22597",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "关于对团体标准《工程机械 智能化分级》（征求意见稿）征求意见的通知",
-    "publishedAt": "2026-07-20T03:57:43.134Z",
-    "collectedAt": "2026-06-23T10:50:33.109Z"
   },
   {
     "id": "b2333d676cc047ad97cc",
@@ -566,7 +483,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >行业资讯 >正文 2026工程机械行业科技节在杭州正式开幕，权威专家共探行业科技发展新趋势 2026年06月15日09:25 6月13日，2026工程机械行业科技节（以下简称科技节...",
-    "publishedAt": "2026-07-20T03:57:43.133Z",
+    "publishedAt": "2026-07-20T07:22:17.421Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -592,7 +509,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >协会活动 >正文 苏子孟：加快科技创新和产业创新深度融合，为工程机械行业高质量发展作出新贡献 2026年06月15日11:02 2026年6月13日，以“工程机械+智能智造·机器人...",
-    "publishedAt": "2026-07-20T03:57:43.133Z",
+    "publishedAt": "2026-07-20T07:22:17.421Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -622,7 +539,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >展会动态 >正文 中国工程机械企业精彩亮相第十八届土耳其工程机械展（KOMATEK2026） 2026年06月06日02:10 当地时间2026年6月3—6日，第十八届土耳其国际工...",
-    "publishedAt": "2026-07-20T03:57:43.133Z",
+    "publishedAt": "2026-07-20T07:22:17.421Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -655,8 +572,219 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >协会活动 >正文 苏子孟：2026年以来工程机械行业运行分析和当前重点任务 2026年07月11日08:52 2026年7月9日，第十八届中国（北京）国际工程机械、建材机械及矿山机...",
-    "publishedAt": "2026-07-20T03:57:43.133Z",
+    "publishedAt": "2026-07-20T07:22:17.421Z",
     "collectedAt": "2026-07-13T10:42:22.959Z"
+  },
+  {
+    "id": "4373b02618acc87834c2",
+    "title": "关于工程机械行业企业信用等级评价 2025 年度换证和复审结果的公示",
+    "url": "http://www.cncma.org/article/22215",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [
+      "000157",
+      "000528"
+    ],
+    "productTags": [
+      "excavator",
+      "aerial_platform"
+    ],
+    "metricTags": [
+      "sales"
+    ],
+    "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >相关新闻 >正文 关于工程机械行业企业信用等级评价 2025 年度换证和复审结果的公示 2026年01月06日10:24 相关资讯 关于公布2025 年度企业信用等级评价换证和复审...",
+    "publishedAt": "2026-07-20T07:22:17.421Z",
+    "collectedAt": "2026-06-19T09:21:44.544Z"
+  },
+  {
+    "id": "626e725fac52911cbe5d",
+    "title": "《工程机械涂装工》团体标准专家审查会在上海顺利召开",
+    "url": "http://www.cncma.org/article/22663",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [
+      "000157",
+      "000528"
+    ],
+    "productTags": [
+      "excavator",
+      "tower_crane",
+      "aerial_platform",
+      "concrete_machine"
+    ],
+    "metricTags": [
+      "sales",
+      "cost",
+      "production"
+    ],
+    "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >标准质量 >正文 《工程机械涂装工》团体标准专家审查会在上海顺利召开 2026年07月18日08:53 2026年7月14日，中国工程机械工业协会（以下简称协会）与中国涂料工业协会...",
+    "publishedAt": "2026-07-20T07:22:17.421Z",
+    "collectedAt": "2026-07-20T03:56:58.355Z"
+  },
+  {
+    "id": "0852eb9ba59ce7e96f67",
+    "title": "周卫东：携手搭建国际交流平台，助力工程机械企业拓展海内外市场",
+    "url": "http://www.cncma.org/article/22646",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "export",
+      "production"
+    ],
+    "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >专家观点 >正文 周卫东：携手搭建国际交流平台，助力工程机械企业拓展海内外市场 2026年07月10日09:59 2026年7月9日，第十八届中国（北京）国际工程机械、建材机械及矿...",
+    "publishedAt": "2026-07-20T07:22:17.421Z",
+    "collectedAt": "2026-07-10T10:37:14.383Z"
+  },
+  {
+    "id": "97059f07cbe36293a95a",
+    "title": "2025年工程机械行业科技奖 2025年度“机械工业科学技术奖”工程机械行业获奖项目。",
+    "url": "http://www.cncma.org/col/hypp/1/6",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [
+      "excavator",
+      "loader",
+      "crawler_crane",
+      "tower_crane",
+      "forklift",
+      "aerial_platform",
+      "concrete_machine"
+    ],
+    "metricTags": [
+      "production"
+    ],
+    "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 机械工业科学科技奖 机械工业科学技术奖是根据《国家科学技术奖励条例》和《社会力量设立科学技术奖管理办法》的有关规定，由中国机械工业联台会和中国机械工程学会共同设立并经国家科学技术部批准，在...",
+    "publishedAt": "2026-07-20T07:22:17.421Z",
+    "collectedAt": "2026-06-19T09:21:44.544Z"
+  },
+  {
+    "id": "b422f7b89c72c0c56889",
+    "title": "科技赋能 装备美好|倒计时 1 天，盛会即将开启，明日直播间不见不散！",
+    "url": "https://news.d1cm.com/20260720190695.shtml",
+    "source": "第一工程机械网",
+    "sourceType": "industry_media",
+    "board": "industry",
+    "topicIds": [
+      "association-data",
+      "official-data",
+      "company-000680"
+    ],
+    "companyCodes": [
+      "000680"
+    ],
+    "productTags": [
+      "loader",
+      "concrete_machine",
+      "pile_machine"
+    ],
+    "metricTags": [
+      "price",
+      "production"
+    ],
+    "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
+    "publishedAt": "2026-07-20T04:00:00.000Z",
+    "collectedAt": "2026-07-20T07:20:45.431Z"
+  },
+  {
+    "id": "696dee5f92aa25c9ede2",
+    "title": "倒计时2天 | 智慧为帆，向绿而行——与山推共话绿色机遇",
+    "url": "https://news.d1cm.com/20260720190694.shtml",
+    "source": "第一工程机械网",
+    "sourceType": "industry_media",
+    "board": "industry",
+    "topicIds": [
+      "association-data",
+      "official-data",
+      "company-000680"
+    ],
+    "companyCodes": [
+      "000680"
+    ],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "倒计时2天 | 智慧为帆，向绿而行——与山推共话绿色机遇...2026-07-20 11:40 山推股份绿色机遇智慧倒计时",
+    "publishedAt": "2026-07-20T04:00:00.000Z",
+    "collectedAt": "2026-07-20T07:20:45.431Z"
+  },
+  {
+    "id": "f99a86715f803557d523",
+    "title": "倒计时2天丨相约河内，与全球合作伙伴共筑绿色智能产业新生态",
+    "url": "https://news.d1cm.com/20260720190693.shtml",
+    "source": "第一工程机械网",
+    "sourceType": "industry_media",
+    "board": "industry",
+    "topicIds": [
+      "association-data",
+      "official-data",
+      "company-000680"
+    ],
+    "companyCodes": [
+      "000680"
+    ],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "倒计时2天丨相约河内，与全球合作伙伴共筑绿色智能产业新生态...2026-07-20 11:38 山推股份河内全球合作伙伴绿色智能",
+    "publishedAt": "2026-07-20T04:00:00.000Z",
+    "collectedAt": "2026-07-20T07:20:45.431Z"
+  },
+  {
+    "id": "b948ffa3b05ed0a7bc6f",
+    "title": "还在人工除锈？RD380智能除锈机器人它来了！",
+    "url": "https://news.d1cm.com/20260720190692.shtml",
+    "source": "第一工程机械网",
+    "sourceType": "industry_media",
+    "board": "industry",
+    "topicIds": [
+      "association-data",
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "还在人工除锈？RD380智能除锈机器人它来了！随着船舶修造行业不断向智能化、高效化、安全化方向发展，传统人工除锈作业面临着劳动强度大、作业环境恶劣、安全风险高、效率受限等诸多挑战。为推动行业技术升级，星邦智能持续深耕智能装备领域，针对船舶除锈作业痛点，研发推出全新一...2026-07-20 11:05 星邦智能RD380智能除锈机器人船舶修造",
+    "publishedAt": "2026-07-20T04:00:00.000Z",
+    "collectedAt": "2026-07-20T07:20:45.431Z"
+  },
+  {
+    "id": "176394ddcfcfd027f812",
+    "title": "【品牌效应】深耕海外市场 再拓非洲市场",
+    "url": "https://news.d1cm.com/20260720190691.shtml",
+    "source": "第一工程机械网",
+    "sourceType": "industry_media",
+    "board": "industry",
+    "topicIds": [
+      "association-data",
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [
+      "tower_crane"
+    ],
+    "metricTags": [
+      "export"
+    ],
+    "summary": "【品牌效应】深耕海外市场 再拓非洲市场近日，一批性能卓越、品质过硬的方圆PT6515型平头塔式起重机完成装车发运，顺利启程出口毛里塔尼亚。 方圆PT6515平头型塔机聚焦海外基建施工痛点与场景需求，经过多次技术迭代优化，适配性、稳定性与耐用性全面升级...2026-07-20 10:54 方圆集团PT6515塔式起重机非洲市场",
+    "publishedAt": "2026-07-20T04:00:00.000Z",
+    "collectedAt": "2026-07-20T03:56:58.355Z"
   },
   {
     "id": "3c454d2e4569ee184c43",
@@ -791,14 +919,9 @@
     "companyCodes": [
       "000680"
     ],
-    "productTags": [
-      "concrete_machine"
-    ],
-    "metricTags": [
-      "cost",
-      "production"
-    ],
-    "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
+    "productTags": [],
+    "metricTags": [],
+    "summary": "科技赋能 装备美好｜倒计时 2 天，相约河内，走进山推直播间看绿色智能设备...2026-07-19 17:52 山推股份绿色智能设备河内直播间",
     "publishedAt": "2026-07-19T04:00:00.000Z",
     "collectedAt": "2026-07-19T13:43:45.784Z"
   },
@@ -2244,6 +2367,27 @@
     "collectedAt": "2026-07-14T12:01:03.213Z"
   },
   {
+    "id": "7fed80564d1fca705571",
+    "title": "2026年7月上旬流通领域重要生产资料市场价格变动情况",
+    "url": "https://www.stats.gov.cn/sj/zxfb/202607/t20260713_1964100.html",
+    "source": "国家统计局数据发布",
+    "sourceType": "official_data",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "sales",
+      "import",
+      "production"
+    ],
+    "summary": "EN 搜索 首页 机构 新闻 时政要闻 统计新闻 数据 公开 服务 互动 知识 专题 2026/07/14 09:30 | Aa 字体： 小 中 大 | 分享到： 中国统计信息服务中心 卓创资讯 据对全国流通领域9大类50种重要生产资料市场价格的监测显示，2026年7月上旬与6月下旬相比，17种产品价格上涨，31种下降，2种持平。 2026年7月上旬流通领域...",
+    "publishedAt": "2026-07-14T04:00:00.000Z",
+    "collectedAt": "2026-07-14T06:38:10.366Z"
+  },
+  {
     "id": "56f00b7bf71d0b5ac8f6",
     "title": "做油改电之前，先搞懂上送电和下送电的区别",
     "url": "https://news.d1cm.com/20260714190488.shtml",
@@ -2262,27 +2406,6 @@
       "cost"
     ],
     "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
-    "publishedAt": "2026-07-14T04:00:00.000Z",
-    "collectedAt": "2026-07-14T06:38:10.366Z"
-  },
-  {
-    "id": "7fed80564d1fca705571",
-    "title": "2026年7月上旬流通领域重要生产资料市场价格变动情况",
-    "url": "https://www.stats.gov.cn/sj/zxfb/202607/t20260713_1964100.html",
-    "source": "国家统计局数据发布",
-    "sourceType": "official_data",
-    "board": "industry",
-    "topicIds": [
-      "official-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [
-      "sales",
-      "import",
-      "production"
-    ],
-    "summary": "EN 搜索 首页 机构 新闻 时政要闻 统计新闻 数据 公开 服务 互动 知识 专题 2026/07/14 09:30 | Aa 字体： 小 中 大 | 分享到： 中国统计信息服务中心 卓创资讯 据对全国流通领域9大类50种重要生产资料市场价格的监测显示，2026年7月上旬与6月下旬相比，17种产品价格上涨，31种下降，2种持平。 2026年7月上旬流通领域...",
     "publishedAt": "2026-07-14T04:00:00.000Z",
     "collectedAt": "2026-07-14T06:38:10.366Z"
   },
@@ -16274,9 +16397,43 @@
     "collectedAt": "2026-07-13T18:13:24.235Z"
   },
   {
-    "id": "e9982e9212b41f065c76",
-    "title": "国泰基金：原煤产量创十年最大降幅，煤炭板块迎来大反弹 9分钟前",
-    "url": "https://www.yicai.com/news/103282463.html",
+    "id": "aa62c926ff7f37156fd9",
+    "title": "收盘丨沪指收盘涨0.85% 电力、煤炭板块掀涨停潮全市场超3700只个股下跌，超200股跌停。 1分钟前",
+    "url": "https://www.yicai.com/news/103283285.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "首页 > 新闻 > A股 分享到：微信微博QQ分享到微信打开微信，点击底部的“发现”，使用“扫一扫”即可将网页分享至朋友圈。 收盘丨沪指收盘涨0.85% 电力、煤炭板块掀涨停潮 第一财经 2026-07-20 15:19:17 听新闻 作者：一财资讯 责编：李志 AI帮你提炼, 10秒看完要点智能挖掘相关板块, 定位投资机会 AI速读节省{{readTime...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-07-20T07:20:45.431Z"
+  },
+  {
+    "id": "9671d27a68281b396e73",
+    "title": "一体化算力网国产生态联盟迎来新成员多样性算力已经成为我国人工智能基础设施的显著特征。 1小时前",
+    "url": "https://www.yicai.com/news/103282984.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "首页 > 新闻 > 区域 分享到：微信微博QQ分享到微信打开微信，点击底部的“发现”，使用“扫一扫”即可将网页分享至朋友圈。 一体化算力网国产生态联盟迎来新成员 第一财经 2026-07-20 14:11:24 听新闻 作者：一财区域 责编：杨志 AI帮你提炼, 10秒看完要点智能挖掘相关板块, 定位投资机会 AI速读节省{{readTime}}分钟阅读时间...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-07-20T07:20:45.431Z"
+  },
+  {
+    "id": "f86faad8d73005b650ce",
+    "title": "进出口创新高，上海外贸如何打开增量空间高技术产品上半年进出口同比增长21.6%。 2小时前",
+    "url": "https://www.yicai.com/news/103282578.html",
     "source": "第一财经",
     "sourceType": "finance_media",
     "board": "industry",
@@ -16288,18 +16445,103 @@
     "metricTags": [
       "export",
       "import",
-      "inventory",
-      "price",
       "cost",
       "production"
     ],
-    "summary": "首页 > 新闻 > 金融 分享到：微信微博QQ分享到微信打开微信，点击底部的“发现”，使用“扫一扫”即可将网页分享至朋友圈。 国泰基金：原煤产量创十年最大降幅，煤炭板块迎来大反弹 第一财经 2026-07-20 11:46:19 听新闻 责编：陈婷 AI帮你提炼, 10秒看完要点智能挖掘相关板块, 定位投资机会 AI速读节省{{readTime}}分钟阅读时...",
+    "summary": "首页 > 新闻 > 区域 分享到：微信微博QQ分享到微信打开微信，点击底部的“发现”，使用“扫一扫”即可将网页分享至朋友圈。 进出口创新高，上海外贸如何打开增量空间 第一财经 2026-07-20 13:09:15 听新闻 作者：缪琦 责编：杨志 AI帮你提炼, 10秒看完要点智能挖掘相关板块, 定位投资机会 AI速读节省{{readTime}}分钟阅读时间...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-07-20T07:20:45.431Z"
+  },
+  {
+    "id": "a98b1c7159be68fada88",
+    "title": "白酒、煤炭等领涨、电力板块集体反弹 多只个股盘前宣布增持值得关注的是，电力、煤炭板块的多家公司在盘前发布了股份增持、回购计划，或公布了公司近期运营情况，持续为资本市场注入信心。 3小时前",
+    "url": "https://www.yicai.com/news/103282464.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 收盘丨沪指收盘涨0.85% 电力、煤炭板块掀涨停潮...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-07-20T07:20:45.431Z"
+  },
+  {
+    "id": "233016a97c102d72f1a1",
+    "title": "工信部详解“新一代通信网”，推动5G-A、万兆光网等规模商用深化脑机接口、具身智能、智能网联汽车与5G-A/6G、卫星互联网等融合发展。 3小时前",
+    "url": "https://www.yicai.com/news/103282495.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 收盘丨沪指收盘涨0.85% 电力、煤炭板块掀涨停潮...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-07-20T07:20:45.431Z"
+  },
+  {
+    "id": "7f5b0ed4ca4745070ebc",
+    "title": "陶冬：韩国去杠杆引爆股灾流动性危机对金融稳定的冲击有限。 3小时前",
+    "url": "https://www.yicai.com/news/103282448.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 收盘丨沪指收盘涨0.85% 电力、煤炭板块掀涨停潮...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-07-20T07:20:45.431Z"
+  },
+  {
+    "id": "e9982e9212b41f065c76",
+    "title": "国泰基金：原煤产量创十年最大降幅，煤炭板块迎来大反弹 3小时前",
+    "url": "https://www.yicai.com/news/103282463.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "production"
+    ],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 收盘丨沪指收盘涨0.85% 电力、煤炭板块掀涨停潮...",
     "publishedAt": "2025-11-03T04:00:00.000Z",
     "collectedAt": "2026-07-20T03:56:58.355Z"
   },
   {
+    "id": "f5868d293ebc792e8338",
+    "title": "茅台调价后今日股价盘中大涨5%，白酒股集体跟涨茅台调价后股价回升。 3小时前",
+    "url": "https://www.yicai.com/news/103282415.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 收盘丨沪指收盘涨0.85% 电力、煤炭板块掀涨停潮...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-07-20T07:20:45.431Z"
+  },
+  {
     "id": "2ff59b40af3c51edb313",
-    "title": "部分重大项目下半年陆续开工，多专家预计基建投资增速将回升2026年基建相关财政资金全年额度较为充足。 27分钟前",
+    "title": "部分重大项目下半年陆续开工，多专家预计基建投资增速将回升2026年基建相关财政资金全年额度较为充足。 3小时前",
     "url": "https://www.yicai.com/news/103282413.html",
     "source": "第一财经",
     "sourceType": "finance_media",
@@ -16312,13 +16554,64 @@
     "metricTags": [
       "investment"
     ],
-    "summary": "首页 > 新闻 > 大政 分享到：微信微博QQ分享到微信打开微信，点击底部的“发现”，使用“扫一扫”即可将网页分享至朋友圈。 部分重大项目下半年陆续开工，多专家预计基建投资增速将回升 第一财经 2026-07-20 11:28:52 听新闻 作者：陈益刊 责编：杨志 AI帮你提炼, 10秒看完要点智能挖掘相关板块, 定位投资机会 AI速读节省{{readTi...",
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 收盘丨沪指收盘涨0.85% 电力、煤炭板块掀涨停潮...",
     "publishedAt": "2025-11-03T04:00:00.000Z",
     "collectedAt": "2026-07-20T03:56:58.355Z"
   },
   {
+    "id": "350f060255e6083a032c",
+    "title": "工信部答一财：加强对重点群体用药保障创新药对外技术授权创新高，上半年交易额超1000亿美元。 4小时前",
+    "url": "https://www.yicai.com/news/103282386.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 收盘丨沪指收盘涨0.85% 电力、煤炭板块掀涨停潮...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-07-20T07:20:45.431Z"
+  },
+  {
+    "id": "9b85dc12272212df44c0",
+    "title": "我们在WAIC奔涌的成果里,看到中国AI产业链未来的样子技术在迭代、联盟在缔结、竞争永不停歇。 4小时前",
+    "url": "https://www.yicai.com/news/103282281.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 收盘丨沪指收盘涨0.85% 电力、煤炭板块掀涨停潮...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-07-20T07:20:45.431Z"
+  },
+  {
+    "id": "2b1eddc5e83335ecea66",
+    "title": "上海消费半年报：社零增0.7%，消费市场结构转型深化服务消费、入境旅游、商务服务业等跑出了远超大盘的增速。 4小时前",
+    "url": "https://www.yicai.com/news/103282230.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 收盘丨沪指收盘涨0.85% 电力、煤炭板块掀涨停潮...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-07-20T07:20:45.431Z"
+  },
+  {
     "id": "ca0fc19263df2a1f277e",
-    "title": "滚动更新丨沪指、创业板指均涨超1%，油气、煤炭等板块大幅反弹半导体、算力硬件产业链持续回调，PCB、光刻机、存储器方向领跌。 2小时前",
+    "title": "滚动更新丨 创业板指、科创50指数探底回升，电力、煤炭板块掀涨停潮沪深两市成交额2.7万亿，较上一个交易日放量472亿。 5小时前",
     "url": "https://www.yicai.com/news/103281967.html",
     "source": "第一财经",
     "sourceType": "finance_media",
@@ -16328,12 +16621,78 @@
     ],
     "companyCodes": [],
     "productTags": [],
-    "metricTags": [
-      "sales"
-    ],
-    "summary": "首页 > 新闻 > A股 分享到：微信微博QQ分享到微信打开微信，点击底部的“发现”，使用“扫一扫”即可将网页分享至朋友圈。 滚动更新丨沪指、创业板指均涨超1%，油气、煤炭等板块大幅反弹 第一财经 2026-07-20 09:32:57 作者：一财资讯 责编：罗懿 AI帮你提炼, 10秒看完要点智能挖掘相关板块, 定位投资机会 AI速读节省{{readTim...",
+    "metricTags": [],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 收盘丨沪指收盘涨0.85% 电力、煤炭板块掀涨停潮...",
     "publishedAt": "2025-11-03T04:00:00.000Z",
     "collectedAt": "2026-07-20T03:56:58.355Z"
+  },
+  {
+    "id": "bfc143090de98c4bff9c",
+    "title": "上海上半年GDP增速5.6%，三组数据窥见新动能提速2025年高出全国0.4个百分点，上半年高出0.9个百分点。 6小时前",
+    "url": "https://www.yicai.com/news/103281864.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 收盘丨沪指收盘涨0.85% 电力、煤炭板块掀涨停潮...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-07-20T07:20:45.431Z"
+  },
+  {
+    "id": "6bc094530b03c95d1fed",
+    "title": "晓数点｜三大维度一图看懂：上海经济“半年报”稳中有进、向新向优 6小时前",
+    "url": "https://www.yicai.com/news/103281860.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 收盘丨沪指收盘涨0.85% 电力、煤炭板块掀涨停潮...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-07-20T07:20:45.431Z"
+  },
+  {
+    "id": "3d425fd54900890aa9d4",
+    "title": "盘前必读丨证监会将就稳市场召开专题座谈会；“国家队”大额增持A股机构认为，产业支撑逻辑并未动摇，指数单边下跌的空间有限。 7小时前",
+    "url": "https://www.yicai.com/news/103281811.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 收盘丨沪指收盘涨0.85% 电力、煤炭板块掀涨停潮...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-07-20T07:20:45.431Z"
+  },
+  {
+    "id": "fbb0035db213160ea8e8",
+    "title": "“国家队”领衔大额增持，还有一大波回购、自购在路上市场剧烈调整后，央企、上市公司、私募接连出手 市场风向标 昨天 23:29",
+    "url": "https://www.yicai.com/news/103281727.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 收盘丨沪指收盘涨0.85% 电力、煤炭板块掀涨停潮...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-07-20T07:20:45.431Z"
   },
   {
     "id": "fbf744179f4a04c44935",
