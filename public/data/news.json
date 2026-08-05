@@ -286,6 +286,29 @@
     "collectedAt": "2026-07-14T12:01:03.213Z"
   },
   {
+    "id": "cdda8d97d9d1dd711bb4",
+    "title": "青春启航 | 临工重机 2026 届大学生入职集训圆满结营",
+    "url": "https://news.d1cm.com/20260805191243.shtml",
+    "source": "第一工程机械网",
+    "sourceType": "industry_media",
+    "board": "industry",
+    "topicIds": [
+      "association-data",
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [
+      "loader"
+    ],
+    "metricTags": [
+      "sales",
+      "production"
+    ],
+    "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
+    "publishedAt": "2026-08-05T04:00:00.000Z",
+    "collectedAt": "2026-08-05T03:24:10.879Z"
+  },
+  {
     "id": "b0b87b0be3dff5cc81e6",
     "title": "六大自主车企7月出口处高位 奇瑞海外销量占比超七成",
     "url": "https://www.cls.cn/detail/2444215",
@@ -330,42 +353,36 @@
       "production"
     ],
     "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
-    "publishedAt": "2026-08-04T23:13:34.660Z",
+    "publishedAt": "2026-08-05T03:25:13.259Z",
     "collectedAt": "2026-08-04T03:28:59.953Z"
   },
   {
-    "id": "a8f6eebeabd64c8036cb",
-    "title": "协会发布《2025年工程机械行业主要经济指标完成情况》",
-    "url": "http://www.cncma.org/article/22674",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
+    "id": "a612c3b3ddd142222c61",
+    "title": "洋马牵手日立建机，日本工程机械开始“抱团”了？",
+    "url": "https://news.d1cm.com/20260805191244.shtml",
+    "source": "第一工程机械网",
+    "sourceType": "industry_media",
     "board": "industry",
     "topicIds": [
-      "association-data"
+      "association-data",
+      "official-data"
     ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "协会发布《2025年工程机械行业主要经济指标完成情况》",
-    "publishedAt": "2026-08-04T23:13:28.325Z",
-    "collectedAt": "2026-07-24T15:02:19.126Z"
-  },
-  {
-    "id": "b479094814e007b1f415",
-    "title": "苏子孟：2026年以来工程机械行业运行分析和当前重点任务",
-    "url": "http://www.cncma.org/article/22649",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
+    "companyCodes": [
+      "000528",
+      "600761"
     ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "苏子孟：2026年以来工程机械行业运行分析和当前重点任务",
-    "publishedAt": "2026-08-04T23:13:28.325Z",
-    "collectedAt": "2026-07-13T10:42:22.959Z"
+    "productTags": [
+      "excavator",
+      "loader"
+    ],
+    "metricTags": [
+      "sales",
+      "cost",
+      "production"
+    ],
+    "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
+    "publishedAt": "2026-08-05T03:25:13.258Z",
+    "collectedAt": "2026-08-05T03:24:10.879Z"
   },
   {
     "id": "fe9bf1754fc099383162",
@@ -381,7 +398,7 @@
     "productTags": [],
     "metricTags": [],
     "summary": "协会组织考察团参观第十八届土耳其工程机械展（KOMATEK2026）",
-    "publishedAt": "2026-08-04T23:13:28.325Z",
+    "publishedAt": "2026-08-05T03:25:07.260Z",
     "collectedAt": "2026-06-25T10:25:10.579Z"
   },
   {
@@ -398,7 +415,219 @@
     "productTags": [],
     "metricTags": [],
     "summary": "协会双碳工作委员会组织召开工程机械企业温室气体排放两项团体标准专家审查会",
-    "publishedAt": "2026-08-04T23:13:28.325Z",
+    "publishedAt": "2026-08-05T03:25:07.260Z",
+    "collectedAt": "2026-06-19T09:21:44.544Z"
+  },
+  {
+    "id": "c733836e4e4bce09a1f4",
+    "title": "2026工程机械行业科技节邀请函",
+    "url": "http://www.cncma.org/article/22482",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "2026工程机械行业科技节邀请函",
+    "publishedAt": "2026-08-05T03:25:07.259Z",
+    "collectedAt": "2026-06-19T09:21:44.544Z"
+  },
+  {
+    "id": "58efdfa1bddbb85a5743",
+    "title": "关于对团体标准《移动式升降工作平台主要零部件报废条件》《擦窗机主要零部件报废条件》《高处作业吊篮主要零部件报废条件》（征求意见稿）征求意见的通知",
+    "url": "http://www.cncma.org/article/22473",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [
+      "aerial_platform"
+    ],
+    "metricTags": [
+      "cost"
+    ],
+    "summary": "关于对团体标准《移动式升降工作平台主要零部件报废条件》《擦窗机主要零部件报废条件》《高处作业吊篮主要零部件报废条件》（征求意见稿）征求意见的通知",
+    "publishedAt": "2026-08-05T03:25:07.259Z",
+    "collectedAt": "2026-06-19T09:21:44.544Z"
+  },
+  {
+    "id": "a8f6eebeabd64c8036cb",
+    "title": "协会发布《2025年工程机械行业主要经济指标完成情况》",
+    "url": "http://www.cncma.org/article/22674",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "协会发布《2025年工程机械行业主要经济指标完成情况》",
+    "publishedAt": "2026-08-05T03:25:07.259Z",
+    "collectedAt": "2026-07-24T15:02:19.126Z"
+  },
+  {
+    "id": "b479094814e007b1f415",
+    "title": "苏子孟：2026年以来工程机械行业运行分析和当前重点任务",
+    "url": "http://www.cncma.org/article/22649",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "苏子孟：2026年以来工程机械行业运行分析和当前重点任务",
+    "publishedAt": "2026-08-05T03:25:07.259Z",
+    "collectedAt": "2026-07-13T10:42:22.959Z"
+  },
+  {
+    "id": "65d94687c44d08ce4cee",
+    "title": "关于转发生态环境部“关于公开征求《非道路移动机械及其发动机污染物排放限值及测量方法(中国第五阶段）（征求意见稿）》意见的通知”",
+    "url": "http://www.cncma.org/article/22594",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "cost"
+    ],
+    "summary": "关于转发生态环境部“关于公开征求《非道路移动机械及其发动机污染物排放限值及测量方法(中国第五阶段）（征求意见稿）》意见的通知”",
+    "publishedAt": "2026-08-05T03:25:07.258Z",
+    "collectedAt": "2026-06-23T10:50:33.109Z"
+  },
+  {
+    "id": "f3c700b84ccc330ffed8",
+    "title": "关于召开“中国工程机械工业协会掘进机械技术交流会”暨“智能拼装盾构施工现场观摩会”的通知",
+    "url": "http://www.cncma.org/article/22522",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "关于召开“中国工程机械工业协会掘进机械技术交流会”暨“智能拼装盾构施工现场观摩会”的通知",
+    "publishedAt": "2026-08-05T03:25:07.258Z",
+    "collectedAt": "2026-06-19T09:21:44.544Z"
+  },
+  {
+    "id": "7b9017df79f52645bc3b",
+    "title": "关于召开“第一届智能建造装备与应用发展大会暨中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议”的通知",
+    "url": "http://www.cncma.org/article/22687",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "关于召开“第一届智能建造装备与应用发展大会暨中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议”的通知",
+    "publishedAt": "2026-08-05T03:25:07.256Z",
+    "collectedAt": "2026-08-03T04:37:38.521Z"
+  },
+  {
+    "id": "7c283c4f16e4f269a60d",
+    "title": "关于转发生态环境部“关于公开征求《关于优化新生产机动车和非道路移动机械排放达标监管工作的通知（征求意见稿）》意见的函”",
+    "url": "http://www.cncma.org/article/22676",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "production"
+    ],
+    "summary": "关于转发生态环境部“关于公开征求《关于优化新生产机动车和非道路移动机械排放达标监管工作的通知（征求意见稿）》意见的函”",
+    "publishedAt": "2026-08-05T03:25:07.256Z",
+    "collectedAt": "2026-07-28T04:18:03.016Z"
+  },
+  {
+    "id": "f8402bdeb04a31d96cfb",
+    "title": "关于召开“中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议暨第一届智能建造装备与应用发展大会”的预通知",
+    "url": "http://www.cncma.org/article/22659",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "关于召开“中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议暨第一届智能建造装备与应用发展大会”的预通知",
+    "publishedAt": "2026-08-05T03:25:07.256Z",
+    "collectedAt": "2026-07-17T06:04:46.643Z"
+  },
+  {
+    "id": "23d0f699bee23ec81f6d",
+    "title": "关于征集工程机械行业智能化发展情况及成果与案例的通知",
+    "url": "http://www.cncma.org/article/22619",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "关于征集工程机械行业智能化发展情况及成果与案例的通知",
+    "publishedAt": "2026-08-05T03:25:07.256Z",
+    "collectedAt": "2026-07-01T11:43:10.295Z"
+  },
+  {
+    "id": "a55dea6839b8a92096f8",
+    "title": "关于对团体标准《工程机械 智能化分级》（征求意见稿）征求意见的通知",
+    "url": "http://www.cncma.org/article/22597",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "关于对团体标准《工程机械 智能化分级》（征求意见稿）征求意见的通知",
+    "publishedAt": "2026-08-05T03:25:07.256Z",
+    "collectedAt": "2026-06-23T10:50:33.109Z"
+  },
+  {
+    "id": "97059f07cbe36293a95a",
+    "title": "2025年工程机械行业科技奖 2025年度“机械工业科学技术奖”工程机械行业获奖项目。",
+    "url": "http://www.cncma.org/col/hypp/1/6",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "2025年工程机械行业科技奖 2025年度“机械工业科学技术奖”工程机械行业获奖项目。",
+    "publishedAt": "2026-08-05T03:25:07.255Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -424,7 +653,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >协会活动 >正文 苏子孟：加快科技创新和产业创新深度融合，为工程机械行业高质量发展作出新贡献 2026年06月15日11:02 2026年6月13日，以“工程机械+智能智造·机器人...",
-    "publishedAt": "2026-08-04T23:13:28.324Z",
+    "publishedAt": "2026-08-05T03:25:07.253Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -455,7 +684,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >协会活动 >正文 苏子孟在“2026年零排放工程机械推广应用交流会”上的致辞 2026年07月29日16:37 2026年7月23日，2026年零排放工程机械推广应用交流会在北京举...",
-    "publishedAt": "2026-08-04T23:13:28.324Z",
+    "publishedAt": "2026-08-05T03:25:07.253Z",
     "collectedAt": "2026-07-29T09:44:51.681Z"
   },
   {
@@ -490,7 +719,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >协会活动 >正文 协会发布《工程机械行业2026年上半年经济运行情况》 2026年07月24日20:32 7月24日，中国工程机械工业协会（以下简称协会）在北京召开了2026年首场...",
-    "publishedAt": "2026-08-04T23:13:28.324Z",
+    "publishedAt": "2026-08-05T03:25:07.253Z",
     "collectedAt": "2026-07-24T15:02:19.126Z"
   },
   {
@@ -515,7 +744,7 @@
       "cost"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >展会动态 >正文 bauma CHINA 2026打通AI工程机械落地赛道 2026年07月31日10:38 7月，世界人工智能大会刚刚在上海落幕。展台上的远程操控座舱和具身智能机...",
-    "publishedAt": "2026-08-04T23:13:28.324Z",
+    "publishedAt": "2026-08-05T03:25:07.253Z",
     "collectedAt": "2026-07-31T04:30:53.424Z"
   },
   {
@@ -541,7 +770,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >相关新闻 >正文 关于工程机械行业企业信用等级评价 2025 年度换证和复审结果的公示 2026年01月06日10:24 相关资讯 关于公布2025 年度企业信用等级评价换证和复审...",
-    "publishedAt": "2026-08-04T23:13:28.324Z",
+    "publishedAt": "2026-08-05T03:25:07.253Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -569,7 +798,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >标准质量 >正文 冰雪装备两项行业标准启动交流会在京召开 2026年07月28日09:00 2026年7月24日，工业和信息化部冰雪装备行业标准化工作组（以下简称标准化工作组）组织...",
-    "publishedAt": "2026-08-04T23:13:28.324Z",
+    "publishedAt": "2026-08-05T03:25:07.253Z",
     "collectedAt": "2026-07-28T04:18:03.016Z"
   },
   {
@@ -589,186 +818,8 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >专家观点 >正文 周卫东：携手搭建国际交流平台，助力工程机械企业拓展海内外市场 2026年07月10日09:59 2026年7月9日，第十八届中国（北京）国际工程机械、建材机械及矿...",
-    "publishedAt": "2026-08-04T23:13:28.324Z",
+    "publishedAt": "2026-08-05T03:25:07.253Z",
     "collectedAt": "2026-07-10T10:37:14.383Z"
-  },
-  {
-    "id": "97059f07cbe36293a95a",
-    "title": "2025年工程机械行业科技奖 2025年度“机械工业科学技术奖”工程机械行业获奖项目。",
-    "url": "http://www.cncma.org/col/hypp/1/6",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "2025年工程机械行业科技奖 2025年度“机械工业科学技术奖”工程机械行业获奖项目。",
-    "publishedAt": "2026-08-04T23:13:28.324Z",
-    "collectedAt": "2026-06-19T09:21:44.544Z"
-  },
-  {
-    "id": "7b9017df79f52645bc3b",
-    "title": "关于召开“第一届智能建造装备与应用发展大会暨中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议”的通知",
-    "url": "http://www.cncma.org/article/22687",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "关于召开“第一届智能建造装备与应用发展大会暨中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议”的通知",
-    "publishedAt": "2026-08-04T23:13:28.324Z",
-    "collectedAt": "2026-08-03T04:37:38.521Z"
-  },
-  {
-    "id": "7c283c4f16e4f269a60d",
-    "title": "关于转发生态环境部“关于公开征求《关于优化新生产机动车和非道路移动机械排放达标监管工作的通知（征求意见稿）》意见的函”",
-    "url": "http://www.cncma.org/article/22676",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [
-      "production"
-    ],
-    "summary": "关于转发生态环境部“关于公开征求《关于优化新生产机动车和非道路移动机械排放达标监管工作的通知（征求意见稿）》意见的函”",
-    "publishedAt": "2026-08-04T23:13:28.324Z",
-    "collectedAt": "2026-07-28T04:18:03.016Z"
-  },
-  {
-    "id": "f8402bdeb04a31d96cfb",
-    "title": "关于召开“中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议暨第一届智能建造装备与应用发展大会”的预通知",
-    "url": "http://www.cncma.org/article/22659",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "关于召开“中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议暨第一届智能建造装备与应用发展大会”的预通知",
-    "publishedAt": "2026-08-04T23:13:28.324Z",
-    "collectedAt": "2026-07-17T06:04:46.643Z"
-  },
-  {
-    "id": "23d0f699bee23ec81f6d",
-    "title": "关于征集工程机械行业智能化发展情况及成果与案例的通知",
-    "url": "http://www.cncma.org/article/22619",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "关于征集工程机械行业智能化发展情况及成果与案例的通知",
-    "publishedAt": "2026-08-04T23:13:28.324Z",
-    "collectedAt": "2026-07-01T11:43:10.295Z"
-  },
-  {
-    "id": "a55dea6839b8a92096f8",
-    "title": "关于对团体标准《工程机械 智能化分级》（征求意见稿）征求意见的通知",
-    "url": "http://www.cncma.org/article/22597",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "关于对团体标准《工程机械 智能化分级》（征求意见稿）征求意见的通知",
-    "publishedAt": "2026-08-04T23:13:28.324Z",
-    "collectedAt": "2026-06-23T10:50:33.109Z"
-  },
-  {
-    "id": "65d94687c44d08ce4cee",
-    "title": "关于转发生态环境部“关于公开征求《非道路移动机械及其发动机污染物排放限值及测量方法(中国第五阶段）（征求意见稿）》意见的通知”",
-    "url": "http://www.cncma.org/article/22594",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [
-      "cost"
-    ],
-    "summary": "关于转发生态环境部“关于公开征求《非道路移动机械及其发动机污染物排放限值及测量方法(中国第五阶段）（征求意见稿）》意见的通知”",
-    "publishedAt": "2026-08-04T23:13:28.324Z",
-    "collectedAt": "2026-06-23T10:50:33.109Z"
-  },
-  {
-    "id": "f3c700b84ccc330ffed8",
-    "title": "关于召开“中国工程机械工业协会掘进机械技术交流会”暨“智能拼装盾构施工现场观摩会”的通知",
-    "url": "http://www.cncma.org/article/22522",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "关于召开“中国工程机械工业协会掘进机械技术交流会”暨“智能拼装盾构施工现场观摩会”的通知",
-    "publishedAt": "2026-08-04T23:13:28.324Z",
-    "collectedAt": "2026-06-19T09:21:44.544Z"
-  },
-  {
-    "id": "c733836e4e4bce09a1f4",
-    "title": "2026工程机械行业科技节邀请函",
-    "url": "http://www.cncma.org/article/22482",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "2026工程机械行业科技节邀请函",
-    "publishedAt": "2026-08-04T23:13:28.324Z",
-    "collectedAt": "2026-06-19T09:21:44.544Z"
-  },
-  {
-    "id": "58efdfa1bddbb85a5743",
-    "title": "关于对团体标准《移动式升降工作平台主要零部件报废条件》《擦窗机主要零部件报废条件》《高处作业吊篮主要零部件报废条件》（征求意见稿）征求意见的通知",
-    "url": "http://www.cncma.org/article/22473",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [
-      "aerial_platform"
-    ],
-    "metricTags": [
-      "cost"
-    ],
-    "summary": "关于对团体标准《移动式升降工作平台主要零部件报废条件》《擦窗机主要零部件报废条件》《高处作业吊篮主要零部件报废条件》（征求意见稿）征求意见的通知",
-    "publishedAt": "2026-08-04T23:13:28.324Z",
-    "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
     "id": "b2333d676cc047ad97cc",
@@ -790,7 +841,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >行业资讯 >正文 2026工程机械行业科技节在杭州正式开幕，权威专家共探行业科技发展新趋势 2026年06月15日09:25 6月13日，2026工程机械行业科技节（以下简称科技节...",
-    "publishedAt": "2026-08-04T23:13:28.323Z",
+    "publishedAt": "2026-08-05T03:25:07.252Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -944,27 +995,6 @@
     "collectedAt": "2026-08-04T06:36:02.461Z"
   },
   {
-    "id": "243c1b15d91f6f350071",
-    "title": "2026年7月下旬流通领域重要生产资料市场价格变动情况",
-    "url": "https://www.stats.gov.cn/sj/zxfb/202608/t20260803_1964273.html",
-    "source": "国家统计局数据发布",
-    "sourceType": "official_data",
-    "board": "industry",
-    "topicIds": [
-      "official-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [
-      "sales",
-      "import",
-      "production"
-    ],
-    "summary": "EN 搜索 首页 机构 新闻 时政要闻 统计新闻 数据 公开 服务 互动 知识 专题 2026/08/04 09:30 | Aa 字体： 小 中 大 | 分享到： 中国统计信息服务中心 卓创资讯 据对全国流通领域9大类50种重要生产资料市场价格的监测显示，2026年7月下旬与7月中旬相比，20种产品价格上涨，27种下降，3种持平。 2026年7月下旬流通领域...",
-    "publishedAt": "2026-08-04T04:00:00.000Z",
-    "collectedAt": "2026-08-04T03:28:59.953Z"
-  },
-  {
     "id": "06b3924f8089acd990a7",
     "title": "对话全球合作伙伴，讲述与山东重工携手共赢的故事",
     "url": "https://news.d1cm.com/20260804191239.shtml",
@@ -1008,6 +1038,27 @@
     "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
     "publishedAt": "2026-08-04T04:00:00.000Z",
     "collectedAt": "2026-08-04T15:30:59.441Z"
+  },
+  {
+    "id": "243c1b15d91f6f350071",
+    "title": "2026年7月下旬流通领域重要生产资料市场价格变动情况",
+    "url": "https://www.stats.gov.cn/sj/zxfb/202608/t20260803_1964273.html",
+    "source": "国家统计局数据发布",
+    "sourceType": "official_data",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "sales",
+      "import",
+      "production"
+    ],
+    "summary": "EN 搜索 首页 机构 新闻 时政要闻 统计新闻 数据 公开 服务 互动 知识 专题 2026/08/04 09:30 | Aa 字体： 小 中 大 | 分享到： 中国统计信息服务中心 卓创资讯 据对全国流通领域9大类50种重要生产资料市场价格的监测显示，2026年7月下旬与7月中旬相比，20种产品价格上涨，27种下降，3种持平。 2026年7月下旬流通领域...",
+    "publishedAt": "2026-08-04T04:00:00.000Z",
+    "collectedAt": "2026-08-04T03:28:59.953Z"
   },
   {
     "id": "a044522a764616cf9aea",
@@ -7538,26 +7589,6 @@
     "collectedAt": "2026-07-16T06:39:20.929Z"
   },
   {
-    "id": "66c9f56ca03bc3787dd1",
-    "title": "2026年二季度和上半年国内生产总值初步核算结果",
-    "url": "https://www.stats.gov.cn/sj/zxfb/202607/t20260716_1964142.html",
-    "source": "国家统计局数据发布",
-    "sourceType": "official_data",
-    "board": "industry",
-    "topicIds": [
-      "official-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [
-      "export",
-      "production"
-    ],
-    "summary": "EN 搜索 首页 机构 新闻 时政要闻 统计新闻 数据 公开 服务 互动 知识 专题 2026/07/16 09:30 | Aa 字体： 小 中 大 | 分享到： 根据有关基础资料和国内生产总值（GDP）核算方法，经初步核算，我国2026年二季度和上半年GDP核算结果如下。 表1 2026年二季度和上半年GDP初步核算数据 绝对额（亿元） 比上年同期增长（%...",
-    "publishedAt": "2026-07-16T04:00:00.000Z",
-    "collectedAt": "2026-07-16T06:39:20.929Z"
-  },
-  {
     "id": "6121a80bf56a868ae815",
     "title": "电动化浪潮已至，工程机械新能源的下一个万亿级赛道",
     "url": "https://news.d1cm.com/20260716190568.shtml",
@@ -7584,6 +7615,26 @@
       "cost"
     ],
     "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
+    "publishedAt": "2026-07-16T04:00:00.000Z",
+    "collectedAt": "2026-07-16T06:39:20.929Z"
+  },
+  {
+    "id": "66c9f56ca03bc3787dd1",
+    "title": "2026年二季度和上半年国内生产总值初步核算结果",
+    "url": "https://www.stats.gov.cn/sj/zxfb/202607/t20260716_1964142.html",
+    "source": "国家统计局数据发布",
+    "sourceType": "official_data",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "export",
+      "production"
+    ],
+    "summary": "EN 搜索 首页 机构 新闻 时政要闻 统计新闻 数据 公开 服务 互动 知识 专题 2026/07/16 09:30 | Aa 字体： 小 中 大 | 分享到： 根据有关基础资料和国内生产总值（GDP）核算方法，经初步核算，我国2026年二季度和上半年GDP核算结果如下。 表1 2026年二季度和上半年GDP初步核算数据 绝对额（亿元） 比上年同期增长（%...",
     "publishedAt": "2026-07-16T04:00:00.000Z",
     "collectedAt": "2026-07-16T06:39:20.929Z"
   },
@@ -9513,12 +9564,9 @@
     ],
     "metricTags": [
       "sales",
-      "export",
-      "operatingRate",
-      "cost",
-      "investment"
+      "export"
     ],
-    "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
+    "summary": "2026年上半年挖掘机市场：内外共振，复苏提速2026 年上半年，中国挖掘机市场交出了一份超出预期的成绩单。据中国工程机械工业协会发布的最新数据，1 至 6 月共销售各类挖掘机械产品 152320 台，同比涨幅达到 26.4%。这一数字不仅标志着行业在经历调整周期后...2026-07-10 09:54 挖掘机出口电动化基建",
     "publishedAt": "2026-07-10T04:00:00.000Z",
     "collectedAt": "2026-07-10T10:37:14.383Z"
   },
@@ -22663,6 +22711,25 @@
     "collectedAt": "2026-07-13T18:13:24.235Z"
   },
   {
+    "id": "3813f98dbedc42a39d22",
+    "title": "美国拟禁止进口中国光模块？业内：难以脱钩，影响可控“美国严格禁止进口中国光模块的可能性较小。” 1小时前",
+    "url": "https://www.yicai.com/news/103305723.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "import"
+    ],
+    "summary": "首页 > 新闻 > A股 分享到：微信微博QQ分享到微信打开微信，点击底部的“发现”，使用“扫一扫”即可将网页分享至朋友圈。 美国拟禁止进口中国光模块？业内：难以脱钩，影响可控 第一财经 2026-08-05 09:52:27 听新闻 作者：黄思瑜 责编：杨佼 AI帮你提炼, 10秒看完要点智能挖掘相关板块, 定位投资机会 AI速读节省{{readTime}...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-08-05T03:24:10.879Z"
+  },
+  {
     "id": "98eff3ec1248d56b3d22",
     "title": "一财社论：拓宽住房公积金使用场景还有很大探索空间拓宽公积金出口、实现综合效益最大化，需要因时而异、因人而异，在审慎的基础上不断加大改革力度。 昨天 20:25",
     "url": "https://www.yicai.com/news/103305112.html",
@@ -22677,7 +22744,7 @@
     "metricTags": [
       "export"
     ],
-    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 AMD收入展望不及最高预期，盘后跌超9%第二季度营收、净利润超市场预期，但第三季度营收展望不及最高的市场预期。 1分钟前 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要...",
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 SpaceX交出上市后首份财报：星链扛盈利、AI烧...",
     "publishedAt": "2025-11-03T04:00:00.000Z",
     "collectedAt": "2026-08-04T15:30:59.441Z"
   },
