@@ -286,9 +286,71 @@
     "collectedAt": "2026-07-14T12:01:03.213Z"
   },
   {
-    "id": "83147c60535a10b37a1e",
-    "title": "当主机厂开始提供“油改电”服务，工程机械后市场正在发生什么变化？",
-    "url": "https://news.d1cm.com/20260804191210.shtml",
+    "id": "de1dcaee6271666c76fa",
+    "title": "三一重工股份有限公司H股公告-证券变动月报表（7月）",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-06/1225459091.PDF",
+    "source": "巨潮资讯网",
+    "sourceType": "exchange_disclosure",
+    "board": "company",
+    "topicIds": [
+      "company-600031",
+      "company-000157",
+      "company-000425",
+      "company-000528",
+      "company-000680",
+      "company-002097",
+      "company-601100",
+      "company-603638",
+      "company-603338",
+      "company-000338",
+      "company-301039",
+      "company-600761",
+      "company-603298"
+    ],
+    "companyCodes": [
+      "600031"
+    ],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "三一重工 三一重工股份有限公司H股公告-证券变动月报表（7月）",
+    "publishedAt": "2026-08-05T16:00:00.000Z",
+    "collectedAt": "2026-08-05T09:42:59.957Z"
+  },
+  {
+    "id": "f15abe73768f2f32aa69",
+    "title": "三一重工股份有限公司关于回购公司A股股份的进展公告",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-06/1225459083.PDF",
+    "source": "巨潮资讯网",
+    "sourceType": "exchange_disclosure",
+    "board": "company",
+    "topicIds": [
+      "company-600031",
+      "company-000157",
+      "company-000425",
+      "company-000528",
+      "company-000680",
+      "company-002097",
+      "company-601100",
+      "company-603638",
+      "company-603338",
+      "company-000338",
+      "company-301039",
+      "company-600761",
+      "company-603298"
+    ],
+    "companyCodes": [
+      "600031"
+    ],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "三一重工 三一重工股份有限公司关于回购公司A股股份的进展公告",
+    "publishedAt": "2026-08-05T16:00:00.000Z",
+    "collectedAt": "2026-08-05T09:42:59.957Z"
+  },
+  {
+    "id": "c57d951feee1cf1d0be5",
+    "title": "C视角|今日十大要闻：利勃海尔启动法国无人挖掘机实地测试、康明斯推迟X10及新一代7升B系列上市",
+    "url": "https://news.d1cm.com/20260805191248.shtml",
     "source": "第一工程机械网",
     "sourceType": "industry_media",
     "board": "industry",
@@ -297,21 +359,17 @@
       "official-data"
     ],
     "companyCodes": [
-      "000528"
+      "000157"
     ],
     "productTags": [
-      "excavator",
-      "loader",
-      "aerial_platform"
+      "excavator"
     ],
     "metricTags": [
-      "sales",
-      "cost",
-      "production"
+      "cost"
     ],
     "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
-    "publishedAt": "2026-08-05T06:37:44.673Z",
-    "collectedAt": "2026-08-04T03:28:59.953Z"
+    "publishedAt": "2026-08-05T09:44:44.758Z",
+    "collectedAt": "2026-08-05T09:42:59.957Z"
   },
   {
     "id": "a612c3b3ddd142222c61",
@@ -338,30 +396,41 @@
       "production"
     ],
     "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
-    "publishedAt": "2026-08-05T06:37:44.672Z",
+    "publishedAt": "2026-08-05T09:44:44.758Z",
     "collectedAt": "2026-08-05T03:24:10.879Z"
   },
   {
-    "id": "b479094814e007b1f415",
-    "title": "苏子孟：2026年以来工程机械行业运行分析和当前重点任务",
-    "url": "http://www.cncma.org/article/22649",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
+    "id": "83147c60535a10b37a1e",
+    "title": "当主机厂开始提供“油改电”服务，工程机械后市场正在发生什么变化？",
+    "url": "https://news.d1cm.com/20260804191210.shtml",
+    "source": "第一工程机械网",
+    "sourceType": "industry_media",
     "board": "industry",
     "topicIds": [
-      "association-data"
+      "association-data",
+      "official-data"
     ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "苏子孟：2026年以来工程机械行业运行分析和当前重点任务",
-    "publishedAt": "2026-08-05T06:37:39.217Z",
-    "collectedAt": "2026-07-13T10:42:22.959Z"
+    "companyCodes": [
+      "000528"
+    ],
+    "productTags": [
+      "excavator",
+      "loader",
+      "aerial_platform"
+    ],
+    "metricTags": [
+      "sales",
+      "cost",
+      "production"
+    ],
+    "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
+    "publishedAt": "2026-08-05T09:44:44.758Z",
+    "collectedAt": "2026-08-04T03:28:59.953Z"
   },
   {
-    "id": "fe9bf1754fc099383162",
-    "title": "协会组织考察团参观第十八届土耳其工程机械展（KOMATEK2026）",
-    "url": "http://www.cncma.org/article/22603",
+    "id": "7b9017df79f52645bc3b",
+    "title": "关于召开“第一届智能建造装备与应用发展大会暨中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议”的通知",
+    "url": "http://www.cncma.org/article/22687",
     "source": "中国工程机械工业协会",
     "sourceType": "association",
     "board": "industry",
@@ -371,14 +440,33 @@
     "companyCodes": [],
     "productTags": [],
     "metricTags": [],
-    "summary": "协会组织考察团参观第十八届土耳其工程机械展（KOMATEK2026）",
-    "publishedAt": "2026-08-05T06:37:39.217Z",
-    "collectedAt": "2026-06-25T10:25:10.579Z"
+    "summary": "关于召开“第一届智能建造装备与应用发展大会暨中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议”的通知",
+    "publishedAt": "2026-08-05T09:44:39.163Z",
+    "collectedAt": "2026-08-03T04:37:38.521Z"
   },
   {
-    "id": "6d394b20674ab42e672f",
-    "title": "协会双碳工作委员会组织召开工程机械企业温室气体排放两项团体标准专家审查会",
-    "url": "http://www.cncma.org/article/22422",
+    "id": "7c283c4f16e4f269a60d",
+    "title": "关于转发生态环境部“关于公开征求《关于优化新生产机动车和非道路移动机械排放达标监管工作的通知（征求意见稿）》意见的函”",
+    "url": "http://www.cncma.org/article/22676",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "production"
+    ],
+    "summary": "关于转发生态环境部“关于公开征求《关于优化新生产机动车和非道路移动机械排放达标监管工作的通知（征求意见稿）》意见的函”",
+    "publishedAt": "2026-08-05T09:44:39.163Z",
+    "collectedAt": "2026-07-28T04:18:03.016Z"
+  },
+  {
+    "id": "f8402bdeb04a31d96cfb",
+    "title": "关于召开“中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议暨第一届智能建造装备与应用发展大会”的预通知",
+    "url": "http://www.cncma.org/article/22659",
     "source": "中国工程机械工业协会",
     "sourceType": "association",
     "board": "industry",
@@ -388,9 +476,43 @@
     "companyCodes": [],
     "productTags": [],
     "metricTags": [],
-    "summary": "协会双碳工作委员会组织召开工程机械企业温室气体排放两项团体标准专家审查会",
-    "publishedAt": "2026-08-05T06:37:39.217Z",
-    "collectedAt": "2026-06-19T09:21:44.544Z"
+    "summary": "关于召开“中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议暨第一届智能建造装备与应用发展大会”的预通知",
+    "publishedAt": "2026-08-05T09:44:39.163Z",
+    "collectedAt": "2026-07-17T06:04:46.643Z"
+  },
+  {
+    "id": "23d0f699bee23ec81f6d",
+    "title": "关于征集工程机械行业智能化发展情况及成果与案例的通知",
+    "url": "http://www.cncma.org/article/22619",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "关于征集工程机械行业智能化发展情况及成果与案例的通知",
+    "publishedAt": "2026-08-05T09:44:39.163Z",
+    "collectedAt": "2026-07-01T11:43:10.295Z"
+  },
+  {
+    "id": "a55dea6839b8a92096f8",
+    "title": "关于对团体标准《工程机械 智能化分级》（征求意见稿）征求意见的通知",
+    "url": "http://www.cncma.org/article/22597",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "关于对团体标准《工程机械 智能化分级》（征求意见稿）征求意见的通知",
+    "publishedAt": "2026-08-05T09:44:39.163Z",
+    "collectedAt": "2026-06-23T10:50:33.109Z"
   },
   {
     "id": "65d94687c44d08ce4cee",
@@ -408,7 +530,7 @@
       "cost"
     ],
     "summary": "关于转发生态环境部“关于公开征求《非道路移动机械及其发动机污染物排放限值及测量方法(中国第五阶段）（征求意见稿）》意见的通知”",
-    "publishedAt": "2026-08-05T06:37:39.216Z",
+    "publishedAt": "2026-08-05T09:44:39.163Z",
     "collectedAt": "2026-06-23T10:50:33.109Z"
   },
   {
@@ -425,7 +547,7 @@
     "productTags": [],
     "metricTags": [],
     "summary": "关于召开“中国工程机械工业协会掘进机械技术交流会”暨“智能拼装盾构施工现场观摩会”的通知",
-    "publishedAt": "2026-08-05T06:37:39.216Z",
+    "publishedAt": "2026-08-05T09:44:39.163Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -442,7 +564,7 @@
     "productTags": [],
     "metricTags": [],
     "summary": "2026工程机械行业科技节邀请函",
-    "publishedAt": "2026-08-05T06:37:39.216Z",
+    "publishedAt": "2026-08-05T09:44:39.163Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -463,7 +585,7 @@
       "cost"
     ],
     "summary": "关于对团体标准《移动式升降工作平台主要零部件报废条件》《擦窗机主要零部件报废条件》《高处作业吊篮主要零部件报废条件》（征求意见稿）征求意见的通知",
-    "publishedAt": "2026-08-05T06:37:39.216Z",
+    "publishedAt": "2026-08-05T09:44:39.163Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -480,13 +602,13 @@
     "productTags": [],
     "metricTags": [],
     "summary": "协会发布《2025年工程机械行业主要经济指标完成情况》",
-    "publishedAt": "2026-08-05T06:37:39.216Z",
+    "publishedAt": "2026-08-05T09:44:39.163Z",
     "collectedAt": "2026-07-24T15:02:19.126Z"
   },
   {
-    "id": "97059f07cbe36293a95a",
-    "title": "2025年工程机械行业科技奖 2025年度“机械工业科学技术奖”工程机械行业获奖项目。",
-    "url": "http://www.cncma.org/col/hypp/1/6",
+    "id": "b479094814e007b1f415",
+    "title": "苏子孟：2026年以来工程机械行业运行分析和当前重点任务",
+    "url": "http://www.cncma.org/article/22649",
     "source": "中国工程机械工业协会",
     "sourceType": "association",
     "board": "industry",
@@ -496,96 +618,43 @@
     "companyCodes": [],
     "productTags": [],
     "metricTags": [],
-    "summary": "2025年工程机械行业科技奖 2025年度“机械工业科学技术奖”工程机械行业获奖项目。",
-    "publishedAt": "2026-08-05T06:37:39.215Z",
+    "summary": "苏子孟：2026年以来工程机械行业运行分析和当前重点任务",
+    "publishedAt": "2026-08-05T09:44:39.163Z",
+    "collectedAt": "2026-07-13T10:42:22.959Z"
+  },
+  {
+    "id": "fe9bf1754fc099383162",
+    "title": "协会组织考察团参观第十八届土耳其工程机械展（KOMATEK2026）",
+    "url": "http://www.cncma.org/article/22603",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "协会组织考察团参观第十八届土耳其工程机械展（KOMATEK2026）",
+    "publishedAt": "2026-08-05T09:44:39.163Z",
+    "collectedAt": "2026-06-25T10:25:10.579Z"
+  },
+  {
+    "id": "6d394b20674ab42e672f",
+    "title": "协会双碳工作委员会组织召开工程机械企业温室气体排放两项团体标准专家审查会",
+    "url": "http://www.cncma.org/article/22422",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "协会双碳工作委员会组织召开工程机械企业温室气体排放两项团体标准专家审查会",
+    "publishedAt": "2026-08-05T09:44:39.163Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
-  },
-  {
-    "id": "7b9017df79f52645bc3b",
-    "title": "关于召开“第一届智能建造装备与应用发展大会暨中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议”的通知",
-    "url": "http://www.cncma.org/article/22687",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "关于召开“第一届智能建造装备与应用发展大会暨中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议”的通知",
-    "publishedAt": "2026-08-05T06:37:39.215Z",
-    "collectedAt": "2026-08-03T04:37:38.521Z"
-  },
-  {
-    "id": "7c283c4f16e4f269a60d",
-    "title": "关于转发生态环境部“关于公开征求《关于优化新生产机动车和非道路移动机械排放达标监管工作的通知（征求意见稿）》意见的函”",
-    "url": "http://www.cncma.org/article/22676",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [
-      "production"
-    ],
-    "summary": "关于转发生态环境部“关于公开征求《关于优化新生产机动车和非道路移动机械排放达标监管工作的通知（征求意见稿）》意见的函”",
-    "publishedAt": "2026-08-05T06:37:39.215Z",
-    "collectedAt": "2026-07-28T04:18:03.016Z"
-  },
-  {
-    "id": "f8402bdeb04a31d96cfb",
-    "title": "关于召开“中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议暨第一届智能建造装备与应用发展大会”的预通知",
-    "url": "http://www.cncma.org/article/22659",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "关于召开“中国工程机械工业协会智能建造装备与应用工作委员会2026年工作会议暨第一届智能建造装备与应用发展大会”的预通知",
-    "publishedAt": "2026-08-05T06:37:39.215Z",
-    "collectedAt": "2026-07-17T06:04:46.643Z"
-  },
-  {
-    "id": "23d0f699bee23ec81f6d",
-    "title": "关于征集工程机械行业智能化发展情况及成果与案例的通知",
-    "url": "http://www.cncma.org/article/22619",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "关于征集工程机械行业智能化发展情况及成果与案例的通知",
-    "publishedAt": "2026-08-05T06:37:39.215Z",
-    "collectedAt": "2026-07-01T11:43:10.295Z"
-  },
-  {
-    "id": "a55dea6839b8a92096f8",
-    "title": "关于对团体标准《工程机械 智能化分级》（征求意见稿）征求意见的通知",
-    "url": "http://www.cncma.org/article/22597",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "关于对团体标准《工程机械 智能化分级》（征求意见稿）征求意见的通知",
-    "publishedAt": "2026-08-05T06:37:39.215Z",
-    "collectedAt": "2026-06-23T10:50:33.109Z"
   },
   {
     "id": "b2333d676cc047ad97cc",
@@ -607,7 +676,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >行业资讯 >正文 2026工程机械行业科技节在杭州正式开幕，权威专家共探行业科技发展新趋势 2026年06月15日09:25 6月13日，2026工程机械行业科技节（以下简称科技节...",
-    "publishedAt": "2026-08-05T06:37:39.214Z",
+    "publishedAt": "2026-08-05T09:44:39.162Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -633,7 +702,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >协会活动 >正文 苏子孟：加快科技创新和产业创新深度融合，为工程机械行业高质量发展作出新贡献 2026年06月15日11:02 2026年6月13日，以“工程机械+智能智造·机器人...",
-    "publishedAt": "2026-08-05T06:37:39.214Z",
+    "publishedAt": "2026-08-05T09:44:39.162Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -664,7 +733,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >协会活动 >正文 苏子孟在“2026年零排放工程机械推广应用交流会”上的致辞 2026年07月29日16:37 2026年7月23日，2026年零排放工程机械推广应用交流会在北京举...",
-    "publishedAt": "2026-08-05T06:37:39.214Z",
+    "publishedAt": "2026-08-05T09:44:39.162Z",
     "collectedAt": "2026-07-29T09:44:51.681Z"
   },
   {
@@ -699,7 +768,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >协会活动 >正文 协会发布《工程机械行业2026年上半年经济运行情况》 2026年07月24日20:32 7月24日，中国工程机械工业协会（以下简称协会）在北京召开了2026年首场...",
-    "publishedAt": "2026-08-05T06:37:39.214Z",
+    "publishedAt": "2026-08-05T09:44:39.162Z",
     "collectedAt": "2026-07-24T15:02:19.126Z"
   },
   {
@@ -724,7 +793,7 @@
       "cost"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >展会动态 >正文 bauma CHINA 2026打通AI工程机械落地赛道 2026年07月31日10:38 7月，世界人工智能大会刚刚在上海落幕。展台上的远程操控座舱和具身智能机...",
-    "publishedAt": "2026-08-05T06:37:39.214Z",
+    "publishedAt": "2026-08-05T09:44:39.162Z",
     "collectedAt": "2026-07-31T04:30:53.424Z"
   },
   {
@@ -750,7 +819,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >相关新闻 >正文 关于工程机械行业企业信用等级评价 2025 年度换证和复审结果的公示 2026年01月06日10:24 相关资讯 关于公布2025 年度企业信用等级评价换证和复审...",
-    "publishedAt": "2026-08-05T06:37:39.214Z",
+    "publishedAt": "2026-08-05T09:44:39.162Z",
     "collectedAt": "2026-06-19T09:21:44.544Z"
   },
   {
@@ -778,7 +847,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >标准质量 >正文 冰雪装备两项行业标准启动交流会在京召开 2026年07月28日09:00 2026年7月24日，工业和信息化部冰雪装备行业标准化工作组（以下简称标准化工作组）组织...",
-    "publishedAt": "2026-08-05T06:37:39.214Z",
+    "publishedAt": "2026-08-05T09:44:39.162Z",
     "collectedAt": "2026-07-28T04:18:03.016Z"
   },
   {
@@ -798,8 +867,49 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >专家观点 >正文 周卫东：携手搭建国际交流平台，助力工程机械企业拓展海内外市场 2026年07月10日09:59 2026年7月9日，第十八届中国（北京）国际工程机械、建材机械及矿...",
-    "publishedAt": "2026-08-05T06:37:39.214Z",
+    "publishedAt": "2026-08-05T09:44:39.162Z",
     "collectedAt": "2026-07-10T10:37:14.383Z"
+  },
+  {
+    "id": "97059f07cbe36293a95a",
+    "title": "2025年工程机械行业科技奖 2025年度“机械工业科学技术奖”工程机械行业获奖项目。",
+    "url": "http://www.cncma.org/col/hypp/1/6",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "2025年工程机械行业科技奖 2025年度“机械工业科学技术奖”工程机械行业获奖项目。",
+    "publishedAt": "2026-08-05T09:44:39.162Z",
+    "collectedAt": "2026-06-19T09:21:44.544Z"
+  },
+  {
+    "id": "182b5fee0951cf454779",
+    "title": "匠心筑校园 | 宝马格全套设备助力宿迁项里高级中学道路工程建设",
+    "url": "https://news.d1cm.com/20260805191247.shtml",
+    "source": "第一工程机械网",
+    "sourceType": "industry_media",
+    "board": "industry",
+    "topicIds": [
+      "association-data",
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [
+      "roller"
+    ],
+    "metricTags": [
+      "sales",
+      "cost",
+      "production"
+    ],
+    "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
+    "publishedAt": "2026-08-05T04:00:00.000Z",
+    "collectedAt": "2026-08-05T09:42:59.957Z"
   },
   {
     "id": "cdda8d97d9d1dd711bb4",
@@ -995,6 +1105,27 @@
     "collectedAt": "2026-08-04T06:36:02.461Z"
   },
   {
+    "id": "243c1b15d91f6f350071",
+    "title": "2026年7月下旬流通领域重要生产资料市场价格变动情况",
+    "url": "https://www.stats.gov.cn/sj/zxfb/202608/t20260803_1964273.html",
+    "source": "国家统计局数据发布",
+    "sourceType": "official_data",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "sales",
+      "import",
+      "production"
+    ],
+    "summary": "EN 搜索 首页 机构 新闻 时政要闻 统计新闻 数据 公开 服务 互动 知识 专题 2026/08/04 09:30 | Aa 字体： 小 中 大 | 分享到： 中国统计信息服务中心 卓创资讯 据对全国流通领域9大类50种重要生产资料市场价格的监测显示，2026年7月下旬与7月中旬相比，20种产品价格上涨，27种下降，3种持平。 2026年7月下旬流通领域...",
+    "publishedAt": "2026-08-04T04:00:00.000Z",
+    "collectedAt": "2026-08-04T03:28:59.953Z"
+  },
+  {
     "id": "06b3924f8089acd990a7",
     "title": "对话全球合作伙伴，讲述与山东重工携手共赢的故事",
     "url": "https://news.d1cm.com/20260804191239.shtml",
@@ -1038,27 +1169,6 @@
     "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
     "publishedAt": "2026-08-04T04:00:00.000Z",
     "collectedAt": "2026-08-04T15:30:59.441Z"
-  },
-  {
-    "id": "243c1b15d91f6f350071",
-    "title": "2026年7月下旬流通领域重要生产资料市场价格变动情况",
-    "url": "https://www.stats.gov.cn/sj/zxfb/202608/t20260803_1964273.html",
-    "source": "国家统计局数据发布",
-    "sourceType": "official_data",
-    "board": "industry",
-    "topicIds": [
-      "official-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [
-      "sales",
-      "import",
-      "production"
-    ],
-    "summary": "EN 搜索 首页 机构 新闻 时政要闻 统计新闻 数据 公开 服务 互动 知识 专题 2026/08/04 09:30 | Aa 字体： 小 中 大 | 分享到： 中国统计信息服务中心 卓创资讯 据对全国流通领域9大类50种重要生产资料市场价格的监测显示，2026年7月下旬与7月中旬相比，20种产品价格上涨，27种下降，3种持平。 2026年7月下旬流通领域...",
-    "publishedAt": "2026-08-04T04:00:00.000Z",
-    "collectedAt": "2026-08-04T03:28:59.953Z"
   },
   {
     "id": "a044522a764616cf9aea",
@@ -7589,6 +7699,26 @@
     "collectedAt": "2026-07-16T06:39:20.929Z"
   },
   {
+    "id": "66c9f56ca03bc3787dd1",
+    "title": "2026年二季度和上半年国内生产总值初步核算结果",
+    "url": "https://www.stats.gov.cn/sj/zxfb/202607/t20260716_1964142.html",
+    "source": "国家统计局数据发布",
+    "sourceType": "official_data",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "export",
+      "production"
+    ],
+    "summary": "EN 搜索 首页 机构 新闻 时政要闻 统计新闻 数据 公开 服务 互动 知识 专题 2026/07/16 09:30 | Aa 字体： 小 中 大 | 分享到： 根据有关基础资料和国内生产总值（GDP）核算方法，经初步核算，我国2026年二季度和上半年GDP核算结果如下。 表1 2026年二季度和上半年GDP初步核算数据 绝对额（亿元） 比上年同期增长（%...",
+    "publishedAt": "2026-07-16T04:00:00.000Z",
+    "collectedAt": "2026-07-16T06:39:20.929Z"
+  },
+  {
     "id": "6121a80bf56a868ae815",
     "title": "电动化浪潮已至，工程机械新能源的下一个万亿级赛道",
     "url": "https://news.d1cm.com/20260716190568.shtml",
@@ -7615,26 +7745,6 @@
       "cost"
     ],
     "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
-    "publishedAt": "2026-07-16T04:00:00.000Z",
-    "collectedAt": "2026-07-16T06:39:20.929Z"
-  },
-  {
-    "id": "66c9f56ca03bc3787dd1",
-    "title": "2026年二季度和上半年国内生产总值初步核算结果",
-    "url": "https://www.stats.gov.cn/sj/zxfb/202607/t20260716_1964142.html",
-    "source": "国家统计局数据发布",
-    "sourceType": "official_data",
-    "board": "industry",
-    "topicIds": [
-      "official-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [
-      "export",
-      "production"
-    ],
-    "summary": "EN 搜索 首页 机构 新闻 时政要闻 统计新闻 数据 公开 服务 互动 知识 专题 2026/07/16 09:30 | Aa 字体： 小 中 大 | 分享到： 根据有关基础资料和国内生产总值（GDP）核算方法，经初步核算，我国2026年二季度和上半年GDP核算结果如下。 表1 2026年二季度和上半年GDP初步核算数据 绝对额（亿元） 比上年同期增长（%...",
     "publishedAt": "2026-07-16T04:00:00.000Z",
     "collectedAt": "2026-07-16T06:39:20.929Z"
   },
@@ -22711,8 +22821,142 @@
     "collectedAt": "2026-07-13T18:13:24.235Z"
   },
   {
+    "id": "7362b01968ded6be0415",
+    "title": "商务部：对相关进口打印复印办公设备发起对外贸易国家安全立案调查根据商务部公告，本次调查对象为装有外国系统软件的具有打印、复印功能的进口办公设备。 1小时前",
+    "url": "https://www.yicai.com/news/103306570.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "import",
+      "production"
+    ],
+    "summary": "首页 > 新闻 > 全球频道 分享到：微信微博QQ分享到微信打开微信，点击底部的“发现”，使用“扫一扫”即可将网页分享至朋友圈。 商务部：对相关进口打印复印办公设备发起对外贸易国家安全立案调查 第一财经 2026-08-05 16:33:26 听新闻 作者：冯迪凡 责编：潘寅茹 AI帮你提炼, 10秒看完要点智能挖掘相关板块, 定位投资机会 AI速读节省{{...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-08-05T09:42:59.957Z"
+  },
+  {
+    "id": "558c7ff4b5f6501f5720",
+    "title": "白宫召集AI巨头闭门会，美版AI模型监管框架确定了？专家认为，白宫目前推行的实质上是一种“软合规体系”。 2小时前",
+    "url": "https://www.yicai.com/news/103306335.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "import"
+    ],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 商务部：对相关进口打印复印办公设备发起对外贸易国家...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-08-05T09:42:59.957Z"
+  },
+  {
+    "id": "6521e04adbfe9a0ddd3f",
+    "title": "从暑期到国庆无缝接力：“请3休13”拉长旅游消费窗口期2026 年中秋与国庆假期拼接形成的超长假期正推动跨境游市场提前启动，通过“请 3 休 13\"的拼假策略显著拉长了旅游消费窗口期并带动了上下游产业的营收提升。 3小时前",
+    "url": "https://www.yicai.com/news/103306295.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "import"
+    ],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 商务部：对相关进口打印复印办公设备发起对外贸易国家...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-08-05T09:42:59.957Z"
+  },
+  {
+    "id": "6bd1b9aa6039ffdc00a1",
+    "title": "与中国绿色转型同行，宝马的可持续长跑 3小时前",
+    "url": "https://www.yicai.com/news/103306297.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "import"
+    ],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 商务部：对相关进口打印复印办公设备发起对外贸易国家...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-08-05T09:42:59.957Z"
+  },
+  {
+    "id": "0cb6a3266e67c7d7cfb9",
+    "title": "外交争端加剧！特朗普政府撤销巴西驻美大使签证美国和巴西在外交领域针锋相对的局面始于今年3月。 3小时前",
+    "url": "https://www.yicai.com/news/103306237.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "import"
+    ],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 商务部：对相关进口打印复印办公设备发起对外贸易国家...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-08-05T09:42:59.957Z"
+  },
+  {
+    "id": "5be24e25047484f42582",
+    "title": "“易中天”市值跌超1000亿元，美国禁令或扰乱光模块供应生态国内光模块厂商与海外客户的深度绑定，成为相关禁令消息扰动股市的背景。 4小时前",
+    "url": "https://www.yicai.com/news/103306149.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "import"
+    ],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 商务部：对相关进口打印复印办公设备发起对外贸易国家...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-08-05T09:42:59.957Z"
+  },
+  {
+    "id": "7221d5b0f6562f308f8d",
+    "title": "美财长重申“不惜一切代价”支持日本稳定汇市，市场却很担心市场对于联合干预的中长期效果存疑，但担心短期内随着联合干预令日元走强，恐再度导致日元套利交易平仓，冲击全球市场。 4小时前",
+    "url": "https://www.yicai.com/news/103306128.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "import"
+    ],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 商务部：对相关进口打印复印办公设备发起对外贸易国家...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-08-05T09:42:59.957Z"
+  },
+  {
     "id": "b0c0a7374ad3160a13db",
-    "title": "重建信用：当前最紧迫的“软基建”让市场真正感受到一个可预期、可信赖的未来，信心自会逐步回归，内需自会渐次回暖。 2小时前",
+    "title": "重建信用：当前最紧迫的“软基建”让市场真正感受到一个可预期、可信赖的未来，信心自会逐步回归，内需自会渐次回暖。 5小时前",
     "url": "https://www.yicai.com/news/103306058.html",
     "source": "第一财经",
     "sourceType": "finance_media",
@@ -22723,16 +22967,72 @@
     "companyCodes": [],
     "productTags": [],
     "metricTags": [
-      "investment",
-      "production"
+      "import"
     ],
-    "summary": "首页 > 新闻 > 评论 分享到：微信微博QQ分享到微信打开微信，点击底部的“发现”，使用“扫一扫”即可将网页分享至朋友圈。 重建信用：当前最紧迫的“软基建” 第一财经 2026-08-05 12:07:30 听新闻 作者：刘锋 责编：任绍敏 AI帮你提炼, 10秒看完要点智能挖掘相关板块, 定位投资机会 AI速读节省{{readTime}}分钟阅读时间 {...",
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 商务部：对相关进口打印复印办公设备发起对外贸易国家...",
     "publishedAt": "2025-11-03T04:00:00.000Z",
     "collectedAt": "2026-08-05T06:36:47.017Z"
   },
   {
+    "id": "a08444a6a28a67e70e1b",
+    "title": "SpaceX交出上市后首份财报：星链扛盈利、AI烧钱不止自6月上市后，SpaceX在股价达到峰值225.64美元/股后经历震荡下跌行情，前段时间其股价已跌破发行价。 6小时前",
+    "url": "https://www.yicai.com/news/103305982.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "import"
+    ],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 商务部：对相关进口打印复印办公设备发起对外贸易国家...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-08-05T09:42:59.957Z"
+  },
+  {
+    "id": "3264f42d65d9ba8c3393",
+    "title": "“易中天”回应“美国光模块禁令”传闻光模块厂商仍在评估事件影响。 6小时前",
+    "url": "https://www.yicai.com/news/103305953.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "import"
+    ],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 商务部：对相关进口打印复印办公设备发起对外贸易国家...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-08-05T09:42:59.957Z"
+  },
+  {
+    "id": "af8c6c7d2ed0f18655ea",
+    "title": "深圳楼市7月淡季不淡，二手豪宅签约量达近六年峰值楼市修复态势有望将延续至三季度中后期。 7小时前",
+    "url": "https://www.yicai.com/news/103305752.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "import"
+    ],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 商务部：对相关进口打印复印办公设备发起对外贸易国家...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-08-05T09:42:59.957Z"
+  },
+  {
     "id": "3813f98dbedc42a39d22",
-    "title": "美国拟禁止进口中国光模块？业内：难以脱钩，影响可控“美国严格禁止进口中国光模块的可能性较小。” 4小时前",
+    "title": "美国拟禁止进口中国光模块？业内：难以脱钩，影响可控“美国严格禁止进口中国光模块的可能性较小。” 7小时前",
     "url": "https://www.yicai.com/news/103305723.html",
     "source": "第一财经",
     "sourceType": "finance_media",
@@ -22745,9 +23045,66 @@
     "metricTags": [
       "import"
     ],
-    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 从暑期到国庆无缝接力：“请3休13”拉长旅游消费窗...",
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 商务部：对相关进口打印复印办公设备发起对外贸易国家...",
     "publishedAt": "2025-11-03T04:00:00.000Z",
     "collectedAt": "2026-08-05T03:24:10.879Z"
+  },
+  {
+    "id": "44b3370cdfcf8807d8ac",
+    "title": "英国AI安全机构披露：Anthropic与OpenAI模型在安全测试中失控机构表示，这是首次在没有特定提示的情况下看到与自主性和欺骗性相关的风险显现。 8小时前",
+    "url": "https://www.yicai.com/news/103305600.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "import"
+    ],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 商务部：对相关进口打印复印办公设备发起对外贸易国家...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-08-05T09:42:59.957Z"
+  },
+  {
+    "id": "03d8a6c8a088cf85741d",
+    "title": "A股四大指数集体低开，CPO概念股大幅回调稀土永磁、智能驾驶、黄金逆势走强。市场逾2400股下跌。 8小时前",
+    "url": "https://www.yicai.com/news/103305607.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "import"
+    ],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 商务部：对相关进口打印复印办公设备发起对外贸易国家...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-08-05T09:42:59.957Z"
+  },
+  {
+    "id": "53d5bbb0957d90a4f764",
+    "title": "盘前必读丨日韩股市高开SK海力士涨超6%；联创光电及实控人被证监会立案机构认为，市场震荡为主，趋势行情还需确认。 9小时前",
+    "url": "https://www.yicai.com/news/103305479.html",
+    "source": "第一财经",
+    "sourceType": "finance_media",
+    "board": "industry",
+    "topicIds": [
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "import"
+    ],
+    "summary": "公告臻选｜捕捉每日公告中的“黄金机会”告别信息过载，把握市场先机，捕捉每天公告中的“黄金机会”。 2025-11-03 14:49 盘前点金｜研判主题机会 挖掘潜力个股每日盘前，为您抢先捕捉关键讯息（①最新券商观点；②高关注题材；③财经要闻重点；④潜力标的挖掘），助您从容开启交易日！ 01-07 10:02 商务部：对相关进口打印复印办公设备发起对外贸易国家...",
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-08-05T09:42:59.957Z"
   },
   {
     "id": "98eff3ec1248d56b3d22",
