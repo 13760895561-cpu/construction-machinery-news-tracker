@@ -194,6 +194,25 @@
     "excerpt": "②外贸结构持续优化，出口机电产品占总值63.5%，对共..."
   },
   {
+    "id": "2a4e0c53b15a1672d297",
+    "title": "加对美出口总额约5%受到新关税影响 但其破坏力可能不止于经济层面",
+    "source": "财联社",
+    "url": "https://www.cls.cn/detail/2461384",
+    "board": "industry",
+    "metricType": "export",
+    "metricLabel": "出口",
+    "productTags": [],
+    "companyCodes": [],
+    "period": "2026-09",
+    "value": 5,
+    "unit": "%",
+    "yoy": null,
+    "mom": null,
+    "publishedAt": "2026-09-03T04:00:00.000Z",
+    "collectedAt": "2026-08-22T07:38:14.971Z",
+    "excerpt": "加对美出口总额约5%受到新关税影响 但其破坏力可能不止于经济层面"
+  },
+  {
     "id": "fcbe9773a50bc425886d",
     "title": "特朗普政府强化关键矿产供应链建设 三大项目获5800万美元融资支持",
     "source": "财联社",
@@ -270,25 +289,6 @@
     "excerpt": "关于我们网站声明联系方式用户反馈网站地图帮助首页电报话题盯盘VIPFM投研下载飙升116.57%，7月集成电路出口金额同比实现翻倍式增长原创官方经济政策2026-08-07 13:05 星期五财联社 沈超责编 王天勇①7月，集成电路、汽车、船舶出口金额同比分别大涨116.57%、60.35%、92.37%，拉动出口增长"
   },
   {
-    "id": "6387902bcd0f970fba38",
-    "title": "加对美出口总额约5%受到新关税影响",
-    "source": "财联社",
-    "url": "https://www.cls.cn/detail/2461384",
-    "board": "industry",
-    "metricType": "export",
-    "metricLabel": "出口",
-    "productTags": [],
-    "companyCodes": [],
-    "period": "2026-08",
-    "value": 5,
-    "unit": "%",
-    "yoy": null,
-    "mom": null,
-    "publishedAt": "2026-08-22T12:56:25.788Z",
-    "collectedAt": "2026-08-22T07:38:14.971Z",
-    "excerpt": "加对美出口总额约5%受到新关税影响"
-  },
-  {
     "id": "fbcad5bfcf7c460cb8d4",
     "title": "加拿大总理卡尼：将以同等幅度实施反制",
     "source": "财联社",
@@ -306,6 +306,25 @@
     "publishedAt": "2026-08-22T12:56:25.788Z",
     "collectedAt": "2026-08-22T12:54:42.363Z",
     "excerpt": "加对美出口总额约5%受到新关税影响加拿大总理卡尼：将以同等幅度实施反制加拿大拒绝与美国敲定贸易协议"
+  },
+  {
+    "id": "6387902bcd0f970fba38",
+    "title": "加对美出口总额约5%受到新关税影响",
+    "source": "财联社",
+    "url": "https://www.cls.cn/detail/2461384",
+    "board": "industry",
+    "metricType": "export",
+    "metricLabel": "出口",
+    "productTags": [],
+    "companyCodes": [],
+    "period": "2026-08",
+    "value": 5,
+    "unit": "%",
+    "yoy": null,
+    "mom": null,
+    "publishedAt": "2026-08-22T12:56:25.788Z",
+    "collectedAt": "2026-08-22T07:38:14.971Z",
+    "excerpt": "加对美出口总额约5%受到新关税影响"
   },
   {
     "id": "aae8ddaf092a6502bd0b",
