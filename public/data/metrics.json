@@ -194,6 +194,27 @@
     "excerpt": "②外贸结构持续优化，出口机电产品占总值63.5%，对共..."
   },
   {
+    "id": "64db4920055075084f81",
+    "title": "2026年8月销售各类装载机10832台，国内销量同比增长13.6%",
+    "source": "第一工程机械网",
+    "url": "https://news.d1cm.com/20260907192395.shtml",
+    "board": "industry",
+    "metricType": "sales",
+    "metricLabel": "销量",
+    "productTags": [
+      "loader"
+    ],
+    "companyCodes": [],
+    "period": "2026-08",
+    "value": 10832,
+    "unit": "台",
+    "yoy": 13.6,
+    "mom": null,
+    "publishedAt": "2027-01-06T04:00:00.000Z",
+    "collectedAt": "2026-09-07T16:23:20.305Z",
+    "excerpt": "2026年8月销售各类装载机10832台，国内销量同比增长13.6%"
+  },
+  {
     "id": "9ca5b78fa6a4bf4d4f84",
     "title": "财政部将向中国进出口银行注资300亿元",
     "source": "财联社",
@@ -1497,6 +1518,27 @@
     "publishedAt": "2026-06-08T04:00:00.000Z",
     "collectedAt": "2026-08-13T16:06:20.475Z",
     "excerpt": "闪迪亮出财务蓝图：2030年前毛利率看向80% 投后剩余现金100%回馈股东OpenAI首席营收官突然离职 本周第二位核心高管出走AI数据平台Databricks完成50亿美元融资 估值升至1900亿美元AI交易降温后银行股受益 华尔街押注金融板块延续上涨美联储哈马克发出最强鹰声：需要立即加息以压低过高的通胀业绩增长超预期 中芯国际Q2销售收入达30亿美元 "
+  },
+  {
+    "id": "14e00d7177f68fa7bf03",
+    "title": "2026年8月销售各类挖掘机19716台，国内销量同比增长3.92%",
+    "source": "第一工程机械网",
+    "url": "https://news.d1cm.com/20260907192391.shtml",
+    "board": "industry",
+    "metricType": "sales",
+    "metricLabel": "销量",
+    "productTags": [
+      "excavator"
+    ],
+    "companyCodes": [],
+    "period": "2026-08",
+    "value": 19716,
+    "unit": "台",
+    "yoy": 3.92,
+    "mom": null,
+    "publishedAt": "2026-05-31T04:00:00.000Z",
+    "collectedAt": "2026-09-07T16:23:20.305Z",
+    "excerpt": "2026年8月销售各类挖掘机19716台，国内销量同比增长3.92%"
   },
   {
     "id": "4a0fbca8c1427c9b3850",
