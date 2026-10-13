@@ -954,6 +954,25 @@
     "excerpt": "美国炼油商股价走低 政府酝酿柴油出口禁令传闻持续发酵特朗普重新定义AI：美国今后将把人工智能称为“超级智能”欧洲九大制药商发布公开信 呼吁政府加大对医药领域的投入欧洲市值最高的企业，竟在欧洲本土“零销售”12.01元/股"
   },
   {
+    "id": "62bb0fb6ebbdf878daa8",
+    "title": "日本9月物价指数居高不下 12月加息已经箭在弦上？",
+    "source": "财联社",
+    "url": "https://www.cls.cn/detail/2503186",
+    "board": "industry",
+    "metricType": "import",
+    "metricLabel": "进口",
+    "productTags": [],
+    "companyCodes": [],
+    "period": "2026-10",
+    "value": 6.8,
+    "unit": "%",
+    "yoy": 6.8,
+    "mom": null,
+    "publishedAt": "2026-10-14T04:00:00.000Z",
+    "collectedAt": "2026-10-13T07:37:03.513Z",
+    "excerpt": "原创环球市场情报2026-10-13 13:10 星期二财联社 刘蕊责编 林琦①日本9月企业批发物价同比上涨6.8%，以日元计价的商品进口价格指数同比飙升24.5%"
+  },
+  {
     "id": "57646c5f1de4844c18b1",
     "title": "新能源汽车增值税出口退税率下调至9% 行业人士：影响不大",
     "source": "财联社",
@@ -990,6 +1009,93 @@
     "publishedAt": "2026-10-12T17:46:15.479Z",
     "collectedAt": "2026-10-12T17:44:30.280Z",
     "excerpt": "关于我们网站声明联系方式用户反馈网站地图帮助首页电报话题盯盘VIPFM投研下载新能源汽车增值税出口退税率下调至9% 行业人士：影响不大、或加速海外布局原创汽车大新闻2026-10-12 21:37 星期一财联社记者 刘阳责编 寇建东①10月12日，财政部发布关于调整部分产品出口退税政策的公告，自2027年4月1日起，将新能源汽车的增值税出口退税率由13%下调"
+  },
+  {
+    "id": "c104e990769ca9dfa059",
+    "title": "2026年9月工程机械行业主要产品销售快报一",
+    "source": "第一工程机械网",
+    "url": "https://news.d1cm.com/20261012193221.shtml",
+    "board": "industry",
+    "metricType": "sales",
+    "metricLabel": "销量",
+    "productTags": [
+      "excavator"
+    ],
+    "companyCodes": [],
+    "period": "2026-09",
+    "value": 22717,
+    "unit": "台",
+    "yoy": 14.4,
+    "mom": null,
+    "publishedAt": "2026-10-12T04:00:00.000Z",
+    "collectedAt": "2026-10-12T17:44:30.280Z",
+    "excerpt": "2026年9月工程机械行业主要产品销售快报一挖掘机 据中国工程机械工业协会对挖掘机主要制造企业统计，2026年9月销售各类挖掘机22717台，同比增长14.4%"
+  },
+  {
+    "id": "4a0ae34dbd16382380b9",
+    "title": "2026年9月工程机械行业主要产品销售快报一",
+    "source": "第一工程机械网",
+    "url": "https://news.d1cm.com/20261012193221.shtml",
+    "board": "industry",
+    "metricType": "sales",
+    "metricLabel": "销量",
+    "productTags": [
+      "excavator"
+    ],
+    "companyCodes": [],
+    "period": "2026-09",
+    "value": 9911,
+    "unit": "台",
+    "yoy": 7.16,
+    "mom": null,
+    "publishedAt": "2026-10-12T04:00:00.000Z",
+    "collectedAt": "2026-10-12T17:44:30.280Z",
+    "excerpt": "其中：国内销量9911台（含电动挖掘机218台），同比增长7.16%"
+  },
+  {
+    "id": "9a01e4ab6b8e0812ee57",
+    "title": "2026年9月工程机械行业主要产品销售快报一",
+    "source": "第一工程机械网",
+    "url": "https://news.d1cm.com/20261012193221.shtml",
+    "board": "industry",
+    "metricType": "sales",
+    "metricLabel": "销量",
+    "productTags": [
+      "excavator",
+      "loader"
+    ],
+    "companyCodes": [],
+    "period": "2026-09",
+    "value": 12806,
+    "unit": "台",
+    "yoy": null,
+    "mom": null,
+    "publishedAt": "2026-10-12T04:00:00.000Z",
+    "collectedAt": "2026-10-12T17:44:30.280Z",
+    "excerpt": "出口12806台（含电动...2026-10-12 20:04 挖掘机装载机销售数据同比增长"
+  },
+  {
+    "id": "8c22c8202640d001e0ae",
+    "title": "上海证券报专访合力：以创新驱动叉车转向智慧物流",
+    "source": "第一工程机械网",
+    "url": "https://news.d1cm.com/20261012193214.shtml",
+    "board": "industry",
+    "metricType": "sales",
+    "metricLabel": "销量",
+    "productTags": [
+      "forklift"
+    ],
+    "companyCodes": [
+      "600761"
+    ],
+    "period": "2026-10",
+    "value": 200,
+    "unit": "亿元",
+    "yoy": null,
+    "mom": null,
+    "publishedAt": "2026-10-12T04:00:00.000Z",
+    "collectedAt": "2026-10-12T17:44:30.280Z",
+    "excerpt": "如今，这家拥有近七十年历史的地方国企正站在新的起点上：营收近200亿元，海外收入占比约45%，电动产品销量占比约74%，主要经济指标连续35年位居国内...2026-10-12 18:12 安徽合力叉车智慧物流杨安国"
   },
   {
     "id": "687e5cf55df4ba700c86",
@@ -2037,25 +2143,6 @@
     "excerpt": "暂停新开户3个月，多名高管遭罚美股收盘：美债风暴持续发酵 油价深夜巨震 Meta涨超4%全球借贷成本攀升 美联储官员密集放鹰 | 环球市场116亿美元买CPU算力"
   },
   {
-    "id": "2172ca660021c209cd17",
-    "title": "2026年1—8月份全国房地产市场基本情况",
-    "source": "国家统计局数据发布",
-    "url": "https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965310.html",
-    "board": "industry",
-    "metricType": "investment",
-    "metricLabel": "投资",
-    "productTags": [],
-    "companyCodes": [],
-    "period": "2026",
-    "value": 47979,
-    "unit": "亿元",
-    "yoy": -19.9,
-    "mom": null,
-    "publishedAt": "2026-09-15T04:00:00.000Z",
-    "collectedAt": "2026-09-15T07:36:34.122Z",
-    "excerpt": "EN 搜索 首页 机构 新闻 时政要闻 统计新闻 数据 公开 服务 互动 知识 专题 2026/09/15 10:00 | Aa 字体： 小 中 大 | 分享到： 一、房地产开发投资完成情况 1—8月份，全国房地产开发投资47979亿元，同比下降19.9%（按可比口径计算，详见附注5）"
-  },
-  {
     "id": "3d71528142b85acfb26a",
     "title": "2026年1—8月份全国固定资产投资基本情况",
     "source": "国家统计局数据发布",
@@ -2073,6 +2160,25 @@
     "publishedAt": "2026-09-15T04:00:00.000Z",
     "collectedAt": "2026-09-15T07:36:34.122Z",
     "excerpt": "EN 搜索 首页 机构 新闻 时政要闻 统计新闻 数据 公开 服务 互动 知识 专题 2026/09/15 10:00 | Aa 字体： 小 中 大 | 分享到： 1—8月份，全国固定资产投资（不含农户）293092亿元，同比下降7.2%（按可比口径计算，详见附注7）"
+  },
+  {
+    "id": "2172ca660021c209cd17",
+    "title": "2026年1—8月份全国房地产市场基本情况",
+    "source": "国家统计局数据发布",
+    "url": "https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965310.html",
+    "board": "industry",
+    "metricType": "investment",
+    "metricLabel": "投资",
+    "productTags": [],
+    "companyCodes": [],
+    "period": "2026",
+    "value": 47979,
+    "unit": "亿元",
+    "yoy": -19.9,
+    "mom": null,
+    "publishedAt": "2026-09-15T04:00:00.000Z",
+    "collectedAt": "2026-09-15T07:36:34.122Z",
+    "excerpt": "EN 搜索 首页 机构 新闻 时政要闻 统计新闻 数据 公开 服务 互动 知识 专题 2026/09/15 10:00 | Aa 字体： 小 中 大 | 分享到： 一、房地产开发投资完成情况 1—8月份，全国房地产开发投资47979亿元，同比下降19.9%（按可比口径计算，详见附注5）"
   },
   {
     "id": "4123f06c162c6ab0a4c2",
