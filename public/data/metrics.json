@@ -502,6 +502,25 @@
     "excerpt": "占乘用车出口60.8%，较去年同期..."
   },
   {
+    "id": "403a313750139638be3e",
+    "title": "国家统计局：10月份制造业采购经理指数（PMI）为49.3%",
+    "source": "财联社",
+    "url": "https://www.cls.cn/detail/2521444",
+    "board": "industry",
+    "metricType": "production",
+    "metricLabel": "产量",
+    "productTags": [],
+    "companyCodes": [],
+    "period": "2030-01",
+    "value": 49.3,
+    "unit": "%",
+    "yoy": null,
+    "mom": null,
+    "publishedAt": "2030-01-03T04:00:00.000Z",
+    "collectedAt": "2026-10-31T13:33:16.739Z",
+    "excerpt": "国家统计局：10月份制造业采购经理指数（PMI）为49.3%"
+  },
+  {
     "id": "59a9127bc2907a6662e0",
     "title": "1至8月集成电路累计出口同比增长103.9%",
     "source": "财联社",
