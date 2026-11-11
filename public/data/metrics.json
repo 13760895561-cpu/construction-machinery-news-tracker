@@ -1053,6 +1053,27 @@
     "excerpt": "美国炼油商股价走低 政府酝酿柴油出口禁令传闻持续发酵特朗普重新定义AI：美国今后将把人工智能称为“超级智能”欧洲九大制药商发布公开信 呼吁政府加大对医药领域的投入欧洲市值最高的企业，竟在欧洲本土“零销售”12.01元/股"
   },
   {
+    "id": "12a254a24883a773069f",
+    "title": "2026年10月工程机械市场指数快报",
+    "source": "第一工程机械网",
+    "url": "https://news.d1cm.com/20261111194080.shtml",
+    "board": "industry",
+    "metricType": "operatingRate",
+    "metricLabel": "开工率",
+    "productTags": [
+      "crawler_crane"
+    ],
+    "companyCodes": [],
+    "period": "2026-10",
+    "value": 72.6,
+    "unit": "小时",
+    "yoy": null,
+    "mom": null,
+    "publishedAt": "2026-11-11T04:00:00.000Z",
+    "collectedAt": "2026-11-11T14:01:10.179Z",
+    "excerpt": "履带起重机72.6小时...2026-11-11 15:26 工程机械市场指数工作时长开工率"
+  },
+  {
     "id": "7ee3beff86ad942039b2",
     "title": "2026年10月份工业生产者出厂价格同比上涨5.7% 环比上涨0.7%",
     "source": "国家统计局数据发布",
