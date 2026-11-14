@@ -521,6 +521,25 @@
     "excerpt": "国家统计局：10月份制造业采购经理指数（PMI）为49.3%"
   },
   {
+    "id": "0ae2e1c7cca39ec477be",
+    "title": "10月出口大增35.2%；英伟达跌破4万亿美元｜一周热点回顾其他热点还有：PPI-CPI剪刀差进一步扩大至5%；10月份个人所得税收入增长近90%。 昨天 11:07",
+    "source": "第一财经",
+    "url": "https://www.yicai.com/news/103440681.html",
+    "board": "industry",
+    "metricType": "export",
+    "metricLabel": "出口",
+    "productTags": [],
+    "companyCodes": [],
+    "period": "2028-11",
+    "value": 35.2,
+    "unit": "%",
+    "yoy": null,
+    "mom": null,
+    "publishedAt": "2028-11-02T04:00:00.000Z",
+    "collectedAt": "2026-11-14T10:05:03.323Z",
+    "excerpt": "10月出口大增35.2%"
+  },
+  {
     "id": "8a7aba2b1fcc22371140",
     "title": "10月中国出口同比增长35.2%！集成电路、自动数据处理设备翻倍，成品油大涨8成",
     "source": "财联社",
@@ -6975,25 +6994,6 @@
     "excerpt": "7月车市淡季现两大亮点：新能源月销占比首超60% 出口连续两月逾百万辆跨界进军光通信，蓝盾光电三连“20CM”涨停7月私募备案创年内新高，头部私募主导备案，小众期权策略备案大增上海印发重磅规划，十万卡集群×4万亿规模，谁在涨停板上“卡位”"
   },
   {
-    "id": "b0c3266d26b8434c6580",
-    "title": "10月出口大增35.2%；英伟达跌破4万亿美元｜一周热点回顾其他热点还有：PPI-CPI剪刀差进一步扩大至5%；10月份个人所得税收入增长近90%。 6小时前",
-    "source": "第一财经",
-    "url": "https://www.yicai.com/news/103440681.html",
-    "board": "industry",
-    "metricType": "export",
-    "metricLabel": "出口",
-    "productTags": [],
-    "companyCodes": [],
-    "period": "2025-11",
-    "value": 35.2,
-    "unit": "%",
-    "yoy": null,
-    "mom": null,
-    "publishedAt": "2025-11-03T04:00:00.000Z",
-    "collectedAt": "2026-11-14T10:05:03.323Z",
-    "excerpt": "10月出口大增35.2%"
-  },
-  {
     "id": "d30ea0e3ae88a0c87f68",
     "title": "开心果价格大涨30%：消费者直呼“不开心了”，涨价原因是什么美国、伊朗等原产地减产，伊朗开心果出口减少等多重因素，导致了国内开心果“身价”大涨。 20分钟前",
     "source": "第一财经",
@@ -8474,6 +8474,25 @@
     "publishedAt": "2025-11-03T04:00:00.000Z",
     "collectedAt": "2026-07-14T12:01:03.213Z",
     "excerpt": "IBI哈萨克斯坦数字经济总部项目落地阿拉木图将在有色金属、农业、能源矿产、装备制造、物流、金融、日化、电子信息等领域展开合作 1小时前"
+  },
+  {
+    "id": "b0c3266d26b8434c6580",
+    "title": "10月出口大增35.2%；英伟达跌破4万亿美元｜一周热点回顾其他热点还有：PPI-CPI剪刀差进一步扩大至5%；10月份个人所得税收入增长近90%。 6小时前",
+    "source": "第一财经",
+    "url": "https://www.yicai.com/news/103440681.html",
+    "board": "industry",
+    "metricType": "export",
+    "metricLabel": "出口",
+    "productTags": [],
+    "companyCodes": [],
+    "period": "2025-11",
+    "value": 35.2,
+    "unit": "%",
+    "yoy": null,
+    "mom": null,
+    "publishedAt": "2025-11-03T04:00:00.000Z",
+    "collectedAt": "2026-11-14T10:05:03.323Z",
+    "excerpt": "10月出口大增35.2%"
   },
   {
     "id": "44c45c5915f07252c45a",
