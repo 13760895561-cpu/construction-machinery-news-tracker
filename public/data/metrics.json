@@ -1072,6 +1072,25 @@
     "excerpt": "美国炼油商股价走低 政府酝酿柴油出口禁令传闻持续发酵特朗普重新定义AI：美国今后将把人工智能称为“超级智能”欧洲九大制药商发布公开信 呼吁政府加大对医药领域的投入欧洲市值最高的企业，竟在欧洲本土“零销售”12.01元/股"
   },
   {
+    "id": "d3ae5a75144e3037074c",
+    "title": "出口暴涨116.6%！国产“新顶流”，全球爆单",
+    "source": "财联社",
+    "url": "https://www.cls.cn/detail/2534745",
+    "board": "industry",
+    "metricType": "export",
+    "metricLabel": "出口",
+    "productTags": [],
+    "companyCodes": [],
+    "period": "2026-11",
+    "value": 116.6,
+    "unit": "%",
+    "yoy": null,
+    "mom": null,
+    "publishedAt": "2026-11-16T01:51:40.918Z",
+    "collectedAt": "2026-11-15T16:57:23.518Z",
+    "excerpt": "出口暴涨116.6%"
+  },
+  {
     "id": "4a80377d9dc63e18d8e4",
     "title": "12+107！百万级CAR-T首次进入医保 新版国家医保商保“双目录”公布",
     "source": "财联社",
@@ -1336,25 +1355,6 @@
     "publishedAt": "2026-11-15T21:40:28.384Z",
     "collectedAt": "2026-11-15T16:57:23.518Z",
     "excerpt": "新版国家医保商保“双目录”公布伊朗称两艘油轮在霍尔木兹海峡触雷爆炸出口暴涨116.6%"
-  },
-  {
-    "id": "d3ae5a75144e3037074c",
-    "title": "出口暴涨116.6%！国产“新顶流”，全球爆单",
-    "source": "财联社",
-    "url": "https://www.cls.cn/detail/2534745",
-    "board": "industry",
-    "metricType": "export",
-    "metricLabel": "出口",
-    "productTags": [],
-    "companyCodes": [],
-    "period": "2026-11",
-    "value": 116.6,
-    "unit": "%",
-    "yoy": null,
-    "mom": null,
-    "publishedAt": "2026-11-15T21:40:28.383Z",
-    "collectedAt": "2026-11-15T16:57:23.518Z",
-    "excerpt": "出口暴涨116.6%"
   },
   {
     "id": "12a254a24883a773069f",
