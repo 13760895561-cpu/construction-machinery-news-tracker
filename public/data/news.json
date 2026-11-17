@@ -1930,6 +1930,26 @@
     "collectedAt": "2026-09-28T15:17:15.904Z"
   },
   {
+    "id": "b8e653cf7bb60966048d",
+    "title": "关于召开“中国工程机械工业协会混凝土机械分会委员会成立会议暨2026混凝土机械行业发展大会”的通知",
+    "url": "https://news.d1cm.com/20261117194416.shtml",
+    "source": "第一工程机械网",
+    "sourceType": "industry_media",
+    "board": "industry",
+    "topicIds": [
+      "association-data",
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [
+      "concrete_machine"
+    ],
+    "metricTags": [],
+    "summary": "关于召开“中国工程机械工业协会混凝土机械分会委员会成立会议暨2026混凝土机械行业发展大会”的通知各会员单位、行业相关单位及媒体： 中国工程机械工业协会混凝土机械分会委员会成立会议暨2026混凝土机械分会“砼筑七十辉煌，智启百年新程”主题行业发展大会拟定于2026年12月10—12日在湖南长沙召开，有关通知如下: ...2026-11-17 20:43 混凝...",
+    "publishedAt": "2026-12-10T04:00:00.000Z",
+    "collectedAt": "2026-11-17T13:05:23.222Z"
+  },
+  {
     "id": "46f95d4c3839fe0e1d4d",
     "title": "北汽蓝谷+9.96%",
     "url": "https://www.cls.cn/stock?code=sh600733",
@@ -2108,27 +2128,33 @@
     "collectedAt": "2026-11-02T18:10:58.176Z"
   },
   {
-    "id": "64d9a210da900301ae9b",
-    "title": "真相曝光！生意难做，原来是二手工程机械的底层逻辑变了",
-    "url": "https://news.d1cm.com/20261111194193.shtml",
+    "id": "4d306586e48395fdf967",
+    "title": "媒体聚焦丨大麓记聚焦中联重科：“氢”装上阵“链”入能源新局",
+    "url": "https://news.d1cm.com/20261117194424.shtml",
     "source": "第一工程机械网",
     "sourceType": "industry_media",
     "board": "industry",
     "topicIds": [
       "association-data",
-      "official-data"
+      "official-data",
+      "company-000157"
     ],
-    "companyCodes": [],
+    "companyCodes": [
+      "000157"
+    ],
     "productTags": [
-      "excavator",
-      "loader"
+      "forklift",
+      "concrete_machine"
     ],
     "metricTags": [
-      "inventory"
+      "sales",
+      "export",
+      "cost",
+      "production"
     ],
     "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
-    "publishedAt": "2026-11-17T13:06:43.009Z",
-    "collectedAt": "2026-11-11T21:15:17.563Z"
+    "publishedAt": "2026-11-17T21:43:49.457Z",
+    "collectedAt": "2026-11-17T21:42:34.139Z"
   },
   {
     "id": "68453a9ac577db7483ae",
@@ -2153,7 +2179,7 @@
       "production"
     ],
     "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
-    "publishedAt": "2026-11-17T13:06:43.008Z",
+    "publishedAt": "2026-11-17T21:43:49.457Z",
     "collectedAt": "2026-11-17T13:05:23.222Z"
   },
   {
@@ -2181,13 +2207,13 @@
       "production"
     ],
     "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
-    "publishedAt": "2026-11-17T13:06:43.008Z",
+    "publishedAt": "2026-11-17T21:43:49.457Z",
     "collectedAt": "2026-11-17T13:05:23.222Z"
   },
   {
-    "id": "b8e653cf7bb60966048d",
-    "title": "关于召开“中国工程机械工业协会混凝土机械分会委员会成立会议暨2026混凝土机械行业发展大会”的通知",
-    "url": "https://news.d1cm.com/20261117194416.shtml",
+    "id": "64d9a210da900301ae9b",
+    "title": "真相曝光！生意难做，原来是二手工程机械的底层逻辑变了",
+    "url": "https://news.d1cm.com/20261111194193.shtml",
     "source": "第一工程机械网",
     "sourceType": "industry_media",
     "board": "industry",
@@ -2195,204 +2221,17 @@
       "association-data",
       "official-data"
     ],
-    "companyCodes": [
-      "600031",
-      "000157"
-    ],
-    "productTags": [
-      "concrete_machine"
-    ],
-    "metricTags": [
-      "production"
-    ],
-    "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
-    "publishedAt": "2026-11-17T13:06:43.008Z",
-    "collectedAt": "2026-11-17T13:05:23.222Z"
-  },
-  {
-    "id": "4373b02618acc87834c2",
-    "title": "关于工程机械行业企业信用等级评价 2025 年度换证和复审结果的公示",
-    "url": "http://www.cncma.org/article/22215",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [
-      "000157",
-      "000528"
-    ],
-    "productTags": [
-      "aerial_platform"
-    ],
-    "metricTags": [
-      "sales"
-    ],
-    "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >相关新闻 >正文 关于工程机械行业企业信用等级评价 2025 年度换证和复审结果的公示 2026年01月06日10:24 相关资讯 关于公布2025 年度企业信用等级评价换证和复审...",
-    "publishedAt": "2026-11-17T13:06:37.752Z",
-    "collectedAt": "2026-06-19T09:21:44.544Z"
-  },
-  {
-    "id": "515ac75ee56950c3240c",
-    "title": "《塔式起重机远程操控系统安全技术规范》团体标准审查会在西安召开",
-    "url": "http://www.cncma.org/article/22870",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [
-      "000157",
-      "000528"
-    ],
-    "productTags": [
-      "tower_crane",
-      "aerial_platform"
-    ],
-    "metricTags": [
-      "sales"
-    ],
-    "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >标准质量 >正文 《塔式起重机远程操控系统安全技术规范》团体标准审查会在西安召开 2026年11月17日09:22 2026年11月6日，由西安丰树电子科技发展有限公司等单位牵头，...",
-    "publishedAt": "2026-11-17T13:06:37.752Z",
-    "collectedAt": "2026-11-17T03:40:36.626Z"
-  },
-  {
-    "id": "0852eb9ba59ce7e96f67",
-    "title": "周卫东：携手搭建国际交流平台，助力工程机械企业拓展海内外市场",
-    "url": "http://www.cncma.org/article/22646",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [
-      "export",
-      "production"
-    ],
-    "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >专家观点 >正文 周卫东：携手搭建国际交流平台，助力工程机械企业拓展海内外市场 2026年07月10日09:59 2026年7月9日，第十八届中国（北京）国际工程机械、建材机械及矿...",
-    "publishedAt": "2026-11-17T13:06:37.752Z",
-    "collectedAt": "2026-07-10T10:37:14.383Z"
-  },
-  {
-    "id": "97059f07cbe36293a95a",
-    "title": "2025年工程机械行业科技奖 2025年度“机械工业科学技术奖”工程机械行业获奖项目。",
-    "url": "http://www.cncma.org/col/hypp/1/6",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
     "companyCodes": [],
     "productTags": [
       "excavator",
-      "loader",
-      "crawler_crane",
-      "tower_crane",
-      "forklift",
-      "aerial_platform",
-      "concrete_machine"
+      "loader"
     ],
     "metricTags": [
-      "production"
+      "inventory"
     ],
-    "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 机械工业科学科技奖 机械工业科学技术奖是根据《国家科学技术奖励条例》和《社会力量设立科学技术奖管理办法》的有关规定，由中国机械工业联台会和中国机械工程学会共同设立并经国家科学技术部批准，在...",
-    "publishedAt": "2026-11-17T13:06:37.752Z",
-    "collectedAt": "2026-06-19T09:21:44.544Z"
-  },
-  {
-    "id": "35a59d789c27ea2c1245",
-    "title": "关于召开“中国工程机械工业协会工程建材制品机械分会委员会成立会议暨2026工程建材制品生产与应用技术交流会”的通知",
-    "url": "http://www.cncma.org/article/22869",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [
-      "production"
-    ],
-    "summary": "关于召开“中国工程机械工业协会工程建材制品机械分会委员会成立会议暨2026工程建材制品生产与应用技术交流会”的通知",
-    "publishedAt": "2026-11-17T13:06:37.752Z",
-    "collectedAt": "2026-11-17T03:40:36.626Z"
-  },
-  {
-    "id": "c6074d8b798515fe652b",
-    "title": "关于召开“中国工程机械工业协会装修与高空作业机械分会委员会成立会议暨行业交流会”的通知",
-    "url": "http://www.cncma.org/article/22862",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "关于召开“中国工程机械工业协会装修与高空作业机械分会委员会成立会议暨行业交流会”的通知",
-    "publishedAt": "2026-11-17T13:06:37.752Z",
-    "collectedAt": "2026-11-16T09:26:11.156Z"
-  },
-  {
-    "id": "f6fce44750d0ecbf7c9b",
-    "title": "关于召开“中国工程机械工业协会挖掘机械分会委员会成立会议暨2026年挖掘机械&工业互联网发展大会”的通知",
-    "url": "http://www.cncma.org/article/22855",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [
-      "excavator"
-    ],
-    "metricTags": [],
-    "summary": "关于召开“中国工程机械工业协会挖掘机械分会委员会成立会议暨2026年挖掘机械&工业互联网发展大会”的通知",
-    "publishedAt": "2026-11-17T13:06:37.752Z",
-    "collectedAt": "2026-11-13T06:30:05.492Z"
-  },
-  {
-    "id": "32b5d5dacb3737da0360",
-    "title": "关于召开“中国工程机械工业协会冰雪运动与应急救援装备分会委员会成立会议暨2026年工作会议”的通知",
-    "url": "http://www.cncma.org/article/22853",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "关于召开“中国工程机械工业协会冰雪运动与应急救援装备分会委员会成立会议暨2026年工作会议”的通知",
-    "publishedAt": "2026-11-17T13:06:37.752Z",
-    "collectedAt": "2026-11-12T02:49:55.478Z"
-  },
-  {
-    "id": "b0a55fde9aff6e0d225f",
-    "title": "关于召开“2026年工业和信息化部冰雪装备行业标准化工作组年会”的通知",
-    "url": "http://www.cncma.org/article/22851",
-    "source": "中国工程机械工业协会",
-    "sourceType": "association",
-    "board": "industry",
-    "topicIds": [
-      "association-data"
-    ],
-    "companyCodes": [],
-    "productTags": [],
-    "metricTags": [],
-    "summary": "关于召开“2026年工业和信息化部冰雪装备行业标准化工作组年会”的通知",
-    "publishedAt": "2026-11-17T13:06:37.752Z",
-    "collectedAt": "2026-11-12T02:49:55.478Z"
+    "summary": "D1CM 阅资讯 看视频 买新机 认证二手机 移动应用 小程序 微信公众号 视频号矩阵 触屏版 商务合作 网站地图 登录 | 注册 蜡笔小新 您好! 退出 官方二维码 关注我们，关注行业前沿资讯，掌握行业未来！ 【扫码关注】 第一工程机械网公众号 与易购机“小易”共同开启 AI新时代 【扫码AI对话】 易购机工程机械报价 为您解读行业前沿技术，感受工程机械无...",
+    "publishedAt": "2026-11-17T21:43:49.457Z",
+    "collectedAt": "2026-11-11T21:15:17.563Z"
   },
   {
     "id": "d118c9187b7cd0650e88",
@@ -2408,7 +2247,7 @@
     "productTags": [],
     "metricTags": [],
     "summary": "关于召开中国工程机械工业协会工程机械租赁分会委员会成立大会暨工程机械租赁行业发展大会的通知",
-    "publishedAt": "2026-11-17T13:06:37.752Z",
+    "publishedAt": "2026-11-17T21:43:44.599Z",
     "collectedAt": "2026-11-10T09:37:38.284Z"
   },
   {
@@ -2427,7 +2266,7 @@
     ],
     "metricTags": [],
     "summary": "关于召开协会二项团体标准审查会暨《臂架式升降工作平台油改电技术规范》团体标准启动会的通知",
-    "publishedAt": "2026-11-17T13:06:37.752Z",
+    "publishedAt": "2026-11-17T21:43:44.599Z",
     "collectedAt": "2026-11-09T07:51:09.426Z"
   },
   {
@@ -2446,7 +2285,7 @@
     ],
     "metricTags": [],
     "summary": "关于召开“协会挖掘机械分会委员会、工业互联网及数据分会委员会成立大会暨2026年挖掘机械&工业互联网及数据行业发展大会”的预通知",
-    "publishedAt": "2026-11-17T13:06:37.752Z",
+    "publishedAt": "2026-11-17T21:43:44.599Z",
     "collectedAt": "2026-11-06T06:25:03.720Z"
   },
   {
@@ -2463,7 +2302,7 @@
     "productTags": [],
     "metricTags": [],
     "summary": "关于召开“中国工程机械工业协会中小企业服务工作委员会委员会成立大会暨2026年工作会议”的通知",
-    "publishedAt": "2026-11-17T13:06:37.752Z",
+    "publishedAt": "2026-11-17T21:43:44.599Z",
     "collectedAt": "2026-11-04T06:00:15.458Z"
   },
   {
@@ -2480,7 +2319,7 @@
     "productTags": [],
     "metricTags": [],
     "summary": "关于召开“中国工程机械工业协会工程起重机分会委员会成立大会暨吊装行业发展大会”的通知",
-    "publishedAt": "2026-11-17T13:06:37.752Z",
+    "publishedAt": "2026-11-17T21:43:44.599Z",
     "collectedAt": "2026-11-03T09:25:18.065Z"
   },
   {
@@ -2497,7 +2336,7 @@
     "productTags": [],
     "metricTags": [],
     "summary": "苏子孟会长受邀出席2026年临沂市高端工程装备产业“四链融合”现场推进会",
-    "publishedAt": "2026-11-17T13:06:37.752Z",
+    "publishedAt": "2026-11-17T21:43:44.599Z",
     "collectedAt": "2026-10-15T04:23:59.292Z"
   },
   {
@@ -2517,7 +2356,7 @@
     "productTags": [],
     "metricTags": [],
     "summary": "吴培国受邀参加安徽合力上市30周年品牌宣传活动",
-    "publishedAt": "2026-11-17T13:06:37.752Z",
+    "publishedAt": "2026-11-17T21:43:44.599Z",
     "collectedAt": "2026-10-12T07:14:46.195Z"
   },
   {
@@ -2534,7 +2373,7 @@
     "productTags": [],
     "metricTags": [],
     "summary": "洞察全球趋势 抢抓战略机遇——中国工程机械工业协会专家讲堂首期线上开讲",
-    "publishedAt": "2026-11-17T13:06:37.752Z",
+    "publishedAt": "2026-11-17T21:43:44.599Z",
     "collectedAt": "2026-09-22T04:40:03.141Z"
   },
   {
@@ -2553,7 +2392,7 @@
       "cost"
     ],
     "summary": "国家发展和改革委员会价格成本和认证中心到协会开展工作调研",
-    "publishedAt": "2026-11-17T13:06:37.752Z",
+    "publishedAt": "2026-11-17T21:43:44.599Z",
     "collectedAt": "2026-09-11T04:25:08.097Z"
   },
   {
@@ -2577,7 +2416,7 @@
       "sales"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >通知公告 >正文 《工程机械行业“十五五”发展规划》全文发布 2026年10月21日09:00 来源：协会宣传工作部 初审：董萌 复审：吕莹 终审：吴培国 编辑：赵利祥 相关资讯 ...",
-    "publishedAt": "2026-11-17T13:06:37.751Z",
+    "publishedAt": "2026-11-17T21:43:44.598Z",
     "collectedAt": "2026-10-21T01:29:53.178Z"
   },
   {
@@ -2603,7 +2442,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >协会活动 >正文 2026智能建造装备与应用发展大会在石家庄召开 2026年10月28日10:07 2026年10月21日，以“数智驱动场景融合”为主题的2026智能建造装备与应用...",
-    "publishedAt": "2026-11-17T13:06:37.751Z",
+    "publishedAt": "2026-11-17T21:43:44.598Z",
     "collectedAt": "2026-10-28T05:24:11.689Z"
   },
   {
@@ -2632,7 +2471,7 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >行业资讯 >正文 2026年度机械工业科学技术奖工程机械行业获奖项目揭晓 2026年10月20日09:00 8月7日，按照机械工业科学技术奖励工作办公室的统一部署，工程机械专业组在...",
-    "publishedAt": "2026-11-17T13:06:37.751Z",
+    "publishedAt": "2026-11-17T21:43:44.598Z",
     "collectedAt": "2026-10-20T04:37:03.733Z"
   },
   {
@@ -2659,8 +2498,234 @@
       "production"
     ],
     "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >分会动态 >正文 协会工业车辆分会2026年工作会议在珠海召开 2026年11月13日09:29 2026年10月30日，以“新质驱动，智领搬运，共赢未来”为主题的中国工程机械工业...",
-    "publishedAt": "2026-11-17T13:06:37.751Z",
+    "publishedAt": "2026-11-17T21:43:44.598Z",
     "collectedAt": "2026-11-13T06:30:05.492Z"
+  },
+  {
+    "id": "4373b02618acc87834c2",
+    "title": "关于工程机械行业企业信用等级评价 2025 年度换证和复审结果的公示",
+    "url": "http://www.cncma.org/article/22215",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [
+      "000157",
+      "000528"
+    ],
+    "productTags": [
+      "aerial_platform"
+    ],
+    "metricTags": [
+      "sales"
+    ],
+    "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >相关新闻 >正文 关于工程机械行业企业信用等级评价 2025 年度换证和复审结果的公示 2026年01月06日10:24 相关资讯 关于公布2025 年度企业信用等级评价换证和复审...",
+    "publishedAt": "2026-11-17T21:43:44.598Z",
+    "collectedAt": "2026-06-19T09:21:44.544Z"
+  },
+  {
+    "id": "515ac75ee56950c3240c",
+    "title": "《塔式起重机远程操控系统安全技术规范》团体标准审查会在西安召开",
+    "url": "http://www.cncma.org/article/22870",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [
+      "000157",
+      "000528"
+    ],
+    "productTags": [
+      "tower_crane",
+      "aerial_platform"
+    ],
+    "metricTags": [
+      "sales"
+    ],
+    "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >标准质量 >正文 《塔式起重机远程操控系统安全技术规范》团体标准审查会在西安召开 2026年11月17日09:22 2026年11月6日，由西安丰树电子科技发展有限公司等单位牵头，...",
+    "publishedAt": "2026-11-17T21:43:44.598Z",
+    "collectedAt": "2026-11-17T03:40:36.626Z"
+  },
+  {
+    "id": "0852eb9ba59ce7e96f67",
+    "title": "周卫东：携手搭建国际交流平台，助力工程机械企业拓展海内外市场",
+    "url": "http://www.cncma.org/article/22646",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "export",
+      "production"
+    ],
+    "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 首页 >专家观点 >正文 周卫东：携手搭建国际交流平台，助力工程机械企业拓展海内外市场 2026年07月10日09:59 2026年7月9日，第十八届中国（北京）国际工程机械、建材机械及矿...",
+    "publishedAt": "2026-11-17T21:43:44.598Z",
+    "collectedAt": "2026-07-10T10:37:14.383Z"
+  },
+  {
+    "id": "97059f07cbe36293a95a",
+    "title": "2025年工程机械行业科技奖 2025年度“机械工业科学技术奖”工程机械行业获奖项目。",
+    "url": "http://www.cncma.org/col/hypp/1/6",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [
+      "excavator",
+      "loader",
+      "crawler_crane",
+      "tower_crane",
+      "forklift",
+      "aerial_platform",
+      "concrete_machine"
+    ],
+    "metricTags": [
+      "production"
+    ],
+    "summary": "点击返回协会首页|欢迎来到欢迎来到中国工程机械工业协会官方网站 English 返回首页| 协会介绍| 市场动态| 行业展会 党建工作| 职业培训| 专题报道| 科技成果 机械工业科学科技奖 机械工业科学技术奖是根据《国家科学技术奖励条例》和《社会力量设立科学技术奖管理办法》的有关规定，由中国机械工业联台会和中国机械工程学会共同设立并经国家科学技术部批准，在...",
+    "publishedAt": "2026-11-17T21:43:44.598Z",
+    "collectedAt": "2026-06-19T09:21:44.544Z"
+  },
+  {
+    "id": "35a59d789c27ea2c1245",
+    "title": "关于召开“中国工程机械工业协会工程建材制品机械分会委员会成立会议暨2026工程建材制品生产与应用技术交流会”的通知",
+    "url": "http://www.cncma.org/article/22869",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "production"
+    ],
+    "summary": "关于召开“中国工程机械工业协会工程建材制品机械分会委员会成立会议暨2026工程建材制品生产与应用技术交流会”的通知",
+    "publishedAt": "2026-11-17T21:43:44.598Z",
+    "collectedAt": "2026-11-17T03:40:36.626Z"
+  },
+  {
+    "id": "c6074d8b798515fe652b",
+    "title": "关于召开“中国工程机械工业协会装修与高空作业机械分会委员会成立会议暨行业交流会”的通知",
+    "url": "http://www.cncma.org/article/22862",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "关于召开“中国工程机械工业协会装修与高空作业机械分会委员会成立会议暨行业交流会”的通知",
+    "publishedAt": "2026-11-17T21:43:44.598Z",
+    "collectedAt": "2026-11-16T09:26:11.156Z"
+  },
+  {
+    "id": "f6fce44750d0ecbf7c9b",
+    "title": "关于召开“中国工程机械工业协会挖掘机械分会委员会成立会议暨2026年挖掘机械&工业互联网发展大会”的通知",
+    "url": "http://www.cncma.org/article/22855",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [
+      "excavator"
+    ],
+    "metricTags": [],
+    "summary": "关于召开“中国工程机械工业协会挖掘机械分会委员会成立会议暨2026年挖掘机械&工业互联网发展大会”的通知",
+    "publishedAt": "2026-11-17T21:43:44.598Z",
+    "collectedAt": "2026-11-13T06:30:05.492Z"
+  },
+  {
+    "id": "32b5d5dacb3737da0360",
+    "title": "关于召开“中国工程机械工业协会冰雪运动与应急救援装备分会委员会成立会议暨2026年工作会议”的通知",
+    "url": "http://www.cncma.org/article/22853",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "关于召开“中国工程机械工业协会冰雪运动与应急救援装备分会委员会成立会议暨2026年工作会议”的通知",
+    "publishedAt": "2026-11-17T21:43:44.598Z",
+    "collectedAt": "2026-11-12T02:49:55.478Z"
+  },
+  {
+    "id": "b0a55fde9aff6e0d225f",
+    "title": "关于召开“2026年工业和信息化部冰雪装备行业标准化工作组年会”的通知",
+    "url": "http://www.cncma.org/article/22851",
+    "source": "中国工程机械工业协会",
+    "sourceType": "association",
+    "board": "industry",
+    "topicIds": [
+      "association-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "关于召开“2026年工业和信息化部冰雪装备行业标准化工作组年会”的通知",
+    "publishedAt": "2026-11-17T21:43:44.598Z",
+    "collectedAt": "2026-11-12T02:49:55.478Z"
+  },
+  {
+    "id": "2875febb78807b2d5439",
+    "title": "以产业合作促进亚太共同繁荣——中集的产业实践与价值贡献",
+    "url": "https://news.d1cm.com/20261117194423.shtml",
+    "source": "第一工程机械网",
+    "sourceType": "industry_media",
+    "board": "industry",
+    "topicIds": [
+      "association-data",
+      "official-data"
+    ],
+    "companyCodes": [],
+    "productTags": [],
+    "metricTags": [
+      "production"
+    ],
+    "summary": "以产业合作促进亚太共同繁荣——中集的产业实践与价值贡献中集热闻以产业合作促进亚太共同繁荣——中集的产业实践与价值贡献 1980年，在中国改革开放前沿的深圳蛇口，中集集团作为首批中外合资企业之一应运而生，从集装箱制造起步，逐步成长为业务遍及全球的多元化产业集团。中集的发展历程...2026-11-17 21:33 中集集团亚太合作产业实践技术创新",
+    "publishedAt": "2026-11-17T04:00:00.000Z",
+    "collectedAt": "2026-11-17T21:42:34.139Z"
+  },
+  {
+    "id": "efc7b9c7ec6e9e02ca1e",
+    "title": "重器将临 | 9400F：大，不止于体量",
+    "url": "https://news.d1cm.com/20261117194420.shtml",
+    "source": "第一工程机械网",
+    "sourceType": "industry_media",
+    "board": "industry",
+    "topicIds": [
+      "association-data",
+      "official-data",
+      "company-000528"
+    ],
+    "companyCodes": [
+      "000528"
+    ],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "重器将临 | 9400F：大，不止于体量...2026-11-17 21:01 柳工9400F重器大",
+    "publishedAt": "2026-11-17T04:00:00.000Z",
+    "collectedAt": "2026-11-17T21:42:34.139Z"
   },
   {
     "id": "4dc52cc30dbf19c655be",
@@ -2704,6 +2769,27 @@
     "summary": "山河智能与华为云签署战略合作协议，共绘工程装备智能化发展新蓝图11月16日，在华为云CloudRobo具身世界模型发布会现场，山河智能与华为云计算技术有限公司（以下简称“华为云”）正式签署战略合作协议。双方将聚焦工程装备具身智能等领域开展深度合作，携手推动人工智能技术与高端装备制造...2026-11-17 18:13 山河智能华为云具身智能矿山装备",
     "publishedAt": "2026-11-17T04:00:00.000Z",
     "collectedAt": "2026-11-17T13:05:23.222Z"
+  },
+  {
+    "id": "1ee279c7c803800f6c93",
+    "title": "以球会友 以赛聚力｜第四届特种设备检验检测行业羽毛球比赛取得圆满成功",
+    "url": "https://news.d1cm.com/20261117194425.shtml",
+    "source": "第一工程机械网",
+    "sourceType": "industry_media",
+    "board": "industry",
+    "topicIds": [
+      "association-data",
+      "official-data",
+      "company-000157"
+    ],
+    "companyCodes": [
+      "000157"
+    ],
+    "productTags": [],
+    "metricTags": [],
+    "summary": "以球会友 以赛聚力｜第四届特种设备检验检测行业羽毛球比赛取得圆满成功11月14日，第十二届特种设备检验检测行业文体交流活动暨第四届特种设备检验检测行业羽毛球比赛在常德举办。来自全国的30支健儿以球会友、以赛聚力，用拼搏展现昂扬向上的精神风貌，诠释守护特种设备安全的使命担当。 ▲ 开幕式...2026-11-17 21:37 中联重科特种设备检验检测羽毛球比赛...",
+    "publishedAt": "2026-11-17T04:00:00.000Z",
+    "collectedAt": "2026-11-17T21:42:34.139Z"
   },
   {
     "id": "7983594021ca1302bdf7",
@@ -2914,9 +3000,10 @@
     "companyCodes": [],
     "productTags": [],
     "metricTags": [
-      "investment"
+      "investment",
+      "production"
     ],
-    "summary": "2026年1—10月份全国固定资产投资基本情况 2026年1—10月份全国固定资产投资基本情况 2026年1—10月份全国固定资产投资基本情况 2026-11-16",
+    "summary": "EN 搜索 首页 机构 新闻 时政要闻 统计新闻 数据 公开 服务 互动 知识 专题 2026/11/16 10:00 | Aa 字体： 小 中 大 | 分享到： 1—10月份，全国固定资产投资（不含农户）364824亿元，同比下降8.1%（按可比口径计算，详见附注7）。其中，知识产权产品投资同比增长9.2%。 分产业看，第一产业投资7018亿元，同比下降6...",
     "publishedAt": "2026-11-16T04:00:00.000Z",
     "collectedAt": "2026-11-16T09:26:11.156Z"
   },
@@ -25219,7 +25306,7 @@
     "productTags": [],
     "metricTags": [],
     "summary": "中集车辆 2026-037 关于聘任总裁的公告",
-    "publishedAt": "2026-09-04T08:06:09.000Z",
+    "publishedAt": "2026-09-04T08:06:08.000Z",
     "collectedAt": "2026-09-04T09:36:49.209Z"
   },
   {
